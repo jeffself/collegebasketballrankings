@@ -3,11 +3,11 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
    2 Virginia                                   17     0     0  1190   860  116.370
    3 Villanova                                  17     1     0  1384  1090  114.127
    4 Kansas                                     14     3     0  1216  1090  113.766
-   5 Wisconsin                                  16     2     0  1320   988  113.659
+   5 Wisconsin                                  16     2     0  1320   988  113.658
    6 Duke                                       15     2     0  1394  1082  113.657
    7 Gonzaga                                    19     1     0  1650  1237  113.606
    8 Arizona                                    16     2     0  1338  1058  113.419
-   9 VA Commonwealth                            15     3     0  1363  1191  113.034
+   9 VA Commonwealth                            15     3     0  1363  1191  113.033
   10 North Carolina                             14     4     0  1422  1169  112.995
   11 Maryland                                   17     2     0  1385  1167  112.889
   12 Notre Dame                                 17     2     0  1553  1189  112.853
@@ -36,22 +36,22 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
   35 Michigan St                                12     6     0  1329  1114  111.004
   36 Colorado St                                17     2     0  1391  1182  111.002
   37 Ohio State                                 14     5     0  1529  1162  110.975
-  38 St John's NY                               12     5     0  1219  1080  110.961
+  38 St John's NY                               12     5     0  1219  1080  110.960
   39 Xavier OH                                  12     6     0  1401  1227  110.830
   40 Georgia                                    11     5     0  1163  1051  110.816
   41 Cincinnati                                 12     5     0  1071   936  110.759
-  42 Miami FL                                   12     5     0  1207  1070  110.745
+  42 Miami FL                                   12     5     0  1207  1070  110.744
   43 Washington                                 13     4     0  1203  1053  110.655
   44 LSU                                        13     4     0  1276  1149  110.619
   45 Indiana                                    19     5     0  2055  1758  110.609
   46 George Washington                          14     4     0  1237  1069  110.557
   47 Davidson                                   12     4     0  1318  1122  110.472
-  48 Alabama                                    12     5     0  1172  1063  110.382
+  48 Alabama                                    12     5     0  1172  1063  110.381
   49 Syracuse                                   15     5     0  1398  1172  110.355
   50 St Mary's CA                               15     3     0  1290  1140  110.350
   51 Tennessee                                  11     5     0  1028   993  110.311
   52 Brigham Young                              15     6     0  1817  1554  110.207
-  53 Texas A&M                                  11     5     0  1090  1002  110.169
+  53 Texas A&M                                  11     5     0  1090  1002  110.168
   54 Mississippi                                11     6     0  1273  1139  110.037
   55 TCU                                        14     3     0  1219   936  109.994
   56 Florida                                    10     7     0  1150   981  109.922
@@ -59,19 +59,19 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
   58 UCLA                                       11     7     0  1320  1254  109.809
   59 Illinois                                   12     7     0  1407  1218  109.645
   60 Stephen F. Austin                          14     3     0  1276  1041  109.538
-  61 Minnesota                                  12     7     0  1499  1271  109.489
+  61 Minnesota                                  12     7     0  1499  1271  109.488
   62 Oregon                                     12     6     0  1400  1276  109.459
   63 Pittsburgh                                 13     5     0  1213  1115  109.454
   64 Purdue                                     11     7     0  1326  1175  109.433
-  65 Kansas St                                  11     7     0  1180  1123  109.401
+  65 Kansas St                                  11     7     0  1180  1123  109.400
   66 Tulsa                                      12     5     0  1134  1042  109.396
-  67 UTEP                                       12     5     0  1187  1049  109.388
-  68 Clemson                                    10     7     0  1079  1052  109.336
+  67 UTEP                                       12     5     0  1187  1049  109.387
+  68 Clemson                                    10     7     0  1079  1052  109.335
   69 Temple                                     12     7     0  1218  1194  109.315
   70 Buffalo                                    12     4     0  1182  1062  109.297
   71 Connecticut                                 9     7     0  1048   970  109.290
   72 South Carolina                             10     6     0  1136   971  109.287
-  73 Rhode Island                               11     5     0  1096   929  109.271
+  73 Rhode Island                               11     5     0  1096   929  109.270
   74 Michigan                                   11     7     0  1179  1123  109.237
   75 Oregon St                                  12     5     0  1094   955  109.231
   76 UW-Green Bay                               15     4     0  1305  1121  109.177
@@ -80,7 +80,7 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
   79 Indianapolis                               15     1     0  1345   997  108.915
   80 Valparaiso                                 17     3     0  1464  1207  108.872
   81 Louisiana Tech                             14     4     0  1360  1188  108.838
-  82 Massachusetts                              10     8     0  1286  1287  108.797
+  82 Massachusetts                              10     8     0  1286  1287  108.796
   83 Harvard                                    10     4     0   897   788  108.796
   84 Colorado                                    9     8     0  1143  1071  108.727
   85 California                                 12     7     0  1278  1185  108.725
@@ -107,8 +107,8 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  106 Iona                                       13     6     0  1578  1446  108.246
  107 Rutgers                                    11     9     0  1230  1234  108.188
  108 Akron                                      12     5     0  1193  1055  108.161
- 109 Boston College                              8     8     0  1038  1016  108.150
- 110 Minn St-Moorhead                           20     1     0  1765  1341  108.132
+ 109 Boston College                              8     8     0  1038  1016  108.149
+ 110 Minn St-Moorhead                           20     1     0  1765  1341  108.134
  111 Long Beach St                               9    11     0  1345  1383  108.130
  112 Auburn                                     10     7     0  1151  1146  108.128
  113 La Salle                                   10     8     0  1152  1112  108.081
@@ -118,7 +118,7 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  117 Kent St                                    12     5     0  1121  1028  107.858
  118 Wake Forest                                 9     9     0  1283  1243  107.857
  119 DePaul                                     10     9     0  1381  1393  107.740
- 120 Florida Southern                           15     1     0  1498  1241  107.723
+ 120 Florida Southern                           15     1     0  1498  1241  107.726
  121 High Point                                 13     4     0  1278  1188  107.708
  122 Creighton                                   9    10     0  1296  1245  107.690
  123 Toledo                                     10     7     0  1282  1182  107.678
@@ -134,16 +134,16 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  133 Eastern Illinois                           12     6     0  1113  1091  107.395
  134 Washington St                               9     8     0  1221  1259  107.375
  135 UW-Parkside                                14     1     0  1170   933  107.353
- 136 Florida St                                  9     9     0  1246  1238  107.346
+ 136 Florida St                                  9     9     0  1246  1238  107.345
  137 Georgia St                                 11     7     0  1331  1195  107.325
  138 Hawai`i                                    13     6     0  1386  1278  107.322
- 139 California Baptist                         14     1     0  1186   971  107.310
+ 139 California Baptist                         14     1     0  1186   971  107.311
  140 Hofstra                                    13     6     0  1503  1283  107.310
  141 Charlotte                                   8     9     0  1245  1242  107.299
  142 Columbia NY                                 9     6     0   960   877  107.292
  143 St Bonaventure                             10     6     0  1107  1028  107.288
  144 Coastal Carolina                           14     4     0  1290  1060  107.282
- 145 Bellarmine                                 13     2     0  1202  1012  107.271
+ 145 Bellarmine                                 13     2     0  1202  1012  107.272
  146 Belmont                                    11     7     0  1326  1303  107.151
  147 Ferris St                                  16     2     0  1453  1147  107.142
  148 Missouri                                    7    10     0  1091  1171  107.138
@@ -152,7 +152,7 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  151 Lafayette                                  11     6     0  1290  1248  107.021
  152 Eastern Kentucky                           11     6     0  1247  1048  106.998
  153 Portland                                   11     8     0  1387  1304  106.984
- 154 Barry                                      13     1     0  1204   989  106.907
+ 154 Barry                                      13     1     0  1204   989  106.908
  155 Ottawa ON                                  24     1     0  2366  1764  106.906
  156 Cleveland St                               11     9     0  1334  1221  106.871
  157 Augustana SD                               18     1     0  1635  1307  106.830
@@ -166,18 +166,18 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  165 New Mexico St                              10    10     0  1370  1262  106.683
  166 Chattanooga                                12     7     0  1374  1266  106.678
  167 Rider                                      12     7     0  1233  1216  106.630
- 168 Gardner-Webb                               12     7     0  1434  1389  106.620
- 169 Angelo St                                  15     1     0  1503  1020  106.504
- 170 Florida Gulf Coast                         12     7     0  1258  1182  106.501
- 171 Northern St                                15     3     0  1410  1301  106.500
+ 168 Gardner-Webb                               12     7     0  1434  1389  106.619
+ 169 Angelo St                                  15     1     0  1503  1020  106.505
+ 170 Northern St                                15     3     0  1410  1301  106.501
+ 171 Florida Gulf Coast                         12     7     0  1258  1182  106.501
  172 Middle Tennessee St                        10     8     0  1095  1083  106.406
- 173 Azusa Pacific                              15     2     0  1445  1223  106.362
+ 173 Azusa Pacific                              15     2     0  1445  1223  106.363
  174 Georgia Southern                           11     4     0  1100   925  106.336
  175 Texas-Arlington                             9     7     0  1146  1137  106.335
  176 St Francis PA                              10     7     0  1126  1099  106.308
  177 San Diego                                   9    11     0  1294  1255  106.268
  178 Oral Roberts                               10     8     0  1228  1213  106.260
- 179 Col-Colorado Springs                       15     2     0  1516  1215  106.255
+ 179 Col-Colorado Springs                       15     2     0  1516  1215  106.256
  180 Texas Southern                              7    10     0  1046  1166  106.253
  181 Sacramento St                              11     6     0  1229  1180  106.245
  182 East Tennessee St                          10     6     0  1254  1217  106.238
@@ -193,17 +193,17 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  192 Lewis                                      12     3     0  1204   975  106.058
  193 Cal Poly SLO                                8     8     0   959   940  106.031
  194 Louisiana-Monroe                           11     6     0  1133  1032  105.999
- 195 St Joseph's PA                              7     9     0  1001  1049  105.999
+ 195 St Joseph's PA                              7     9     0  1001  1049  105.998
  196 Wright St                                  10     9     0  1258  1278  105.990
  197 St Francis NY                              11     8     0  1287  1247  105.984
  198 UNC-Pembroke                               16     1     0  1386  1236  105.984
  199 Mississippi St                              8     9     0  1021  1013  105.978
  200 Detroit Mercy                              12    10     0  1583  1521  105.966
  201 SC-Upstate                                 13     6     0  1348  1102  105.961
- 202 MD-Eastern Shore                           11     9     0  1255  1272  105.954
+ 202 MD-Eastern Shore                           11     9     0  1255  1272  105.953
  203 George Mason                                7    11     0  1196  1221  105.912
  204 Texas St-San Marcos                        10     6     0  1053   949  105.906
- 205 Midwestern St                              15     4     0  1454  1197  105.896
+ 205 Midwestern St                              15     4     0  1454  1197  105.897
  206 San Francisco                               8    11     0  1356  1294  105.877
  207 Saginaw Valley St                          13     2     0  1164  1043  105.874
  208 Alabama-Birmingham                          8    10     0  1184  1231  105.842
@@ -211,17 +211,17 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  210 UNC-Wilmington                              9     8     0  1218  1217  105.805
  211 Pacific CA                                 10     9     0  1258  1254  105.802
  212 Grand Canyon                               11     8     0  1296  1300  105.786
- 213 Point Loma Nazarene                        13     3     0  1135  1001  105.772
- 214 Army                                       11     6     0  1303  1229  105.767
+ 213 Army                                       11     6     0  1303  1229  105.767
+ 214 Point Loma Nazarene                        13     3     0  1142  1009  105.761
  215 Missouri St                                 8    10     0  1139  1136  105.747
- 216 Lincoln Memorial                           16     0     0  1349   980  105.704
+ 216 Lincoln Memorial                           16     0     0  1349   980  105.699
  217 St Louis U.                                 9     9     0  1098  1168  105.634
  218 Virginia Tech                               8     9     0  1157  1139  105.633
  219 St Thomas MN                               13     1     0  1059   829  105.631
  220 Louisiana-Lafayette                        10     7     0  1391  1231  105.610
- 221 Ball St                                     7     8     0  1027   989  105.604
+ 221 Ball St                                     7     8     0  1027   989  105.603
  222 Tarleton St                                14     2     0  1211   972  105.600
- 223 Radford                                    12     7     0  1392  1265  105.580
+ 223 Radford                                    12     7     0  1392  1265  105.579
  224 Minn St-Mankato                            14     4     0  1439  1256  105.562
  225 American Int'l                             12     3     0  1171  1068  105.557
  226 Mt St Mary's MD                             8     9     0  1043  1138  105.556
@@ -232,7 +232,7 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  231 Montana                                     9     8     0  1228  1144  105.520
  232 Mercer                                     11     9     0  1359  1257  105.515
  233 UC-Riverside                                9     9     0  1220  1195  105.489
- 234 Hartford                                   10     7     0  1068  1063  105.431
+ 234 Hartford                                   10     7     0  1068  1063  105.430
  235 Bryant                                      9     7     0  1067  1026  105.398
  236 Monmouth NJ                                10     9     0  1239  1214  105.384
  237 Indiana Wesleyan                           19     1     0  1701  1311  105.360
@@ -251,7 +251,7 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  250 North Florida                              11     9     0  1500  1384  105.196
  251 Vermont                                    12    10     0  1511  1355  105.193
  252 Charleston Southern                        10     7     0  1214  1122  105.179
- 253 Central Missouri                           15     3     0  1369  1211  105.139
+ 253 Central Missouri                           15     3     0  1369  1211  105.140
  254 New Jersey Tech                            10    10     0  1368  1399  105.135
  255 Augustana IL                               16     1     0  1346  1081  105.102
  256 Fresno St                                  10    10     0  1327  1273  105.093
@@ -264,14 +264,14 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  263 S New Hampshire                            10     5     0  1150  1017  105.016
  264 Embry-Riddle FL                            17     0     0  1359  1051  105.013
  265 Princeton                                   7     9     0  1070  1071  105.011
- 266 Lynn                                       12     2     0  1130   947  105.005
+ 266 Lynn                                       12     2     0  1130   947  105.006
  267 Weber St                                    8     9     0  1156  1154  104.982
  268 NW Missouri St                             13     4     0  1315  1114  104.980
- 269 CSU-Stanislaus                             11     4     0   939   922  104.971
+ 269 CSU-Stanislaus                             11     4     0   939   922  104.972
  270 New Haven                                  11     5     0  1093  1026  104.962
  271 Florida Atlantic                            8     8     0  1030  1011  104.926
  272 Bentley                                    12     7     0  1584  1408  104.885
- 273 Nevada                                      7    10     0  1075  1117  104.885
+ 273 Nevada                                      7    10     0  1075  1117  104.884
  274 Drury                                      11     4     0  1091   962  104.868
  275 Manhattan                                   8     9     0  1122  1127  104.844
  276 Northern Arizona                            8    10     0  1203  1241  104.834
@@ -282,14 +282,14 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  281 South Dakota                                9    10     0  1349  1372  104.777
  282 Franklin Pierce                            10     6     0  1245  1202  104.744
  283 Texas-San Antonio                           8     8     0  1146  1143  104.739
- 284 Colorado St-Pueblo                         12     6     0  1492  1340  104.730
+ 284 Colorado St-Pueblo                         12     6     0  1492  1340  104.731
  285 Michigan Tech                              11     4     0  1060   936  104.721
  286 Alabama-Huntsville                         13     4     0  1247  1125  104.695
  287 Brown                                       9     9     0  1209  1234  104.693
  288 Duquesne                                    6    10     0  1135  1132  104.681
  289 Loyola Marymount                            5    14     0  1203  1329  104.677
  290 Portland St                                10     7     0  1260  1227  104.677
- 291 Dixie St                                   10     5     0  1164  1071  104.670
+ 291 Dixie St                                   10     5     0  1164  1071  104.671
  292 Coll of Charleston                          7    13     0  1204  1305  104.665
  293 CSU-Fullerton                               9    10     0  1262  1258  104.632
  294 Dartmouth                                   7     8     0   929   913  104.598
@@ -297,14 +297,14 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  296 Campbellsville                             20     1     0  1685  1436  104.573
  297 Elon                                       11     9     0  1458  1359  104.555
  298 Alabama St                                  9     5     0  1056   992  104.548
- 299 UC-San Diego                                9     6     0   977   930  104.528
+ 299 UC-San Diego                                9     6     0   977   930  104.530
  300 Colgate                                     8    11     0  1214  1200  104.514
  301 Fort Lewis                                 14     4     0  1498  1378  104.513
  302 IUPUI                                       7    12     0  1149  1290  104.497
- 303 North Texas                                 7    10     0  1081  1145  104.485
+ 303 North Texas                                 7    10     0  1081  1145  104.484
  304 Boston U.                                   7    10     0  1143  1172  104.470
  305 Loyola-Maryland                            12    10     0  1370  1455  104.467
- 306 Columbus St                                13     2     0  1230  1088  104.461
+ 306 Columbus St                                13     2     0  1230  1088  104.460
  307 Idaho                                       7     9     0  1243  1203  104.444
  308 Bridgeport                                 10     4     0  1075  1075  104.425
  309 Houston                                     7    10     0  1148  1157  104.367
@@ -313,17 +313,17 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  312 Ashland                                    11     5     0  1176  1025  104.346
  313 Coll of Idaho                              18     3     0  1708  1445  104.342
  314 Chico St                                   10     5     0  1024   930  104.341
- 315 Northern Kentucky                           8    10     0  1234  1240  104.341
+ 315 Northern Kentucky                           8    10     0  1234  1240  104.340
  316 Le Moyne                                   12     5     0  1151  1087  104.326
  317 Missouri-St Louis                          12     4     0  1246  1061  104.308
- 318 Arkansas St                                 8     8     0  1059  1074  104.283
+ 318 Arkansas St                                 8     8     0  1059  1074  104.282
  319 Siena                                       7    10     0  1213  1289  104.280
- 320 Western Oregon                             14     3     0  1334  1112  104.277
+ 320 Western Oregon                             14     3     0  1334  1112  104.278
  321 Southern Indiana                           11     3     0  1141  1014  104.265
- 322 Hope Int'l                                 16     1     0  1340   935  104.262
+ 322 Hope Int'l                                 16     1     0  1340   935  104.263
  323 Holy Cross MA                               6    10     0  1033  1077  104.257
  324 Fordham                                     8    11     0  1227  1271  104.252
- 325 Mount Olive                                15     2     0  1345  1124  104.223
+ 325 Mount Olive                                15     2     0  1345  1124  104.219
  326 East Carolina                               8    10     0  1198  1210  104.205
  327 Delaware St                                 8     9     0  1176  1250  104.177
  328 Florida Int'l                               9     9     0  1117  1122  104.139
@@ -339,28 +339,28 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  338 SE Louisiana                                6    12     0  1261  1321  103.989
  339 Merrimack                                  10     6     0  1311  1212  103.965
  340 UNC-Asheville                               8     8     0  1172  1093  103.941
- 341 Concordia CA                               17     3     0  1626  1438  103.939
- 342 Seattle Pacific                            15     4     0  1552  1195  103.935
- 343 Upper Iowa                                 11     7     0  1527  1470  103.927
+ 341 Concordia CA                               17     3     0  1626  1438  103.940
+ 342 Seattle Pacific                            15     4     0  1552  1195  103.936
+ 343 Upper Iowa                                 11     7     0  1527  1470  103.928
  344 Western Carolina                            8    11     0  1343  1382  103.926
  345 Lamar                                       9     8     0  1248  1206  103.909
  346 Abilene Christian                           9     8     0  1184  1199  103.899
  347 U Sciences Phila                           13     4     0  1211  1040  103.890
- 348 West Texas A&M                             11     6     0  1332  1236  103.880
+ 348 West Texas A&M                             11     6     0  1332  1236  103.881
  349 St Olaf                                    13     1     0  1105   909  103.880
  350 SE Missouri St                             10    10     0  1376  1308  103.853
  351 Charleston WV                              12     4     0  1216  1034  103.836
- 352 Georgia Regents                            12     5     0  1334  1188  103.833
- 353 Union TN                                   13     4     0  1354  1239  103.832
+ 352 Union TN                                   13     4     0  1354  1239  103.832
+ 353 Georgia Regents                            12     5     0  1334  1188  103.830
  354 Richard Stockton                           14     2     0  1084   947  103.829
- 355 Washington MO                              13     1     0  1104   945  103.824
+ 355 Washington MO                              13     1     0  1104   945  103.825
  356 Miami OH                                    6    11     0  1125  1209  103.794
  357 St Edward's                                14     5     0  1378  1323  103.787
- 358 Morehead St                                 7    13     0  1387  1311  103.779
+ 358 Morehead St                                 7    13     0  1387  1311  103.778
  359 West Georgia                               12     4     0  1398  1291  103.769
  360 McNeese St                                  6     9     0  1019  1070  103.760
  361 Navy                                        7    11     0  1103  1184  103.750
- 362 Fairfield                                   6    12     0  1109  1220  103.720
+ 362 Fairfield                                   6    12     0  1109  1220  103.719
  363 Winthrop                                    8     9     0  1267  1190  103.707
  364 Fairleigh Dickinson                         7    10     0  1127  1219  103.690
  365 Arkansas-Little Rock                        6    10     0  1104  1137  103.689
@@ -374,13 +374,13 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  373 TAMU-Corpus Christi                         8     8     0  1057  1055  103.551
  374 Missouri Southern                          11     6     0  1347  1231  103.545
  375 Slippery Rock                              13     5     0  1393  1205  103.533
- 376 Sacred Heart                                7    12     0  1358  1395  103.530
- 377 Shorter                                    12     5     0  1478  1375  103.526
- 378 CSU-San Marcos                             19     4     0  1910  1600  103.511
- 379 UW-Stevens Point                           13     3     0  1081   918  103.511
- 380 Drake                                       4    14     0  1067  1252  103.509
- 381 Briar Cliff                                17     4     0  1693  1477  103.508
- 382 West Alabama                               12     7     0  1446  1328  103.478
+ 376 Sacred Heart                                7    12     0  1358  1395  103.529
+ 377 Shorter                                    12     5     0  1478  1375  103.525
+ 378 West Alabama                               12     7     0  1446  1318  103.512
+ 379 CSU-San Marcos                             19     4     0  1910  1600  103.512
+ 380 UW-Stevens Point                           13     3     0  1081   918  103.511
+ 381 Drake                                       4    14     0  1067  1252  103.509
+ 382 Briar Cliff                                17     4     0  1693  1477  103.508
  383 Troy                                        7     8     0  1033  1048  103.469
  384 Northwood MI                               10     6     0  1220  1174  103.463
  385 Daemen                                     11     4     0  1239  1148  103.459
@@ -398,14 +398,14 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  397 Western Illinois                            8    10     0  1157  1231  103.304
  398 Drexel                                      4    13     0   967  1074  103.298
  399 Fairmont St                                11     6     0  1424  1356  103.273
- 400 Hampton                                     8     9     0  1078  1135  103.224
- 401 King TN                                    14     3     0  1446  1149  103.211
- 402 Pennsylvania                                4     9     0   837   890  103.209
- 403 Morningside                                16     3     0  1613  1406  103.206
- 404 Concordia OR                               16     5     0  1638  1512  103.203
- 405 LIU-Brooklyn                                6    11     0  1138  1209  103.191
- 406 Lindenwood                                 11     6     0  1269  1130  103.187
- 407 Fort Hays St                               11     6     0  1348  1109  103.182
+ 400 Hampton                                     8     9     0  1078  1135  103.223
+ 401 Pennsylvania                                4     9     0   837   890  103.208
+ 402 Morningside                                16     3     0  1613  1406  103.207
+ 403 Concordia OR                               16     5     0  1638  1512  103.204
+ 404 LIU-Brooklyn                                6    11     0  1138  1209  103.191
+ 405 Lindenwood                                 11     6     0  1269  1130  103.188
+ 406 Fort Hays St                               11     6     0  1348  1109  103.182
+ 407 King TN                                    14     3     0  1446  1159  103.177
  408 Franklin & Marshall                        14     1     0  1137   920  103.176
  409 Concordia-St Paul                          11     6     0  1208  1087  103.151
  410 VMI                                         7    12     0  1576  1538  103.148
@@ -416,7 +416,7 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  415 Illinois-Chicago                            8    16     0  1586  1628  103.119
  416 Howard                                      9    10     0  1205  1200  103.118
  417 Appalachian St                              5    10     0   961  1072  103.118
- 418 Southern Oregon                            17     3     0  1606  1446  103.112
+ 418 Southern Oregon                            17     3     0  1606  1446  103.113
  419 McMaster                                   16     4     0  1758  1546  103.103
  420 IPFW                                       11    11     0  1596  1508  103.098
  421 Martin Methodist                           17     2     0  1548  1297  103.095
@@ -424,35 +424,35 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  423 New Orleans                                 5     8     0   922   980  103.053
  424 Southern Miss                               6    11     0  1045  1176  103.035
  425 Winona St                                  10     7     0  1264  1145  103.022
- 426 Adams St                                    9     7     0  1321  1175  103.015
+ 426 Adams St                                    9     7     0  1321  1175  103.016
  427 East Stroudsburg                           11     5     0  1353  1122  103.010
  428 Ouachita Baptist                           11     4     0  1168  1042  103.004
  429 Nebraska-Kearney                           10     5     0  1170  1115  102.992
- 430 North Georgia                              11     4     0  1222  1163  102.991
+ 430 North Georgia                              11     4     0  1222  1163  102.990
  431 Wooster                                    13     2     0  1256  1046  102.986
- 432 Winston-Salem                              10     5     0  1216  1102  102.977
+ 432 Winston-Salem                              10     5     0  1216  1102  102.978
  433 Babson                                     13     2     0  1046   902  102.923
  434 Lander                                     13     3     0  1249  1153  102.919
  435 Arizona Christian                          16     4     0  1761  1433  102.896
  436 Texas-Permian Basin                        11     5     0  1391  1229  102.887
  437 Texas-Pan American                          7    12     0  1242  1385  102.864
- 438 Marshall                                    4    14     0  1190  1284  102.858
- 439 Benedictine KS                             16     4     0  1345  1183  102.857
+ 438 Benedictine KS                             16     4     0  1345  1183  102.857
+ 439 Marshall                                    4    14     0  1190  1284  102.856
  440 UMKC                                        6    13     0  1265  1339  102.832
  441 Findlay                                     7     7     0  1001   942  102.810
  442 Davenport                                  17     3     0  1530  1260  102.790
- 443 St Cloud St                                10     8     0  1451  1312  102.783
- 444 Wagner                                      5    12     0  1187  1293  102.774
- 445 Windsor                                    18     5     0  1900  1667  102.759
- 446 Eckerd                                      9     7     0  1147  1137  102.757
+ 443 St Cloud St                                10     8     0  1451  1312  102.784
+ 444 Wagner                                      5    12     0  1187  1293  102.773
+ 445 Eckerd                                      9     7     0  1147  1137  102.760
+ 446 Windsor                                    18     5     0  1900  1667  102.759
  447 North Central IL                           13     3     0  1143  1031  102.731
  448 Johns Hopkins                              13     2     0  1074   889  102.699
  449 Talladega                                  16     3     0  1497  1312  102.694
- 450 Concord                                    10     5     0  1227  1165  102.692
+ 450 Concord                                    10     5     0  1227  1165  102.693
  451 Austin Peay                                 6    12     0  1184  1299  102.653
  452 SW Minnesota St                             9    10     0  1509  1479  102.649
  453 WPI                                        14     2     0  1091   931  102.628
- 454 Samford                                     7    14     0  1413  1515  102.619
+ 454 Samford                                     7    14     0  1413  1515  102.618
  455 Virginia Wesleyan                          13     2     0  1200  1003  102.610
  456 South Alabama                               5    12     0  1211  1265  102.609
  457 Southern Arkansas                          11     5     0  1167  1071  102.577
@@ -461,27 +461,27 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  460 Eastern Conn St                            13     3     0  1206   988  102.570
  461 Christian Brothers                          8     7     0  1055   994  102.567
  462 CSU-Bakersfield                             6    13     0  1197  1175  102.563
- 463 Central Oklahoma                           12     7     0  1594  1444  102.562
+ 463 Central Oklahoma                           12     7     0  1594  1444  102.563
  464 St Norbert                                 13     1     0  1123   874  102.557
- 465 Alderson-Broaddus                          11     5     0  1116  1100  102.555
- 466 Humboldt St                                11     5     0  1353  1184  102.552
+ 465 Alderson-Broaddus                          11     5     0  1116  1100  102.556
+ 466 Humboldt St                                11     5     0  1353  1184  102.553
  467 Southern Utah                               5    11     0  1095  1184  102.545
- 468 Niagara NY                                  3    14     0  1074  1221  102.544
- 469 Hardin-Simmons                             13     2     0  1190  1034  102.544
+ 468 Hardin-Simmons                             13     2     0  1190  1034  102.544
+ 469 Niagara NY                                  3    14     0  1074  1221  102.544
  470 Cornerstone                                16     4     0  1598  1353  102.540
- 471 Rogers St                                  10     6     0  1240  1097  102.525
+ 471 Rogers St                                  10     6     0  1240  1097  102.526
  472 Our Lady of the Lake                       12     4     0  1288  1134  102.519
  473 Grand Valley St                            10     7     0  1182  1121  102.518
- 474 Hillsdale                                   8     7     0  1038  1009  102.479
+ 474 Hillsdale                                   8     7     0  1038  1009  102.480
  475 Furman                                      5    12     0  1117  1199  102.477
  476 Dickinson                                  13     2     0  1126   950  102.476
  477 Wayland Baptist                            15     4     0  1659  1347  102.474
  478 Walsh                                       7     7     0  1029  1002  102.472
- 479 Minn-Duluth                                11    10     0  1446  1457  102.465
- 480 Campbell                                    7    12     0  1221  1231  102.438
+ 479 Minn-Duluth                                11    10     0  1446  1457  102.466
+ 480 Campbell                                    7    12     0  1221  1231  102.437
  481 Elmhurst                                   13     3     0  1219  1045  102.433
- 482 Nova Southeastern                           6     8     0  1015   991  102.419
- 483 Sonoma St                                   8     6     0   940   917  102.418
+ 482 Nova Southeastern                           6     8     0  1015   991  102.420
+ 483 Sonoma St                                   8     6     0   940   917  102.419
  484 Grace IN                                   15     6     0  1473  1341  102.412
  485 Cumberlands KY                             16     4     0  1417  1180  102.403
  486 Philadelphia                               10     5     0  1020   968  102.400
@@ -493,7 +493,7 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  492 Rhode Island Coll                          12     3     0   995   864  102.339
  493 Jacksonville St                             8    12     0  1252  1361  102.312
  494 Assumption                                  7     9     0  1079  1085  102.266
- 495 CSU-San Bernardino                          7     7     0   988   995  102.262
+ 495 CSU-San Bernardino                          7     7     0   988   995  102.263
  496 Freed-Hardeman                             15     2     0  1335  1112  102.223
  497 Mid-America Christian                      13     6     0  1592  1435  102.187
  498 St Leo                                     10     7     0  1132  1032  102.170
@@ -507,13 +507,13 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  506 Dalton St                                  15     2     0  1323  1128  102.099
  507 Illinois Wesleyan                          12     4     0  1262  1038  102.088
  508 Maryville MO                               10     6     0  1157  1036  102.001
- 509 Central Washington                         10     4     0  1099  1001  101.991
+ 509 Central Washington                         10     4     0  1099  1001  101.992
  510 East Central                               12     5     0  1355  1217  101.968
- 511 San Francisco St                            6    10     0   922   999  101.959
- 512 Minot St                                   10     9     0  1416  1425  101.953
+ 511 San Francisco St                            6    10     0   922   999  101.961
+ 512 Minot St                                   10     9     0  1416  1425  101.954
  513 Lincoln PA                                 11     6     0  1242  1216  101.952
  514 Longwood                                    7    13     0  1407  1472  101.947
- 515 Newberry                                   13     3     0  1529  1329  101.941
+ 515 Newberry                                   13     3     0  1529  1329  101.939
  516 Kutztown                                   12     7     0  1407  1348  101.909
  517 Prairie View A&M                            3    14     0  1023  1188  101.889
  518 Case Western Reserve                       12     2     0  1122  1002  101.882
@@ -522,22 +522,22 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  521 Columbia MO                                16     3     0  1417  1038  101.840
  522 Montana-Western                            15     4     0  1582  1323  101.836
  523 Delaware                                    3    14     0  1059  1234  101.826
- 524 Virginia St                                11     5     0  1158  1059  101.816
+ 524 Virginia St                                11     5     0  1158  1059  101.818
  525 Rowan                                      12     3     0  1166   966  101.812
  526 UNC-Greensboro                              6    13     0  1331  1392  101.797
  527 Montana St                                  3    14     0  1028  1186  101.787
  528 Bates                                      11     4     0  1011   965  101.777
  529 Keene St                                   12     2     0  1221  1069  101.764
- 530 Arkansas-Fort Smith                         8     9     0  1432  1290  101.753
+ 530 Arkansas-Fort Smith                         8     9     0  1432  1290  101.754
  531 Ohio Wesleyan                              12     3     0  1229  1130  101.748
  532 Lee TN                                      9     7     0  1160  1123  101.735
  533 Kennesaw St                                 5    14     0  1222  1438  101.711
  534 Morgan St                                   4    15     0  1125  1325  101.687
- 535 Clayton St                                 12     5     0  1202  1109  101.686
+ 535 Clayton St                                 12     5     0  1202  1109  101.685
  536 Whitworth                                  13     3     0  1223   989  101.666
  537 Middlebury                                 12     2     0  1102   879  101.665
  538 Central St OH                              10     6     0  1124  1133  101.662
- 539 Warner U.                                  12     4     0  1233   993  101.647
+ 539 Warner U.                                  12     4     0  1233   993  101.646
  540 Rutgers-Newark                             12     4     0  1070   965  101.624
  541 Emporia St                                  9     8     0  1183  1130  101.618
  542 MIT                                        11     4     0   958   828  101.609
@@ -545,32 +545,32 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  544 Idaho St                                    4    14     0  1108  1205  101.592
  545 Northwestern OH                            15     5     0  1514  1361  101.591
  546 LSU-Alexandria                              9     6     0  1129  1097  101.576
- 547 Chaminade                                   6     9     0  1231  1244  101.564
+ 547 Chaminade                                   6     9     0  1231  1244  101.563
  548 Quincy                                      8    10     0  1440  1396  101.563
  549 Savannah St                                 4    13     0   943  1224  101.555
  550 Catholic                                   13     3     0  1168  1018  101.554
  551 Westmont                                   14     6     0  1488  1323  101.520
  552 Claremont-Mudd-Scripps                     11     3     0   981   743  101.513
- 553 Florida Tech                               10     8     0  1379  1413  101.476
+ 553 Florida Tech                               10     8     0  1379  1413  101.477
  554 Hawai`i-Hilo                                7     8     0  1150  1149  101.471
  555 Lubbock Christian                           8     6     0   992   953  101.461
- 556 South Carolina St                           5    14     0  1076  1287  101.461
+ 556 South Carolina St                           5    14     0  1076  1287  101.460
  557 Vanguard                                   12     9     0  1619  1393  101.426
- 558 Colorado Christian                          9    10     0  1351  1314  101.420
+ 558 Colorado Christian                          9    10     0  1351  1314  101.421
  559 Shepherd                                   10     6     0  1304  1274  101.409
  560 Molloy                                      9     6     0  1099  1073  101.390
  561 Albertus Magnus                            13     1     0  1346  1141  101.354
- 562 Mississippi College                         7     9     0  1152  1195  101.349
+ 562 Mississippi College                         7     9     0  1152  1195  101.348
  563 Notre Dame OH                               9     7     0  1332  1321  101.342
  564 Hope                                        9     7     0  1234  1121  101.338
  565 North Carolina A&T                          5    14     0  1112  1254  101.336
  566 Nicholls St                                 4    10     0   886  1045  101.330
- 567 CSU-Monterey Bay                            8     8     0  1168  1177  101.305
+ 567 CSU-Monterey Bay                            8     8     0  1168  1177  101.306
  568 Victoria                                   14     7     0  1534  1439  101.280
  569 Evangel                                    11     6     0  1303  1263  101.265
  570 St Francis IL                              15     6     0  1531  1463  101.260
  571 Livingstone                                10     6     0  1256  1200  101.252
- 572 Dominican CA                                7    10     0  1213  1206  101.246
+ 572 Dominican CA                                7    10     0  1213  1206  101.247
  573 McKendree                                   8     7     0  1128  1065  101.245
  574 Baldwin Wallace                            12     3     0  1228  1000  101.230
  575 Alabama A&M                                 4    11     0   870  1010  101.225
@@ -581,9 +581,9 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  580 Johnson & Wales RI                         12     3     0  1123   925  101.164
  581 Arkansas-Pine Bluff                         3    15     0  1007  1251  101.159
  582 Coll of the Ozarks MO                      12     4     0  1426  1263  101.144
- 583 Fayetteville St                            10     7     0  1399  1325  101.140
- 584 Jacksonville FL                             7    13     0  1232  1408  101.133
- 585 Oklahoma Baptist U.                        15     3     0  1541  1277  101.133
+ 583 Fayetteville St                            10     7     0  1399  1325  101.144
+ 584 Oklahoma Baptist U.                        15     3     0  1541  1277  101.133
+ 585 Jacksonville FL                             7    13     0  1232  1408  101.133
  586 Montevallo                                 11     7     0  1359  1272  101.131
  587 Sioux Falls                                 7    11     0  1228  1336  101.130
  588 Missouri Western                            8     8     0  1095  1090  101.113
@@ -597,7 +597,7 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  596 Washburn                                    9    10     0  1332  1296  101.039
  597 Calvin                                     11     5     0  1215  1151  101.032
  598 Mary Hardin-Baylor                         11     4     0  1105  1056  101.023
- 599 Newman                                      7     7     0  1095  1102  101.000
+ 599 Newman                                      7     7     0  1095  1102  101.001
  600 St John Fisher                             12     2     0  1062   838  100.980
  601 Dubuque                                    12     3     0  1132   999  100.970
  602 Lynchburg                                  10     5     0  1041   918  100.959
@@ -606,26 +606,26 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  605 Wheeling Jesuit                             7     7     0  1097  1061  100.921
  606 Williams                                   11     5     0  1225  1137  100.919
  607 Caldwell                                    9     7     0  1213  1173  100.918
- 608 Alaska-Anchorage                           10    10     0  1499  1386  100.907
+ 608 Alaska-Anchorage                           10    10     0  1499  1386  100.908
  609 Gustavus Adolphus                           9     4     0   890   812  100.907
  610 Mount Union                                11     4     0  1284  1105  100.900
  611 Eastern Nazarene                           14     1     0  1150   974  100.887
- 612 SW Baptist                                  8    10     0  1212  1218  100.854
+ 612 SW Baptist                                  8    10     0  1212  1218  100.855
  613 UNB                                        18     5     0  2040  1770  100.842
  614 UW-Platteville                             11     6     0  1167  1065  100.825
  615 Centre                                     11     3     0   977   826  100.825
- 616 Chicago St                                  4    15     0  1117  1302  100.822
- 617 SW Oklahoma St                             10     6     0  1090  1062  100.822
- 618 William Carey                              12     5     0  1308  1230  100.807
+ 616 SW Oklahoma St                             10     6     0  1090  1062  100.822
+ 617 Chicago St                                  4    15     0  1117  1302  100.822
+ 618 William Carey                              12     5     0  1308  1230  100.806
  619 Augsburg                                    8     5     0   857   829  100.802
- 620 Valdosta St                                 8     9     0  1305  1319  100.795
- 621 East Texas Baptist                         11     4     0  1159  1015  100.789
- 622 Malone                                      5    12     0  1144  1250  100.781
- 623 North Alabama                               6    12     0  1364  1444  100.776
- 624 Bethel MN                                   9     4     0   943   823  100.775
- 625 Dordt                                      14     7     0  1866  1669  100.764
- 626 Tiffin                                      6    12     0  1185  1289  100.747
- 627 Arkansas Tech                               8    10     0  1223  1272  100.731
+ 620 East Texas Baptist                         11     4     0  1159  1015  100.789
+ 621 Malone                                      5    12     0  1144  1250  100.781
+ 622 North Alabama                               6    12     0  1364  1444  100.776
+ 623 Bethel MN                                   9     4     0   943   823  100.776
+ 624 Dordt                                      14     7     0  1866  1669  100.764
+ 625 Valdosta St                                 8     9     0  1295  1319  100.758
+ 626 Tiffin                                      6    12     0  1185  1289  100.748
+ 627 Arkansas Tech                               8    10     0  1223  1272  100.732
  628 Post                                        7     8     0  1066  1056  100.706
  629 Pitt-Johnstown                              9     7     0  1254  1156  100.705
  630 Cardinal Stritch                           13     7     0  1547  1420  100.691
@@ -633,10 +633,10 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  632 Mt Vernon Nazarene                         12     8     0  1430  1381  100.681
  633 Amherst                                    11     4     0  1119  1008  100.678
  634 St John's MN                                7     6     0   950   943  100.675
- 635 Stillman                                    8     7     0  1115  1100  100.666
+ 635 Stillman                                    8     7     0  1115  1100  100.665
  636 Christopher Newport                        11     4     0  1100   987  100.663
- 637 Xavier NO                                  13     6     0  1361  1267  100.660
- 638 UPR-Bayamón                                 5     7     0   791   887  100.660
+ 637 UPR-Bayamón                                 5     7     0   791   887  100.660
+ 638 Xavier NO                                  13     6     0  1361  1267  100.660
  639 Bowdoin                                    11     4     0  1032   918  100.658
  640 Rhodes                                     11     3     0   985   862  100.655
  641 Baruch                                     12     4     0  1122  1015  100.628
@@ -647,31 +647,31 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  646 Liberty                                     6    13     0  1181  1223  100.580
  647 LIU-C.W. Post                               7     8     0  1086  1089  100.572
  648 Presbyterian                                6    13     0  1185  1337  100.561
- 649 LeMoyne-Owen                                9     7     0  1250  1215  100.554
+ 649 LeMoyne-Owen                                9     7     0  1250  1215  100.556
  650 Mary                                        5    11     0  1144  1201  100.550
  651 Buena Vista                                10     5     0  1223  1142  100.546
  652 Rollins                                     7     9     0  1089  1043  100.527
- 653 TAMU-Kingsville                             6    11     0  1226  1282  100.522
- 654 Union KY                                   14     4     0  1534  1154  100.511
+ 653 TAMU-Kingsville                             6    11     0  1226  1282  100.523
+ 654 Union KY                                   14     4     0  1534  1154  100.510
  655 Great Falls                                15     5     0  1527  1277  100.483
  656 Millersville                                9     9     0  1253  1296  100.479
  657 St Rose                                     5    12     0  1072  1214  100.471
  658 John Carroll                               10     4     0  1255  1084  100.470
- 659 Queens NC                                  10     7     0  1284  1164  100.469
- 660 Wingate                                     9     7     0  1093  1092  100.462
+ 659 Queens NC                                  10     7     0  1284  1164  100.468
+ 660 Wingate                                     9     7     0  1093  1092  100.461
  661 Bethune-Cookman                             5    13     0  1041  1134  100.461
  662 Monmouth IL                                12     3     0  1122  1052  100.455
  663 Northern Michigan                           6    10     0   998  1075  100.433
- 664 Johnson C. Smith                            9     9     0  1400  1365  100.432
+ 664 Johnson C. Smith                            9     9     0  1400  1365  100.430
  665 Trinity CT                                 13     4     0  1179  1038  100.409
  666 Missouri S&T                                8     8     0  1353  1322  100.408
  667 San José St                                 2    16     0   977  1226  100.382
  668 Guilford                                   11     4     0  1071  1015  100.373
  669 MD-Baltimore County                         2    15     0   947  1128  100.359
  670 Dowling                                     6     8     0  1099  1135  100.353
- 671 Oregon Tech                                14     7     0  1698  1462  100.350
+ 671 Oregon Tech                                14     7     0  1698  1462  100.351
  672 Susquehanna                                12     4     0  1250  1086  100.342
- 673 Oklahoma City                               6     6     0  1007   989  100.338
+ 673 Oklahoma City                               6     6     0  1007   989  100.339
  674 Texas Wesleyan                             12     4     0  1332  1205  100.330
  675 WV Wesleyan                                 7     9     0   971   990  100.325
  676 AIB Coll Bus                               13     5     0  1319  1260  100.295
@@ -683,29 +683,29 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  682 Lewis-Clark St ID                          15     5     0  1829  1366  100.238
  683 William Jewell                              7     9     0  1123  1177  100.207
  684 Saskatchewan                               14     8     0  1799  1594  100.179
- 685 Anderson SC                                 8     8     0  1099  1138  100.173
+ 685 Anderson SC                                 8     8     0  1099  1138  100.171
  686 Philander Smith                            12     4     0  1428  1167  100.167
  687 Oglethorpe                                 12     3     0  1244  1088  100.162
  688 West Chester                                7    11     0  1340  1346  100.151
- 689 Alcorn St                                   4    13     0  1061  1266  100.143
- 690 Ohio Dominican                              5    11     0  1083  1230  100.139
- 691 Scranton                                   12     4     0  1119  1053  100.134
- 692 Academy of Art                              3    11     0   989  1096  100.132
+ 689 Academy of Art                              3    11     0   997  1103  100.146
+ 690 Alcorn St                                   4    13     0  1061  1266  100.143
+ 691 Ohio Dominican                              5    11     0  1083  1230  100.140
+ 692 Scranton                                   12     4     0  1119  1053  100.134
  693 Skidmore                                    8     5     0   904   829  100.126
- 694 Life GA                                     9     7     0  1355  1268  100.123
+ 694 Life GA                                     9     7     0  1355  1268  100.122
  695 Fraser Valley                              17     7     0  1915  1758  100.093
  696 Langston                                    7     8     0  1067  1057  100.084
  697 Defiance                                   11     4     0  1087   948  100.081
- 698 Marist                                      1    17     0  1047  1239  100.072
+ 698 Marist                                      1    17     0  1047  1239  100.071
  699 Southern Vermont                           12     3     0  1083   957  100.058
- 700 Cincinnati Christian U.                    14     7     0  1600  1472  100.058
+ 700 Cincinnati Christian U.                    14     7     0  1600  1472  100.057
  701 Texas-Dallas                               10     5     0  1103  1033  100.040
  702 Tennessee St                                3    17     0  1173  1362  100.032
- 703 TAMU-Int'l                                  8     9     0  1263  1242  100.023
+ 703 TAMU-Int'l                                  8     9     0  1263  1242  100.024
  704 Harding                                     7     8     0  1164  1104  100.023
  705 Wheaton IL                                  8     8     0  1165  1115  100.021
  706 Henderson St                                7     8     0  1063  1046  100.021
- 707 Lenoir-Rhyne                                7     7     0   970   986  100.011
+ 707 Lenoir-Rhyne                                7     7     0   970   986  100.010
  708 Alvernia                                    9     6     0  1047   961  100.007
  709 Alberta                                    13    10     0  1640  1600  100.003
  710 Central Methodist                          12     5     0  1351  1144   99.987
@@ -719,7 +719,7 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  718 Dominican NY                                5    10     0  1111  1163   99.918
  719 Lewis & Clark OR                            9     6     0   977  1004   99.917
  720 Ashford                                    11    10     0  1413  1313   99.917
- 721 Whitman                                    10     6     0  1376  1115   99.910
+ 721 Whitman                                    10     6     0  1376  1115   99.911
  722 Aurora                                     13     5     0  1406  1292   99.910
  723 Carroll MT                                 13     8     0  1452  1442   99.898
  724 Central Connecticut St                      2    17     0  1114  1354   99.897
@@ -729,17 +729,17 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  728 Mansfield                                   7     9     0  1164  1192   99.860
  729 Shaw                                        9     8     0  1196  1137   99.855
  730 Misericordia                               11     4     0   971   876   99.850
- 731 Trine                                      10     6     0  1069   977   99.841
+ 731 Trine                                      10     6     0  1069   977   99.842
  732 Montana Tech                               12     6     0  1353  1215   99.840
  733 NYU                                        10     4     0  1031   874   99.836
  734 Colby                                      10     6     0  1215  1136   99.832
- 735 Western Washington                          9     8     0  1394  1229   99.830
+ 735 Western Washington                          9     8     0  1394  1229   99.831
  736 Louisiana College                           7     8     0  1120  1209   99.829
  737 IU East                                    16     7     0  1833  1691   99.821
  738 St Ambrose                                 11     9     0  1527  1534   99.820
  739 Ramapo                                     10     6     0  1213  1172   99.813
  740 Bemidji St                                  7     9     0  1197  1191   99.811
- 741 Binghamton                                  2    18     0  1142  1367   99.810
+ 741 Binghamton                                  2    18     0  1142  1367   99.809
  742 Shippensburg                                8     8     0  1120  1085   99.808
  743 Fitchburg St                               11     4     0  1134   977   99.808
  744 Eastern Mennonite                          11     4     0  1171  1117   99.803
@@ -749,62 +749,62 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  748 St Mary's MD                                9     4     0   928   810   99.784
  749 Goshen                                     12     9     0  1477  1452   99.782
  750 Westminster UT                              8    10     0  1388  1336   99.775
- 751 Armstrong Atl St                            5     9     0  1007  1110   99.748
+ 751 Armstrong Atl St                            5     9     0  1007  1110   99.747
  752 Asbury                                     14     6     0  1683  1501   99.731
  753 Bethel TN                                  14     5     0  1521  1441   99.722
  754 Huntington IN                              12     8     0  1439  1398   99.701
- 755 Biola                                      13     7     0  1370  1286   99.691
- 756 Seton Hill                                  6    10     0  1077  1195   99.677
- 757 Albion                                      8     7     0   953   897   99.676
- 758 Barton                                     10     7     0  1444  1387   99.674
- 759 Northwest Nazarene                          7    12     0  1305  1420   99.672
+ 755 Barton                                     10     7     0  1454  1387   99.699
+ 756 Biola                                      13     7     0  1370  1286   99.691
+ 757 Seton Hill                                  6    10     0  1077  1195   99.677
+ 758 Albion                                      8     7     0   953   897   99.676
+ 759 Northwest Nazarene                          7    12     0  1305  1420   99.673
  760 Maine                                       2    17     0  1195  1460   99.649
- 761 Johnson & Wales FL                         11     4     0  1092   972   99.636
- 762 UW-Oshkosh                                 10     6     0  1029   992   99.636
- 763 St Thomas FL                                8     8     0  1200  1116   99.634
+ 761 UW-Oshkosh                                 10     6     0  1029   992   99.636
+ 762 Johnson & Wales FL                         11     4     0  1092   972   99.635
+ 763 St Thomas FL                                8     8     0  1200  1116   99.633
  764 Edinboro                                    8     9     0  1306  1133   99.621
  765 Clarkson                                   11     3     0   969   852   99.611
  766 Stevenson                                  11     5     0  1144  1063   99.605
  767 Husson                                     12     3     0  1152  1086   99.590
  768 Missouri Valley                            11     8     0  1396  1282   99.565
  769 Concordia TX                                9     7     0  1410  1328   99.560
- 770 Concordia-Moorhead                          8     5     0   855   811   99.556
+ 770 Concordia-Moorhead                          8     5     0   855   811   99.557
  771 Western ON                                 15     6     0  1536  1419   99.555
  772 St Gregory's                                8     9     0  1311  1389   99.543
- 773 Eastern Oregon                             11    10     0  1748  1663   99.521
+ 773 Eastern Oregon                             11    10     0  1748  1663   99.522
  774 Grand View                                 10     7     0  1268  1199   99.511
  775 Jamestown                                  12     9     0  1714  1624   99.486
  776 Roberts Wesleyan                            7     6     0   909   918   99.481
  777 Tufts                                       7     7     0   922   867   99.468
  778 Nichols                                    11     5     0  1211  1098   99.465
  779 Westfield St                                9     5     0  1034   924   99.464
- 780 North Greenville                           10     5     0  1224  1119   99.459
- 781 Cortland St                                10     3     0   964   835   99.457
+ 780 Cortland St                                10     3     0   964   835   99.457
+ 781 North Greenville                           10     5     0  1224  1119   99.456
  782 Wiley                                       9     6     0  1180  1158   99.450
- 783 Southern Nazarene                           8     9     0  1184  1202   99.448
+ 783 Southern Nazarene                           8     9     0  1184  1202   99.449
  784 Pace                                        5    13     0  1095  1277   99.444
- 785 Coker                                       6     9     0  1035  1066   99.443
- 786 SE Oklahoma St                              8     9     0  1237  1214   99.438
- 787 Southeastern FL                            10     8     0  1453  1421   99.437
- 788 Minn-Crookston                              6    12     0  1097  1289   99.422
+ 785 Coker                                       6     9     0  1035  1066   99.442
+ 786 SE Oklahoma St                              8     9     0  1237  1214   99.439
+ 787 Southeastern FL                            10     8     0  1453  1421   99.434
+ 788 Minn-Crookston                              6    12     0  1097  1289   99.423
  789 William Penn                               12     7     0  1832  1624   99.418
- 790 Georgia Coll & St                           8     9     0  1273  1222   99.418
+ 790 Georgia Coll & St                           8     9     0  1273  1222   99.417
  791 Wayne St MI                                 2    11     0   807   880   99.402
  792 Bloomfield                                  6     9     0  1164  1224   99.396
  793 Hampden-Sydney                             10     6     0  1059  1039   99.387
- 794 Flagler                                     7     9     0  1232  1219   99.387
- 795 Wesleyan                                   11     5     0  1179  1029   99.387
+ 794 Wesleyan                                   11     5     0  1179  1029   99.387
+ 795 Flagler                                     7     9     0  1232  1219   99.387
  796 Staten Island                              10     5     0  1147  1096   99.374
  797 Cal Lutheran                               10     4     0   950   841   99.372
- 798 West Florida                                6    11     0  1196  1233   99.364
- 799 Northwest WA                               12    10     0  1576  1585   99.321
+ 798 West Florida                                6    11     0  1196  1233   99.363
+ 799 Northwest WA                               12    10     0  1576  1585   99.322
  800 Taylor                                     11     9     0  1379  1256   99.313
  801 Lakehead                                   12    11     0  1704  1670   99.310
- 802 Lindsey Wilson                             10    10     0  1563  1396   99.292
+ 802 Lindsey Wilson                             10    10     0  1563  1396   99.291
  803 St Thomas TX                                8     8     0  1095  1117   99.283
  804 UMass-Boston                                9     6     0  1146  1086   99.280
  805 McGill                                     12    12     0  1687  1642   99.262
- 806 Faulkner                                   11     8     0  1446  1344   99.235
+ 806 Faulkner                                   11     8     0  1446  1344   99.234
  807 St Mary's NS                               12     9     0  1763  1805   99.234
  808 West Virginia Tech                         14     6     0  1634  1502   99.231
  809 Mayville St                                12    10     0  1567  1533   99.218
@@ -815,20 +815,20 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  814 Carthage                                    7     8     0   963  1059   99.185
  815 Berea                                       6     3     0   691   633   99.177
  816 Coe                                         9     6     0  1112  1048   99.164
- 817 Catawba                                     7    10     0  1333  1418   99.146
+ 817 Catawba                                     7    10     0  1333  1418   99.145
  818 Concordia NE                               10    10     0  1581  1553   99.133
- 819 Benedictine IL                             11     6     0  1222  1129   99.117
+ 819 Benedictine IL                             11     6     0  1222  1129   99.118
  820 Morehouse                                   8     7     0  1006   952   99.109
- 821 New Mexico Highlands                        3    13     0  1103  1335   99.099
- 822 Birmingham-Southern                         9     6     0  1166  1104   99.090
- 823 Texas Lutheran                              9     8     0  1214  1244   99.090
- 824 Georgia Southwestern                        7     8     0  1030  1003   99.088
+ 821 New Mexico Highlands                        3    13     0  1103  1335   99.100
+ 822 Texas Lutheran                              9     8     0  1214  1244   99.091
+ 823 Birmingham-Southern                         9     6     0  1166  1104   99.090
+ 824 Georgia Southwestern                        7     8     0  1030  1003   99.087
  825 Thomas GA                                  11     8     0  1486  1463   99.079
  826 Crowley's Ridge                             5     4     0   702   727   99.073
  827 Central Arkansas                            2    15     0  1162  1408   99.058
  828 Lebanon Valley                             10     6     0  1143  1106   99.049
- 829 Black Hills St                              6    13     0  1211  1353   99.009
- 830 Western St                                  3    14     0  1158  1346   99.008
+ 829 Black Hills St                              6    13     0  1211  1353   99.012
+ 830 Western St                                  3    14     0  1158  1346   99.009
  831 Claflin                                     7     9     0  1103  1065   98.995
  832 New Jersey                                  8     8     0  1074  1103   98.975
  833 Rutgers-Camden                              9     7     0  1141  1156   98.966
@@ -843,15 +843,15 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  842 Carleton MN                                 6     7     0   853   804   98.923
  843 Loyola NO                                   9     7     0  1172  1107   98.915
  844 Young Harris                                5    10     0  1109  1181   98.907
- 845 UW-La Crosse                                7     9     0  1002  1000   98.904
+ 845 UW-La Crosse                                7     9     0  1002  1000   98.905
  846 UCCB                                       12     7     0  1581  1507   98.900
  847 Dakota St                                   8    13     0  1484  1522   98.889
  848 Carson-Newman                               7     9     0  1157  1137   98.870
  849 St Mary KS                                 14     7     0  1769  1578   98.863
  850 Central IA                                  9     6     0  1191  1120   98.818
  851 Thomas More                                10     6     0  1207  1174   98.810
- 852 Southwestern TX                             8     7     0  1029  1026   98.808
- 853 Elizabeth City St                           9    11     0  1557  1500   98.806
+ 852 Elizabeth City St                           9    11     0  1557  1500   98.809
+ 853 Southwestern TX                             8     7     0  1029  1026   98.808
  854 Fresno Pacific                              5    13     0  1336  1351   98.789
  855 South Dakota Tech                           7    14     0  1455  1598   98.768
  856 Cabrini                                     9     6     0  1270  1176   98.766
@@ -870,12 +870,12 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  869 Bridgewater St MA                          10     6     0  1185  1128   98.657
  870 Hanover                                     8     7     0   945   900   98.657
  871 Wartburg                                   10     5     0  1105   949   98.650
- 872 Benedict                                    6     8     0   937   923   98.649
+ 872 Benedict                                    6     8     0   937   923   98.648
  873 Northern New Mexico                        12    11     0  1870  1987   98.645
  874 Sage                                       10     3     0  1037   885   98.640
- 875 Vancouver Island                           10     3     0  1077   932   98.635
- 876 Bloomsburg                                  7     9     0  1230  1289   98.624
- 877 Corban                                      9    10     0  1417  1339   98.624
+ 875 Vancouver Island                           10     3     0  1077   932   98.636
+ 876 Corban                                      9    10     0  1417  1339   98.624
+ 877 Bloomsburg                                  7     9     0  1230  1289   98.624
  878 Spring Arbor                               10    10     0  1290  1306   98.593
  879 Salem St                                    9     7     0  1153  1155   98.587
  880 Carnegie Mellon                            10     4     0  1065   912   98.581
@@ -894,21 +894,21 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  893 Avila                                       9    11     0  1325  1418   98.386
  894 Arcadia                                     8     8     0  1229  1175   98.380
  895 Roosevelt                                  12     7     0  1322  1239   98.367
- 896 Nebraska Wesleyan                           7     9     0  1478  1541   98.365
- 897 Alaska-Fairbanks                            5    10     0  1056  1120   98.361
+ 896 Nebraska Wesleyan                           7     9     0  1478  1541   98.366
+ 897 Alaska-Fairbanks                            5    10     0  1056  1120   98.364
  898 Montana St-Northern                        11     9     0  1505  1308   98.360
- 899 Emmanuel GA                                 7     7     0  1104   946   98.354
+ 899 Emmanuel GA                                 7     7     0  1104   946   98.355
  900 St Martin's                                 5    12     0  1149  1258   98.332
  901 Union NY                                    8     7     0  1158  1107   98.330
- 902 Edward Waters                              10     9     0  1296  1291   98.310
+ 902 Edward Waters                              10     9     0  1296  1291   98.309
  903 Mercy                                       6     7     0   982  1028   98.307
  904 Robert Morris-Chicago                      11     9     0  1544  1546   98.303
  905 New Jersey City                             5    10     0   973  1008   98.300
- 906 Brevard                                     6    11     0  1169  1353   98.272
+ 906 Brevard                                     6    11     0  1169  1353   98.271
  907 Hood                                        8     8     0  1121  1148   98.256
  908 Hamilton                                   10     6     0  1078  1040   98.255
- 909 Milligan                                   13     7     0  1508  1378   98.254
- 910 Humber                                     10     5     0  1156  1020   98.254
+ 909 Humber                                     10     5     0  1156  1020   98.254
+ 910 Milligan                                   13     7     0  1508  1378   98.254
  911 Widener                                     9     7     0  1123  1072   98.251
  912 Delaware Valley                             9     6     0  1111  1072   98.238
  913 Averett                                    10     6     0  1091  1060   98.212
@@ -922,18 +922,18 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  921 CSU-East Bay                                4    12     0  1018  1197   98.147
  922 Dickinson St                                9    12     0  1591  1581   98.143
  923 Concordia AL                                7     8     0   972  1017   98.136
- 924 Brescia                                    10     8     0  1346  1397   98.132
+ 924 Brescia                                    10     8     0  1346  1397   98.131
  925 Lock Haven                                  5    11     0  1132  1275   98.125
  926 Hobart                                      9     6     0  1001   925   98.121
  927 Whittier                                    9     6     0  1155  1090   98.119
  928 Ohio Northern                               7     8     0  1045  1089   98.115
- 929 Thompson Rivers                            12    10     0  1719  1614   98.113
+ 929 Thompson Rivers                            12    10     0  1719  1614   98.114
  930 Loras                                       7     8     0  1090  1121   98.094
  931 Southwestern KS                            14     7     0  1669  1552   98.093
  932 Concordia WI                               10     6     0  1233  1096   98.077
- 933 Lane                                        5     7     0   821   898   98.068
+ 933 Lane                                        5     7     0   821   898   98.065
  934 Gwynedd-Mercy                               9     6     0  1246  1065   98.046
- 935 Regis CO                                    4    12     0   994  1216   98.043
+ 935 Regis CO                                    4    12     0   994  1216   98.044
  936 IU South Bend                              10    10     0  1519  1516   98.042
  937 Geneseo St                                  8     5     0   950   897   98.042
  938 UMass-Dartmouth                             7     8     0  1159  1165   98.016
@@ -941,7 +941,7 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  940 Lourdes                                    11     9     0  1301  1174   97.999
  941 Laval                                      13    13     0  1989  2007   97.996
  942 Brandeis                                    6     8     0   898   855   97.995
- 943 Lees-McRae                                  9     7     0  1357  1257   97.990
+ 943 Lees-McRae                                  9     7     0  1357  1257   97.991
  944 McMurry                                     4    10     0   915  1151   97.972
  945 Wayne St NE                                 3    17     0  1418  1581   97.971
  946 Friends                                     9    10     0  1299  1294   97.961
@@ -950,7 +950,7 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  949 Webster                                     9     6     0  1053  1021   97.897
  950 UW-River Falls                              6    11     0  1181  1173   97.895
  951 Williams Baptist                            9     7     0  1120  1058   97.891
- 952 Middle Georgia St                           7    10     0  1222  1280   97.873
+ 952 Middle Georgia St                           7    10     0  1222  1280   97.872
  953 San Diego Christian                         5    17     0  1362  1576   97.871
  954 Denison                                     8     7     0  1090  1049   97.849
  955 Bluffton                                    8     7     0   994   998   97.847
@@ -961,23 +961,23 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  960 Laurier                                    11    12     0  1694  1814   97.799
  961 Randolph Coll                              10     6     0  1089   968   97.797
  962 Urbana                                      4    13     0  1413  1446   97.772
- 963 Lindenwood-Belleville                       9     8     0  1354  1261   97.723
+ 963 Lindenwood-Belleville                       9     8     0  1354  1261   97.724
  964 Allegheny                                   8     7     0  1006  1004   97.712
  965 Fisher                                     14     5     0  1434  1304   97.712
- 966 RIT                                        10     6     0  1105  1087   97.710
- 967 Dallas                                     10     5     0  1024   941   97.710
+ 966 Dallas                                     10     5     0  1024   941   97.710
+ 967 RIT                                        10     6     0  1105  1087   97.710
  968 DeSales                                    10     5     0  1054  1001   97.701
  969 Rose-Hulman                                 9     6     0   986   928   97.697
  970 York NY                                     9     7     0  1108  1096   97.697
  971 Frostburg St                                7     8     0  1015  1073   97.687
  972 Buffalo St                                  7     6     0  1049  1020   97.681
- 973 Pfeiffer                                    6    10     0  1098  1155   97.680
+ 973 Pfeiffer                                    6    10     0  1098  1155   97.679
  974 Bridgewater VA                              8     8     0  1028  1069   97.672
- 975 Albany St GA                                7     8     0  1031  1114   97.655
+ 975 Albany St GA                                7     8     0  1031  1114   97.653
  976 UPR-Mayagüez                                1     8     0   652   786   97.631
  977 Chestnut Hill                               4    12     0  1141  1185   97.623
- 978 Greensboro                                  9     7     0  1249  1196   97.620
- 979 Chadron St                                  3    12     0   969  1110   97.620
+ 978 Chadron St                                  3    12     0   969  1110   97.620
+ 979 Greensboro                                  9     7     0  1249  1196   97.620
  980 Fanshawe                                   11     4     0  1203  1069   97.608
  981 Lyon                                       10     9     0  1215  1132   97.606
  982 Shawnee St                                  5    10     0  1002  1075   97.606
@@ -1000,15 +1000,15 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  999 The Master's College                        6    11     0  1261  1321   97.474
 1000 Cumberland TN                               6    13     0  1197  1278   97.473
 1001 Point Park                                 11     7     0  1681  1517   97.459
-1002 Colby-Sawyer                                9     4     0  1055   851   97.455
-1003 California Maritime                         8    13     0  1390  1480   97.455
+1002 California Maritime                         8    13     0  1390  1480   97.455
+1003 Colby-Sawyer                                9     4     0  1055   851   97.455
 1004 Truett-McConnell                           11    11     0  1487  1611   97.447
 1005 Northeastern St OK                          3    13     0  1111  1301   97.442
 1006 Yeshiva                                     9     3     0   900   858   97.434
 1007 Holland                                    13     4     0  1512  1341   97.421
 1008 Rio Grande                                 12     6     0  1661  1377   97.408
 1009 Mars Hill                                   7    11     0  1278  1350   97.406
-1010 Wilmington DE                               4    13     0  1211  1293   97.378
+1010 Wilmington DE                               4    13     0  1211  1293   97.379
 1011 Simpson IA                                  6     9     0  1014  1108   97.366
 1012 Hartwick                                    8     7     0  1101  1133   97.358
 1013 Waldorf                                     6    13     0  1301  1484   97.344
@@ -1018,40 +1018,40 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
 1017 Viterbo                                     9    10     0  1336  1328   97.328
 1018 Central Penn                                7     6     0  1105  1209   97.325
 1019 Montana St-Billings                         4    16     0  1409  1517   97.309
-1020 Apprentice                                  4     7     0   849   893   97.283
+1020 Apprentice                                  4     7     0   849   893   97.284
 1021 Hiram                                       9     7     0  1131  1131   97.273
 1022 SW Christian                                6    13     0  1340  1464   97.264
 1023 Regis MA                                    8     6     0   904   877   97.252
 1024 Goldey-Beacom                               6    11     0  1147  1296   97.248
 1025 St Augustine's                              7     9     0  1143  1195   97.246
 1026 Doane                                       8    14     0  1589  1704   97.244
-1027 Western New Mexico                          2    14     0   987  1284   97.231
-1028 Regina                                     10    15     0  1963  1963   97.226
-1029 Blue Mountain                               9    10     0  1227  1246   97.186
-1030 Carroll WI                                  8     6     0   935   953   97.186
+1027 Western New Mexico                          2    14     0   987  1284   97.232
+1028 Regina                                     10    15     0  1963  1963   97.227
+1029 Carroll WI                                  8     6     0   935   953   97.186
+1030 Blue Mountain                               9    10     0  1227  1246   97.186
 1031 Florida A&M                                 0    17     0   913  1277   97.184
-1032 Erskine                                     7    11     0  1192  1242   97.162
+1032 Erskine                                     7    11     0  1192  1242   97.161
 1033 York ON                                    10    13     0  1776  1864   97.120
 1034 NC Wesleyan                                 8     7     0  1072  1005   97.098
 1035 LaGrange                                    8     6     0  1166  1127   97.093
 1036 Mohawk                                     12     5     0  1634  1467   97.087
 1037 Montclair St                                5     9     0   981  1026   97.077
-1038 St Catharine                                6    12     0  1453  1573   97.044
+1038 St Catharine                                6    12     0  1453  1573   97.043
 1039 Waynesburg                                  9     8     0  1212  1187   97.023
 1040 Hilbert                                    12     4     0  1295  1191   97.022
-1041 Tougaloo                                    5     7     0   953   909   97.012
+1041 Tougaloo                                    5     7     0   953   909   97.011
 1042 Holy Cross IN                               8    11     0  1325  1340   97.011
 1043 Bishop's                                    4    14     0  1241  1358   97.006
-1044 Webber Int'l                                7    13     0  1342  1475   97.001
-1045 Tabor                                       9    12     0  1604  1623   97.000
+1044 Tabor                                       9    12     0  1604  1623   97.000
+1045 Webber Int'l                                7    13     0  1342  1475   96.999
 1046 Emerson                                     8     7     0   924   970   96.997
 1047 Edgewood                                    8     8     0  1175  1154   96.994
-1048 Kentucky St                                 4     9     0   913   947   96.994
+1048 Kentucky St                                 4     9     0   913   947   96.993
 1049 Lakeland WI                                11     6     0  1358  1234   96.977
 1050 Trinity Int'l                               8    11     0  1412  1459   96.968
 1051 Thiel                                       8     7     0   943   982   96.941
 1052 West Virginia St                            3    14     0  1246  1368   96.939
-1053 Notre Dame CA                               3    14     0  1109  1336   96.930
+1053 Notre Dame CA                               3    14     0  1109  1336   96.931
 1054 Oklahoma Christian                          3    12     0   927   976   96.929
 1055 Albright                                    6     9     0  1095  1066   96.925
 1056 Limestone                                   4    15     0  1275  1399   96.912
@@ -1059,33 +1059,33 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
 1058 Medaille                                    8     5     0  1008   963   96.879
 1059 Rochester NY                                5    10     0  1057  1060   96.871
 1060 Roanoke                                     6     9     0  1095  1136   96.862
-1061 Science & Arts OK                           3    12     0  1066  1206   96.853
+1061 Science & Arts OK                           3    12     0  1066  1206   96.854
 1062 Wesley DE                                   7     9     0  1114  1145   96.848
 1063 Pacific Union                               8    13     0  1498  1723   96.837
-1064 Bluefield St WV                             5     9     0  1043  1143   96.832
+1064 Bluefield St WV                             5     9     0  1043  1143   96.834
 1065 SUNY-Canton                                 9     3     0   920   856   96.790
 1066 Muhlenberg                                  7     8     0  1113  1078   96.774
 1067 Valley City St                              9    10     0  1376  1351   96.773
 1068 Siena Heights                               8    13     0  1416  1493   96.771
 1069 Concordia QC                                8    14     0  1474  1575   96.762
-1070 Kalamazoo                                   6    10     0   914  1059   96.738
-1071 Simon Fraser                                6     9     0  1750  1616   96.736
+1070 Simon Fraser                                6     9     0  1750  1616   96.738
+1071 Kalamazoo                                   6    10     0   914  1059   96.738
 1072 Penn St-Fayette                             7     3     0   937   841   96.722
 1073 Maryville TN                                7     8     0  1058  1023   96.720
-1074 Graceland                                   5    13     0  1278  1493   96.708
+1074 Graceland                                   5    13     0  1278  1493   96.709
 1075 St Katherine                                3    13     0  1045  1385   96.704
 1076 Johnson & Wales NC                          6     8     0   952  1073   96.700
 1077 King's PA                                   9     6     0   959   940   96.675
 1078 Ave Maria                                   8    11     0  1114  1076   96.673
 1079 Connecticut College                         7     8     0  1036  1036   96.670
 1080 Belhaven                                    6    14     0  1612  1710   96.650
-1081 Virginia Union                              4    13     0  1243  1269   96.649
+1081 Virginia Union                              4    13     0  1243  1269   96.650
 1082 Bristol                                     3    13     0  1051  1299   96.636
 1083 Laurentian                                  5     9     0  1003  1084   96.635
 1084 Alma                                        4    12     0  1100  1235   96.619
-1085 Stevens Tech                                7     8     0   953   973   96.611
+1085 Stevens Tech                                7     8     0   953   973   96.612
 1086 Hamline                                     5     9     0   906   932   96.609
-1087 Reinhardt                                  10     9     0  1551  1570   96.608
+1087 Reinhardt                                  10     9     0  1551  1570   96.607
 1088 Anderson IN                                 7     8     0  1179  1124   96.602
 1089 Grinnell                                    7     7     0  1653  1580   96.594
 1090 Brockport St                                6     7     0   892   905   96.592
@@ -1096,15 +1096,15 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
 1095 Clark MA                                    7     8     0   985   991   96.519
 1096 Wilkes                                      7     8     0  1086  1066   96.498
 1097 Voorhees                                    7     8     0  1254  1260   96.497
-1098 Adrian                                      5    11     0   964  1068   96.497
+1098 Adrian                                      5    11     0   964  1068   96.496
 1099 Milw Engineering                            9     7     0  1122  1090   96.488
 1100 Alfred                                     10     4     0  1082   959   96.480
-1101 Auburn Montgomery                           7    12     0  1371  1411   96.475
+1101 Auburn Montgomery                           7    12     0  1371  1411   96.476
 1102 Texas College                               6    11     0  1301  1453   96.455
 1103 Tennessee Wesleyan                          9    10     0  1528  1490   96.436
 1104 Central Baptist                             6    12     0  1265  1427   96.433
 1105 LeTourneau                                  5    10     0  1002  1111   96.430
-1106 Davis & Elkins                              5    11     0  1168  1184   96.428
+1106 Davis & Elkins                              5    11     0  1168  1184   96.429
 1107 Huston-Tillotson                            3    13     0  1172  1341   96.427
 1108 UNBC                                        9    11     0  1550  1583   96.426
 1109 MidAmerica Nazarene                         3    15     0  1256  1388   96.410
@@ -1113,8 +1113,8 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
 1112 St Lawrence NY                              7     7     0   932   935   96.390
 1113 MacMurray                                   6     9     0  1172  1220   96.378
 1114 Purdue Calumet                              8    10     0  1280  1286   96.335
-1115 Spring Hill                                 4    15     0  1148  1322   96.307
-1116 Grace Bible                                 8    13     0  1546  1691   96.268
+1115 Spring Hill                                 4    15     0  1148  1322   96.306
+1116 Grace Bible                                 8    13     0  1546  1691   96.267
 1117 Central Christian KS                       10    10     0  1531  1468   96.265
 1118 Madonna                                     7    13     0  1315  1338   96.259
 1119 Methodist                                   6     9     0  1096  1107   96.248
@@ -1141,7 +1141,7 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
 1140 UQAM                                        4    12     0  1151  1288   96.095
 1141 Centenary NJ                                7     7     0   985   975   96.083
 1142 Rust                                        6    11     0  1286  1362   96.078
-1143 Southern Wesleyan                           3    13     0  1144  1347   96.074
+1143 Southern Wesleyan                           3    13     0  1144  1347   96.073
 1144 Millikin                                    6    10     0  1069  1144   96.068
 1145 Transylvania                                6    10     0  1108  1153   96.064
 1146 Pacific Lutheran                            5    10     0   893   948   96.047
@@ -1164,38 +1164,38 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
 1163 Elmira                                      6     8     0   904   992   95.853
 1164 Kean                                        3    12     0   939  1061   95.850
 1165 Juniata                                     8     8     0   983   976   95.842
-1166 Allen                                       3    11     0   949  1097   95.839
+1166 Allen                                       3    11     0   949  1097   95.838
 1167 Morthland                                   7     7     0  1093  1114   95.837
 1168 Redlands                                    4     9     0   851   928   95.832
 1169 Pitt-Bradford                               9     6     0  1102  1040   95.828
 1170 Hendrix                                     6    10     0  1064  1179   95.817
 1171 Bethel KS                                   9    13     0  1609  1699   95.804
 1172 Arlington Baptist                           2    10     0   841  1042   95.797
-1173 Cheyney                                     1    17     0  1242  1466   95.759
-1174 Kenyon                                      5    10     0   996  1079   95.738
+1173 Cheyney                                     1    17     0  1242  1466   95.760
+1174 Kenyon                                      5    10     0   996  1079   95.739
 1175 Southern Maine CC                          10     1     0   962   717   95.728
 1176 Massachusetts Coll                          5    10     0  1040  1137   95.724
 1177 Presentation                               10     9     0  1540  1553   95.714
 1178 Elizabethtown                               7     9     0  1073  1068   95.713
 1179 Georgian Court                              3    13     0  1059  1212   95.694
-1180 U of the Ozarks                             6    10     0  1252  1273   95.690
-1181 OK Panhandle St                             3    12     0  1132  1345   95.690
+1180 OK Panhandle St                             3    12     0  1132  1345   95.690
+1181 U of the Ozarks                             6    10     0  1252  1273   95.690
 1182 Vassar                                      5     9     0   882   995   95.686
 1183 Portland Bible                              4    12     0  1034  1283   95.682
-1184 Oakwood                                     3    10     0   940  1083   95.681
-1185 Holy Names                                  2    15     0  1132  1365   95.653
+1184 Oakwood                                     3    10     0   940  1083   95.682
+1185 Holy Names                                  2    15     0  1132  1365   95.654
 1186 Evergreen St                                3    14     0  1292  1463   95.651
-1187 IU Southeast                                3    13     0  1142  1312   95.650
+1187 IU Southeast                                3    13     0  1142  1312   95.649
 1188 Langara                                     8     4     0   976   853   95.641
-1189 Coastal Georgia                             4    16     0  1463  1640   95.616
-1190 West Coast Baptist                          6     8     0   958  1106   95.608
+1189 Coastal Georgia                             4    16     0  1463  1640   95.615
+1190 West Coast Baptist                          6     8     0   958  1106   95.609
 1191 Mitchell                                    5     7     0   946  1054   95.575
 1192 Manhattanville                              5    10     0   944  1042   95.562
 1193 Framingham St                               5    10     0   824   913   95.513
 1194 St Joseph's ME                              6     7     0   852   846   95.502
-1195 Virginia-Wise                               1    16     0  1059  1527   95.500
+1195 Virginia-Wise                               1    16     0  1059  1527   95.497
 1196 Michigan-Dearborn                           6    14     0  1233  1366   95.475
-1197 Quest                                       7     4     0   777   817   95.413
+1197 Quest                                       7     4     0   777   817   95.414
 1198 RPI                                         5    11     0  1042  1105   95.384
 1199 Southern Maine                              4    12     0  1036  1128   95.382
 1200 Acadia                                      7    16     0  1734  1793   95.382
@@ -1214,19 +1214,19 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
 1213 William Peace                               5     9     0  1058  1121   95.283
 1214 Gordon                                      6     9     0   997  1008   95.275
 1215 Bacone                                      4    14     0  1386  1539   95.231
-1216 Beloit                                      5    10     0  1018  1112   95.211
+1216 Beloit                                      5    10     0  1018  1112   95.212
 1217 Anna Maria                                  7     7     0  1001   982   95.198
-1218 Sul Ross St                                 2    12     0  1009  1143   95.197
+1218 Sul Ross St                                 2    12     0  1009  1143   95.198
 1219 Bluefield VA                                6    13     0  1355  1446   95.182
 1220 Pitt-Greensburg                             7     8     0  1208  1254   95.150
 1221 Southern-New Orleans                        3    12     0   982  1113   95.097
-1222 Willamette                                  4    12     0  1047  1154   95.095
+1222 Willamette                                  4    12     0  1047  1154   95.096
 1223 Berry                                       4    11     0  1078  1208   95.070
 1224 Millsaps                                    5    10     0   906  1069   95.041
 1225 Benedictine-Springfield                     8    12     0  1337  1448   95.035
 1226 Pensacola Christian                         4     9     0   863   975   95.028
 1227 Lawrence Tech                               4    16     0  1180  1291   95.011
-1228 Florida College                             3    14     0  1112  1354   95.009
+1228 Florida College                             3    14     0  1112  1354   95.007
 1229 Tennessee Temple                            4    13     0  1248  1458   95.004
 1230 MacEwan                                     8    16     0  1669  1898   94.990
 1231 Luther                                      4    11     0  1023  1089   94.964
@@ -1240,7 +1240,7 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
 1239 St Joseph VT                                5     8     0  1015  1083   94.843
 1240 Macalester                                  4     9     0   727   856   94.834
 1241 Plymouth St                                 5    10     0  1008  1016   94.814
-1242 Tusculum                                    1    15     0  1056  1269   94.795
+1242 Tusculum                                    1    15     0  1056  1269   94.792
 1243 Queen's ON                                  9    14     0  1586  1646   94.779
 1244 Purdue North Central                        5    16     0  1389  1643   94.763
 1245 Wentworth Tech                              6     9     0   823   856   94.760
@@ -1255,29 +1255,29 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
 1254 Minn-Morris                                 5     9     0  1034  1099   94.683
 1255 George Fox                                  4    11     0  1159  1274   94.664
 1256 NAIT                                       16     5     0  1798  1590   94.658
-1257 UW-Stout                                    3    13     0  1081  1234   94.627
+1257 UW-Stout                                    3    13     0  1081  1234   94.628
 1258 Baptist Bible MO                            4     3     0   541   592   94.612
 1259 Muskingum                                   4    11     0  1040  1188   94.612
-1260 Hillsdale Free Will                         3    16     0  1306  1680   94.584
+1260 Hillsdale Free Will                         3    16     0  1306  1680   94.585
 1261 Utica                                       6    10     0  1106  1155   94.558
 1262 Bethesda                                    3    16     0  1234  1490   94.555
-1263 Miles                                       2    14     0  1061  1288   94.546
+1263 Miles                                       2    14     0  1061  1288   94.547
 1264 Valley Forge                                7     6     0  1022   976   94.546
 1265 IU Kokomo                                   7    14     0  1513  1591   94.531
 1266 Coast Guard                                 5    10     0   850   967   94.521
 1267 Penn St-York                                4     4     0   646   608   94.511
 1268 Redeemer                                    9     8     0  1295  1295   94.498
 1269 Trinity Christian                           5    16     0  1450  1598   94.491
-1270 Carver                                      0    14     0  1064  1329   94.487
-1271 Florida Memorial                            1    13     0   842  1049   94.480
+1270 Carver                                      0    14     0  1064  1329   94.484
+1271 Florida Memorial                            1    13     0   842  1049   94.479
 1272 Hunter                                      6    11     0  1083  1148   94.421
 1273 Dillard                                     2    18     0  1276  1572   94.420
 1274 Keuka                                       7     5     0   761   770   94.409
 1275 Clarke IA                                   2    14     0  1071  1268   94.389
 1276 Covenant                                    4    13     0  1040  1222   94.384
-1277 Menlo                                       2    15     0  1117  1394   94.380
+1277 Menlo                                       2    15     0  1117  1394   94.381
 1278 Brandon                                     5    19     0  1845  2096   94.367
-1279 St Mary's MN                                2    10     0   740   903   94.352
+1279 St Mary's MN                                2    10     0   740   903   94.353
 1280 Penn St-Mont Alto                           9     8     0  1386  1250   94.352
 1281 Otterbein                                   3    12     0   992  1173   94.352
 1282 Morris SC                                   2     8     0   790   911   94.330
@@ -1289,7 +1289,7 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
 1288 Franklin                                    3    12     0  1072  1212   94.227
 1289 Grove City                                  7     8     0   999  1011   94.218
 1290 Mary Washington                             3    12     0   935  1019   94.215
-1291 Montreat                                    5    15     0  1426  1672   94.200
+1291 Montreat                                    5    15     0  1426  1672   94.199
 1292 McPherson                                   6    15     0  1517  1622   94.197
 1293 Trinity Western                             4    20     0  1721  2020   94.166
 1294 Salve Regina                                4    11     0   971  1117   94.147
@@ -1321,7 +1321,7 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
 1320 Knox                                        4    10     0   976  1133   93.493
 1321 Niagara ON                                  8    11     0  1486  1474   93.464
 1322 IU Northwest                                6    17     0  1510  1721   93.448
-1323 Texas-Tyler                                 1    16     0  1133  1323   93.419
+1323 Texas-Tyler                                 1    16     0  1133  1323   93.420
 1324 St Scholastica                              5     9     0   888   994   93.328
 1325 Wheaton MA                                  3    10     0   914   968   93.324
 1326 Williamson Trade                            1     3     0   239   303   93.323
@@ -1338,13 +1338,13 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
 1337 Moravian                                    3    12     0  1073  1204   93.150
 1338 Pine Manor                                  5     8     0  1193  1191   93.073
 1339 Curry                                       3    12     0   881  1069   93.070
-1340 Belmont Abbey                               1    16     0  1000  1425   93.062
-1341 Northland College                           4    10     0   889  1013   93.031
-1342 Linfield                                    2    14     0   955  1176   93.013
+1340 Belmont Abbey                               1    16     0  1000  1425   93.063
+1341 Northland College                           4    10     0   889  1013   93.032
+1342 Linfield                                    2    14     0   955  1176   93.014
 1343 Paul Quinn                                  2    13     0   871  1151   93.004
 1344 Mount Marty                                 1    19     0  1323  1681   92.987
 1345 New England Coll                            7     8     0  1167  1254   92.973
-1346 Douglas                                     5     6     0   825   909   92.961
+1346 Douglas                                     5     6     0   825   909   92.962
 1347 Hannibal-LaGrange                           3    16     0   994  1359   92.948
 1348 New Hampshire Tech                          4     1     0   496   462   92.940
 1349 Haskell                                     3    17     0  1478  1710   92.937
@@ -1364,7 +1364,7 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
 1363 Morrisville St                              4     8     0   824   886   92.642
 1364 Maryland Bible                              3     3     0   348   340   92.605
 1365 Mount Allison                               6     3     0   671   640   92.600
-1366 Trinity FL                                  0     5     0   269   387   92.597
+1366 Trinity FL                                  0     5     0   269   387   92.596
 1367 St Clair                                    4     9     0  1043  1021   92.553
 1368 Maine-Fort Kent                             2    10     0   828   973   92.535
 1369 Central Maine CC                            7     4     0  1016   901   92.508
@@ -1379,7 +1379,7 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
 1378 SW Adventist                                1     7     0   438   724   92.321
 1379 AFLBS                                       3     1     0   319   296   92.315
 1380 Red River                                   6     1     0   609   471   92.295
-1381 Northwest Indian                            0    23     0  1601  2338   92.286
+1381 Northwest Indian                            0    23     0  1601  2338   92.287
 1382 Penn St-Beaver                              2     9     0   879  1012   92.277
 1383 Rockford                                    3    13     0  1159  1290   92.263
 1384 UBC-Okanagan                                3    17     0  1375  1598   92.244
@@ -1388,7 +1388,7 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
 1387 Kuyper                                      2    10     0  1008  1146   92.197
 1388 John Abbott                                10     4     0  1037   998   92.187
 1389 SUNY-Maritime                               4     9     0   806   864   92.186
-1390 Principia                                   3     9     0   744   847   92.184
+1390 Principia                                   3     9     0   744   847   92.185
 1391 Champlain St-Lambert                        7     3     0   750   666   92.141
 1392 Shenandoah                                  1    15     0  1110  1255   92.134
 1393 Emory & Henry                               2    14     0  1088  1300   92.128
@@ -1399,15 +1399,15 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
 1398 Fredonia St                                 1    10     0   716   796   92.101
 1399 Penn St-Abington                            5     9     0  1061  1117   92.087
 1400 Point U.                                    1    20     0  1414  1754   92.078
-1401 Multnomah U.                                1    16     0  1277  1826   92.041
+1401 Multnomah U.                                1    16     0  1277  1826   92.042
 1402 Farmingdale                                 3    11     0   890  1035   92.006
 1403 Maine-Presque Isle                          8     8     0  1089  1015   91.972
 1404 Goucher                                     2    13     0   963  1165   91.944
 1405 Nipissing                                   4    18     0  1338  1719   91.931
-1406 Maine-Farmington                            4    10     0   831   966   91.910
+1406 Maine-Farmington                            4    10     0   831   966   91.911
 1407 Bryn Athyn                                  3    10     0   862   947   91.844
 1408 Newbury                                     1    12     0   807  1024   91.816
-1409 Columbia Int'l                              1    14     0  1010  1321   91.799
+1409 Columbia Int'l                              1    14     0  1010  1321   91.798
 1410 Faith Baptist Bible                         6     8     0  1067  1220   91.782
 1411 Westminster MO                              2    13     0   899  1059   91.781
 1412 Georgian                                   11     4     0  1227  1115   91.781
@@ -1416,9 +1416,9 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
 1415 Bethany Lutheran                            2    12     0   828  1145   91.753
 1416 Penn St-Altoona                             4    12     0  1044  1130   91.737
 1417 Lyndon St                                   3    11     0   958  1127   91.723
-1418 Caltech                                     1    14     0   920  1129   91.694
+1418 Caltech                                     1    14     0   920  1129   91.695
 1419 VA-Lynchburg                                1    16     0   984  1581   91.667
-1420 Camosun                                     3     6     0   635   735   91.607
+1420 Camosun                                     3     6     0   635   735   91.608
 1421 Crandall                                    5    10     0  1114  1214   91.598
 1422 Ohio U-Chillicothe                          3     4     0   478   562   91.576
 1423 UC-Merced                                   1    19     0  1379  1914   91.558
@@ -1427,15 +1427,15 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
 1426 Mount Ida                                   2    12     0   905  1107   91.471
 1427 Blackburn                                   3    12     0  1052  1236   91.433
 1428 Penn St-Hazleton                            2     4     0   388   423   91.316
-1429 Martin Luther                               2    11     0   783  1012   91.294
+1429 Martin Luther                               2    11     0   783  1012   91.295
 1430 St Thomas NB                                7     7     0  1015  1087   91.289
-1431 Lethbridge CC                              11     3     0  1233   980   91.245
+1431 Lethbridge CC                              11     3     0  1233   980   91.246
 1432 Vaughn                                      4     8     0   913   891   91.243
 1433 Dominican IL                                1    16     0  1048  1280   91.165
 1434 Trinity Bible                               1     9     0   645   853   91.094
 1435 Coll of Faith                               0    16     0  1107  1636   91.092
 1436 Wash & Jeff                                 1    15     0  1017  1245   91.088
-1437 Clearwater Christian                        0     6     0   302   545   91.019
+1437 Clearwater Christian                        0     6     0   302   545   91.018
 1438 Rhema Bible                                 2     3     0   339   343   91.011
 1439 Champion Baptist                            0    13     0   715  1365   90.995
 1440 Johnson FL                                  2     7     0   524   757   90.987
@@ -1447,7 +1447,7 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
 1446 Cairn                                       1    12     0   746   948   90.751
 1447 Concordia AB                                8    15     0  1741  2008   90.639
 1448 Centennial                                  8     5     0  1106  1077   90.603
-1449 Red Deer                                   13     6     0  1529  1384   90.570
+1449 Red Deer                                   13     6     0  1529  1384   90.571
 1450 Oglala Lakota                               0    15     0  1071  1672   90.554
 1451 Seneca                                      9     6     0  1209  1130   90.500
 1452 Boyce                                       1    10     0   678  1010   90.429
@@ -1462,8 +1462,8 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
 1461 Col. de Sainte-Foy                          6     8     0  1009   989   90.146
 1462 Johnson St                                  2    12     0   904  1147   89.959
 1463 Vermont Tech                                2     8     0   708   790   89.952
-1464 Lakeland AB                                 7     9     0  1118  1247   89.934
-1465 Wright St-Lake                              2     4     0   421   513   89.932
+1464 Lakeland AB                                 7     9     0  1118  1247   89.935
+1465 Wright St-Lake                              2     4     0   421   513   89.931
 1466 Crossroads MN                               1    17     0  1150  1660   89.926
 1467 Penn St-New Kensington                      2     6     0   534   725   89.852
 1468 Dawson                                      6     6     0   835   844   89.823
@@ -1491,10 +1491,10 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
 1490 Crown MN                                    0    15     0   888  1249   88.863
 1491 Great Lakes Christian                       0    19     0  1161  1861   88.836
 1492 U of King's Coll                            3     7     0   809   903   88.831
-1493 Kwantlen                                    2     9     0   734  1027   88.732
+1493 Kwantlen                                    2     9     0   734  1027   88.733
 1494 Penn Tech                                   2    11     0   864  1069   88.680
 1495 Algonquin                                   6     7     0   920   883   88.674
-1496 Capilano                                    1    10     0   776  1011   88.614
+1496 Capilano                                    1    10     0   776  1011   88.615
 1497 Mt St-Vincent NS                            3    13     0  1117  1368   88.558
 1498 St Louis Pharmacy                           2    10     0   652   849   88.547
 1499 Illinois Tech                               1    13     0   598  1071   88.504
@@ -1509,7 +1509,7 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
 1508 Olds                                        9     7     0  1339  1243   87.457
 1509 SUNY-ESF                                    1     8     0   562   735   87.418
 1510 Penn St-Brandywine                          0    13     0   933  1202   87.406
-1511 Columbia Bible                              1     8     0   642   836   87.361
+1511 Columbia Bible                              1     8     0   642   836   87.362
 1512 Col. Éd.-Montpetit                          2     8     0   644   715   87.204
 1513 Penn St-DuBois                              2     9     0   730   983   87.113
 1514 Sarah Lawrence                              1    13     0   765  1117   87.017
@@ -1540,7 +1540,7 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
 1539 Appalachian Bible                           1     3     0    96   184   83.296
 1540 Fleming                                     0    12     0   943  1220   82.872
 1541 Cooper Union                                1     2     0   169   219   82.728
-1542 Briercrest                                  1    16     0  1114  1539   82.693
+1542 Briercrest                                  1    16     0  1114  1539   82.694
 1543 Pratt Institute                             0     3     0   118   253   82.618
 1544 New School                                  0     2     0   117   154   81.884
 1545 St Mary's AB                                1    15     0  1006  1432   81.658
