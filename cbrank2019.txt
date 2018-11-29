@@ -1,0 +1,1229 @@
+Rank                                           Won  Lost  Tied    PF    PA   Rating
+   1 KANSAS                                      5     0     0   429   380  114.138
+   2 VIRGINIA                                    6     0     0   439   296  113.863
+   3 DORDT                                       1     0     0    94    85  113.643
+   4 TEXAS TECH                                  6     0     0   471   306  112.633
+   5 GONZAGA                                     7     0     0   684   516  112.375
+   6 TENNESSEE                                   4     1     0   412   327  112.313
+   7 DUKE                                        6     1     0   641   496  112.168
+   8 BELMONT                                     5     0     0   474   348  112.145
+   9 OHIO ST.                                    6     0     0   486   350  111.793
+  10 MERCYHURST                                  3     0     0   225   173  111.697
+  11 NOTRE DAME                                  6     1     0   544   456  111.322
+  12 WISCONSIN                                   6     1     0   523   422  110.944
+  13 MICHIGAN                                    6     0     0   425   290  110.942
+  14 DAYTON                                      5     1     0   438   380  110.661
+  15 ST. JOHN'S                                  5     0     0   422   374  110.635
+  16 ALABAMA                                     6     0     0   478   406  110.624
+  17 AUBURN                                      5     1     0   525   390  110.618
+  18 DUQUESNE                                    4     1     0   381   360  110.555
+  19 RADFORD                                     5     1     0   489   405  110.461
+  20 VIRGINIA TECH                               5     1     0   474   366  110.372
+  21 TEXAS                                       5     1     0   466   421  110.344
+  22 MICH. ST.                                   5     2     0   617   483  110.245
+  23 BUFFALO                                     5     0     0   429   334  110.207
+  24 MONTANA                                     5     0     0   406   343  110.116
+  25 IOWA                                        6     0     0   512   432  110.099
+  26 PURDUE                                      4     1     0   422   338  109.990
+  27 CAL POLY POMONA                             2     0     0   163   127  109.924
+  28 NEBRASKA                                    5     1     0   445   339  109.905
+  29 SAINT ANSELM                                2     0     0   171   141  109.844
+  30 NORTH CAROLINA                              6     1     0   676   510  109.746
+  31 MARYLAND                                    6     0     0   509   396  109.691
+  32 NEW HAVEN                                   3     0     0   235   188  109.690
+  33 FLORIDA STATE                               5     1     0   474   395  109.629
+  34 IOWA STATE                                  6     1     0   559   436  109.581
+  35 LOYOLA MARYM'T                              6     0     0   417   359  109.557
+  36 ARIZONA ST.                                 5     0     0   431   353  109.544
+  37 NEVADA                                      7     0     0   631   483  109.242
+  38 DEPAUL                                      3     1     0   313   286  109.165
+  39 CREIGHTON                                   5     1     0   487   437  109.154
+  40 ASHLAND                                     4     0     0   300   236  109.145
+  41 OKLAHOMA                                    5     2     0   503   467  109.090
+  42 INDIANAPOLIS                                3     0     0   244   221  108.856
+  43 VCU                                         4     1     0   353   323  108.835
+  44 PENN ST.                                    4     2     0   429   385  108.729
+  45 VILLANOVA                                   5     2     0   526   453  108.676
+  46 MARQUETTE                                   5     2     0   527   458  108.670
+  47 ARIZONA                                     4     2     0   453   397  108.645
+  48 MURRAY STATE                                3     1     0   328   234  108.617
+  49 NORTHERN MICH.                              2     0     0   169   142  108.574
+  50 INDIANA STATE                               3     0     0   221   191  108.538
+  51 DAVIDSON                                    5     1     0   419   392  108.530
+  52 ARKANSAS                                    4     1     0   393   331  108.511
+  53 LSU                                         5     2     0   570   521  108.498
+  54 LOUISVILLE                                  4     2     0   512   451  108.493
+  55 BUTLER                                      4     2     0   459   390  108.482
+  56 KANSAS ST.                                  6     0     0   438   338  108.465
+  57 LIPSCOMB                                    5     1     0   505   411  108.383
+  58 NORTHERN COLO.                              3     1     0   366   293  108.321
+  59 FLORIDA                                     5     2     0   509   430  108.231
+  60 VANDERBILT                                  4     1     0   435   364  108.230
+  61 INDIANA                                     5     2     0   575   452  108.216
+  62 TEMPLE                                      6     1     0   526   471  108.198
+  63 MALONE                                      1     0     0    78    76  108.179
+  64 ILLINOIS STATE                              5     1     0   469   439  108.168
+  65 SAN FRANCISCO                               6     0     0   486   320  108.152
+  66 LEWIS                                       2     0     0   161   151  108.116
+  67 MIAMI (FLA.)                                5     1     0   501   398  108.082
+  68 MARIAN (IND.)                               1     0     0   105    57  108.078
+  69 FINDLAY                                     3     0     0   275   235  108.077
+  70 BELLARMINE                                  3     0     0   242   200  108.027
+  71 FURMAN                                      6     0     0   470   387  107.990
+  72 WARTBURG                                    3     1     0   323   268  107.823
+  73 OKLAHOMA STATE                              4     2     0   448   402  107.800
+  74 KENTUCKY                                    5     1     0   507   453  107.786
+  75 TOLEDO                                      5     1     0   494   414  107.773
+  76 ST. THOMAS AQ.                              5     0     0   370   345  107.756
+  77 MIDDLEBURY                                  4     0     0   361   261  107.744
+  78 EAST TENN. ST.                              6     1     0   565   442  107.718
+  79 UIC                                         3     3     0   498   500  107.713
+  80 UCF                                         5     1     0   452   374  107.669
+  81 N'WEST MO. ST.                              3     0     0   265   169  107.631
+  82 PENN ST.-BEHREND                            2     0     0   161   149  107.615
+  83 ST. CLOUD ST.                               4     1     0   400   366  107.611
+  84 LIBERTY                                     5     1     0   487   339  107.611
+  85 BRADLEY                                     6     1     0   506   439  107.599
+  86 CINCINNATI                                  6     1     0   528   391  107.575
+  87 WINONA STATE                                2     0     0   170   110  107.559
+  88 SAN DIEGO STATE                             4     2     0   466   419  107.531
+  89 CHRIS. NEWPORT                              3     0     0   248   188  107.442
+  90 SOUTHERN NAZARENE                           6     0     0   504   401  107.334
+  91 KENT STATE                                  4     1     0   413   363  107.332
+  92 UTAH STATE                                  5     1     0   522   399  107.324
+  93 GA. SOUTHERN                                4     2     0   546   437  107.323
+  94 GEORGETOWN                                  5     1     0   462   434  107.270
+  95 DAVENPORT                                   5     0     0   445   348  107.221
+  96 RUTGERS                                     4     1     0   367   285  107.196
+  97 UNLV                                        4     1     0   368   314  107.177
+  98 GEORGIA TECH                                4     1     0   357   287  107.173
+  99 OLD WESTBURY                                1     0     0    82    74  107.156
+ 100 SOUTHERN ILL.                               5     2     0   518   448  107.118
+ 101 SETON HALL                                  3     2     0   350   356  107.097
+ 102 CITADEL                                     5     1     0   641   482  107.080
+ 103 MINN. DULUTH                                2     0     0   146   101  107.062
+ 104 TCU                                         4     1     0   373   334  107.038
+ 105 PITTSBURGH                                  6     1     0   558   462  107.013
+ 106 UCLA                                        4     2     0   507   455  107.008
+ 107 SHIPPENSBURG                                5     0     0   372   315  107.001
+ 108 MISSISSIPPI ST.                             5     1     0   467   371  106.997
+ 109 SWARTHMORE                                  3     0     0   253   183  106.987
+ 110 QUEENS (N.C.)                               3     0     0   260   210  106.974
+ 111 CLEMSON                                     4     2     0   429   383  106.926
+ 112 DELAWARE                                    5     2     0   528   461  106.900
+ 113 LOUISIANA TECH                              5     2     0   541   475  106.801
+ 114 LOUISIANA                                   2     3     0   364   387  106.795
+ 115 DAEMEN                                      0     1     0    65    67  106.794
+ 116 ROSE-HULMAN                                 1     0     0    83    57  106.785
+ 117 CHARLESTON                                  5     2     0   493   465  106.759
+ 118 PEPPERDINE                                  4     2     0   515   469  106.739
+ 119 SAMFORD                                     7     1     0   597   517  106.703
+ 120 MIDDLE TENN.                                4     3     0   514   516  106.700
+ 121 COLORADO                                    3     1     0   336   272  106.690
+ 122 NORTHWESTERN                                5     1     0   456   366  106.681
+ 123 WHEATON (ILL.)                              5     0     0   414   376  106.652
+ 124 HOUSTON                                     4     0     0   338   239  106.646
+ 125 ABILENE CHRISTIAN                           6     0     0   456   362  106.628
+ 126 USC                                         4     2     0   508   436  106.626
+ 127 OUACHITA BAPT.                              2     0     0   159   145  106.616
+ 128 FRESNO STATE                                3     2     0   393   341  106.590
+ 129 UCONN                                       6     1     0   608   518  106.587
+ 130 SAINT LOUIS                                 5     1     0   418   381  106.505
+ 131 WRIGHT STATE                                5     2     0   517   484  106.497
+ 132 UC SAN DIEGO                                5     1     0   516   421  106.475
+ 133 SAN DIEGO                                   5     1     0   463   358  106.470
+ 134 XAVIER                                      3     3     0   477   472  106.397
+ 135 MARSHALL                                    4     1     0   441   399  106.378
+ 136 WASHINGTON                                  5     2     0   507   468  106.369
+ 137 TOWSON                                      4     2     0   446   404  106.352
+ 138 UNCG                                        6     2     0   694   525  106.348
+ 139 MO. SOUTHERN ST.                            5     1     0   516   462  106.238
+ 140 BAYLOR                                      6     1     0   534   447  106.167
+ 141 WOOSTER                                     1     0     0    57    47  106.119
+ 142 BALL STATE                                  3     3     0   484   456  106.081
+ 143 FAIRMONT STATE                              4     0     0   361   321  106.063
+ 144 ST. MARTIN'S                                3     1     0   330   307  106.057
+ 145 ROBERTS WESLEYAN                            2     1     0   216   226  106.042
+ 146 OREGON                                      4     2     0   481   407  106.027
+ 147 DETROIT MERCY                               3     2     0   381   371  106.023
+ 148 INDIANA (PA.)                               5     0     0   370   298  105.996
+ 149 S.C. AIKEN                                  5     0     0   418   347  105.979
+ 150 PENN ST. H'BURG                             2     0     0   153   130  105.966
+ 151 WOFFORD                                     5     2     0   570   420  105.936
+ 152 AMERICAN                                    4     1     0   344   315  105.931
+ 153 LAKE SUPERIOR ST.                           2     0     0   152   121  105.906
+ 154 KEENE ST.                                   1     0     0   105    96  105.891
+ 155 AUGUSTANA (ILL.)                            2     0     0   171   141  105.870
+ 156 NC STATE                                    5     1     0   515   371  105.865
+ 157 WILLIAM & MARY                              2     4     0   467   492  105.840
+ 158 MSU-MANKATO                                 3     2     0   408   401  105.770
+ 159 WICHITA STATE                               3     3     0   452   435  105.750
+ 160 LOYOLA (LA.)                                1     0     0    79    78  105.741
+ 161 NORTH TEXAS                                 8     1     0   704   516  105.684
+ 162 HOLY CROSS                                  4     2     0   401   387  105.602
+ 163 PROVIDENCE                                  5     2     0   510   482  105.602
+ 164 LENOIR-RHYNE                                3     1     0   334   319  105.597
+ 165 N'WEST NAZARENE                             6     0     0   506   441  105.459
+ 166 CHARLOTTE                                   2     2     0   223   243  105.449
+ 167 NEW MEXICO ST.                              4     1     0   417   357  105.377
+ 168 STONY BROOK                                 6     1     0   546   496  105.317
+ 169 SALISBURY                                   5     0     0   378   335  105.282
+ 170 TEXAS SOUTHERN                              2     4     0   428   530  105.264
+ 171 BOSTON COLLEGE                              4     1     0   377   343  105.262
+ 172 POINT LOMA                                  4     2     0   484   420  105.201
+ 173 GEORGIA                                     4     3     0   554   483  105.194
+ 174 ILL. WESLEYAN                               6     0     0   499   427  105.188
+ 175 FLORIDA ATLANTIC                            4     3     0   545   497  105.173
+ 176 SOUTH FLORIDA                               4     2     0   450   398  105.143
+ 177 DRAKE                                       4     1     0   393   358  105.132
+ 178 STONEHILL                                   4     2     0   479   453  105.123
+ 179 NORTHERN KENTUCKY                           7     1     0   660   505  105.114
+ 180 STANFORD                                    2     4     0   389   424  105.092
+ 181 JOHN CARROLL                                3     1     0   339   356  105.073
+ 182 TULSA                                       5     2     0   544   498  105.047
+ 183 NOVA S'EASTERN                              3     0     0   333   256  105.027
+ 184 FGCU                                        3     3     0   454   498  105.011
+ 185 HAMILTON                                    5     0     0   471   359  105.004
+ 186 SFA                                         3     1     0   278   287  104.969
+ 187 SUNY DELHI                                  2     0     0   198   149  104.930
+ 188 MINNESOTA                                   4     2     0   441   423  104.855
+ 189 ILLINOIS                                    2     5     0   559   542  104.833
+ 190 ST. JOHN'S (MINN.)                          2     0     0   179   133  104.764
+ 191 UAB                                         4     2     0   409   395  104.763
+ 192 SYRACUSE                                    2     2     0   302   289  104.742
+ 193 SOUTHERN UTAH                               3     1     0   319   268  104.677
+ 194 MISSOURI                                    3     3     0   395   407  104.661
+ 195 WEST TEX. A&M                               1     0     0    68    62  104.574
+ 196 PACIFIC                                     5     3     0   589   570  104.555
+ 197 ALLEGHENY                                   2     1     0   243   224  104.552
+ 198 COLGATE                                     5     1     0   462   423  104.508
+ 199 SEATTLE U                                   6     2     0   634   557  104.491
+ 200 GEORGIA COLLEGE                             2     0     0   159   134  104.490
+ 201 AKRON                                       4     2     0   453   359  104.487
+ 202 ROLLINS                                     5     0     0   413   333  104.445
+ 203 FERRIS STATE                                4     2     0   519   473  104.398
+ 204 GEORGIA STATE                               3     3     0   426   466  104.366
+ 205 ST. MARY'S (CAL.)                           3     3     0   440   401  104.351
+ 206 AMERICAN INT'L                              2     1     0   200   196  104.322
+ 207 ADELPHI                                     4     1     0   432   398  104.311
+ 208 LAKE ERIE                                   3     2     0   360   334  104.303
+ 209 CATAWBA                                     4     1     0   472   380  104.289
+ 210 WESTERN KY.                                 3     3     0   403   413  104.244
+ 211 LINCOLN MEMORIAL                            2     1     0   237   217  104.230
+ 212 N.M. HIGHLANDS                              1     0     0    94    82  104.215
+ 213 ECKERD                                      5     1     0   469   399  104.213
+ 214 HOFSTRA                                     3     3     0   459   429  104.190
+ 215 UNION (N.Y.)                                1     0     0    67    64  104.186
+ 216 OHIO DOMINICAN                              3     2     0   390   353  104.184
+ 217 LOYOLA CHICAGO                              4     3     0   502   454  104.181
+ 218 RIDER                                       2     1     0   246   216  104.167
+ 219 DIXIE STATE                                 2     1     0   223   210  104.159
+ 220 NJIT                                        5     1     0   431   373  104.109
+ 221 BARTON                                      5     1     0   521   442  104.106
+ 222 OHIO                                        4     2     0   454   419  104.099
+ 223 CARSON-NEWMAN                               4     0     0   333   265  104.092
+ 224 SOUTH DAKOTA ST.                            4     2     0   490   445  104.087
+ 225 MO.-ST. LOUIS                               4     1     0   391   360  104.074
+ 226 ENDICOTT                                    4     1     0   463   405  104.068
+ 227 MEMPHIS                                     3     3     0   471   473  104.066
+ 228 WAYNE ST. (NEB.)                            5     1     0   509   389  104.062
+ 229 MIAMI (OHIO)                                2     3     0   393   382  104.051
+ 230 NOTRE DAME (OHIO)                           5     1     0   491   448  104.050
+ 231 TEXAS STATE                                 5     1     0   460   344  104.046
+ 232 SAGINAW VALLEY                              1     2     0   214   223  104.022
+ 233 LEHIGH                                      4     2     0   435   419  104.018
+ 234 MICHIGAN TECH                               2     1     0   184   173  103.969
+ 235 ST. FRANCIS (PA.)                           2     4     0   431   472  103.965
+ 236 FLA. SOUTHERN                               3     1     0   324   315  103.949
+ 237 WASHBURN                                    4     1     0   406   363  103.940
+ 238 RIPON                                       2     1     0   213   200  103.929
+ 239 RANDOLPH-MACON                              4     0     0   337   266  103.923
+ 240 DOMINICAN (N.Y.)                            2     1     0   239   213  103.904
+ 241 JACKSONVILLE ST.                            3     3     0   466   434  103.899
+ 242 WEST VIRGINIA                               3     2     0   407   381  103.882
+ 243 LIMESTONE                                   3     0     0   282   273  103.875
+ 244 BYU                                         5     2     0   570   487  103.857
+ 245 MISSISSIPPI                                 2     3     0   368   351  103.853
+ 246 GRAND VALLEY ST.                            4     1     0   445   381  103.852
+ 247 SUL ROSS STATE                              1     0     0    86    77  103.846
+ 248 NEW MEXICO                                  3     1     0   355   343  103.799
+ 249 HAWAII                                      4     3     0   516   476  103.788
+ 250 SCRANTON                                    4     0     0   334   274  103.770
+ 251 COLORADO STATE                              4     3     0   565   530  103.760
+ 252 UNC PEMBROKE                                4     1     0   430   360  103.745
+ 253 CHAMINADE                                   3     0     0   239   193  103.722
+ 254 CENTRAL MICH.                               5     1     0   521   409  103.701
+ 255 MONTANA TECH                                0     1     0    55    79  103.699
+ 256 PENN                                        5     2     0   555   457  103.675
+ 257 UC IRVINE                                   5     2     0   488   433  103.656
+ 258 MISSOURI STATE                              3     3     0   449   441  103.634
+ 259 JAMES MADISON                               6     2     0   612   559  103.620
+ 260 OREGON ST.                                  4     2     0   423   383  103.609
+ 261 SAINT JOSEPH'S                              3     3     0   478   457  103.598
+ 262 CENTRE                                      5     0     0   392   335  103.598
+ 263 WPI                                         5     0     0   436   347  103.589
+ 264 UPPER IOWA                                  3     0     0   278   257  103.578
+ 265 ALABAMA STATE                               2     3     0   375   390  103.468
+ 266 HOUSTON BAPTIST                             2     3     0   369   435  103.446
+ 267 CENTRAL MISSOURI                            5     2     0   540   502  103.442
+ 268 FORT WAYNE                                  4     4     0   655   631  103.428
+ 269 VALDOSTA STATE                              5     0     0   521   391  103.419
+ 270 VERMONT                                     3     3     0   486   437  103.392
+ 271 UMBC                                        4     3     0   476   426  103.379
+ 272 GARDNER-WEBB                                3     3     0   478   472  103.374
+ 273 SIOUX FALLS                                 5     1     0   470   390  103.366
+ 274 ST. ELIZABETH                               4     0     0   328   274  103.359
+ 275 SAINT KATHERINE                             0     1     0    61    91  103.349
+ 276 HARVARD                                     3     3     0   428   423  103.339
+ 277 WASHINGTON ST.                              4     1     0   425   366  103.335
+ 278 CORNELL                                     2     3     0   359   385  103.332
+ 279 JOHN. & WALES (R.I.)                        1     1     0   154   154  103.328
+ 280 CHOWAN                                      1     0     0    83    55  103.326
+ 281 OLD DOMINION                                3     2     0   315   301  103.308
+ 282 EASTERN MICH.                               3     4     0   468   510  103.306
+ 283 DARTMOUTH                                   3     3     0   508   446  103.297
+ 284 ARCADIA                                     3     2     0   398   340  103.291
+ 285 CHARLESTON SO.                              4     3     0   554   484  103.272
+ 286 LONGWOOD                                    6     2     0   522   489  103.255
+ 287 PITTSBURG STATE                             4     1     0   433   392  103.236
+ 288 YORK (PA.)                                  4     0     0   317   276  103.211
+ 289 UTRGV                                       5     3     0   566   576  103.187
+ 290 SHEPHERD                                    4     1     0   406   382  103.184
+ 291 MORGAN STATE                                2     3     0   353   390  103.183
+ 292 FRANCIS MARION                              2     1     0   267   273  103.164
+ 293 NORTH FLORIDA                               2     5     0   517   566  103.137
+ 294 RHODE ISLAND                                1     2     0   189   208  103.134
+ 295 AUGSBURG                                    3     0     0   260   222  103.108
+ 296 EVANSVILLE                                  2     3     0   394   407  103.095
+ 297 CALIFORNIA                                  2     3     0   355   366  103.095
+ 298 WEST LIBERTY                                4     1     0   556   465  103.088
+ 299 CONCORDIA (N.Y.)                            1     1     0   152   153  103.053
+ 300 TRINE                                       3     0     0   246   202  103.041
+ 301 NORTHEASTERN                                1     5     0   395   453  102.984
+ 302 WIS.-WHITEWATER                             2     0     0   181   137  102.931
+ 303 TULANE                                      2     4     0   434   443  102.923
+ 304 LINDENWOOD                                  6     4     0   803   725  102.920
+ 305 LAKE FOREST                                 3     0     0   231   194  102.892
+ 306 CHATHAM                                     3     1     0   296   269  102.856
+ 307 FORDHAM                                     5     1     0   475   386  102.855
+ 308 HIGH POINT                                  3     4     0   459   497  102.813
+ 309 PRESBYTERIAN                                2     3     0   375   353  102.789
+ 310 THIEL                                       2     0     0   135   102  102.780
+ 311 BOWLING GREEN                               3     4     0   534   502  102.764
+ 312 LAWRENCE TECH                               1     0     0    84    74  102.746
+ 313 VITERBO                                     1     2     0   209   222  102.745
+ 314 TEXAS A&M                                   2     4     0   447   453  102.745
+ 315 WAKE FOREST                                 4     2     0   456   446  102.732
+ 316 DIST. OF COLUMBIA                           4     2     0   458   463  102.697
+ 317 WEST VIRGINIA ST.                           2     3     0   410   417  102.694
+ 318 CSU EAST BAY                                5     0     0   388   321  102.693
+ 319 NORTH DAKOTA ST.                            2     5     0   468   560  102.654
+ 320 SACRAMENTO ST.                              2     1     0   218   192  102.647
+ 321 GEORGE MASON                                2     4     0   427   447  102.645
+ 322 IDAHO STATE                                 2     3     0   424   430  102.640
+ 323 CAMPBELL                                    3     3     0   474   483  102.626
+ 324 GREEN BAY                                   1     3     0   310   332  102.618
+ 325 UTAH                                        3     3     0   453   437  102.573
+ 326 HENDERSON STATE                             2     0     0   149   140  102.564
+ 327 SOUTHERN MISS                               3     2     0   343   335  102.562
+ 328 FIU                                         5     1     0   577   514  102.541
+ 329 TAMPA                                       4     2     0   404   393  102.534
+ 330 WINTHROP                                    3     2     0   492   420  102.513
+ 331 JEFFERSON                                   2     1     0   238   223  102.509
+ 332 PURDUE NORTHWEST                            1     0     0   113    81  102.508
+ 333 DEPAUW                                      3     0     0   274   230  102.477
+ 334 TEXAS A&M-KING.                             3     1     0   252   219  102.475
+ 335 COLORADO MESA                               3     1     0   361   322  102.456
+ 336 UC DAVIS                                    2     5     0   393   486  102.453
+ 337 WEBER STATE                                 4     2     0   519   418  102.443
+ 338 PORTLAND STATE                              3     2     0   404   369  102.431
+ 339 CSU SAN B'DINO                              3     2     0   379   410  102.409
+ 340 LYNN                                        4     0     0   293   264  102.402
+ 341 ST. EDWARD'S                                4     2     0   497   423  102.400
+ 342 APPALACHIAN ST.                             1     4     0   430   411  102.397
+ 343 ELON                                        4     3     0   509   503  102.397
+ 344 JOHNSON & WALES (CO)                        4     0     0   366   323  102.388
+ 345 GOLDEY-BEACOM                               1     2     0   256   244  102.387
+ 346 UT ARLINGTON                                3     4     0   481   491  102.380
+ 347 HARTFORD                                    4     3     0   534   522  102.365
+ 348 SOUTH CAROLINA                              2     3     0   380   359  102.364
+ 349 BROWN                                       5     2     0   571   487  102.348
+ 350 NEUMANN                                     1     1     0   146   147  102.346
+ 351 OHIO CHRISTIAN                              0     1     0    57    89  102.336
+ 352 ST. MARY'S (TEXAS)                          1     1     0   118   116  102.333
+ 353 DOANE                                       0     1     0    61    72  102.330
+ 354 YALE                                        1     2     0   248   247  102.275
+ 355 MERCER                                      4     3     0   553   434  102.266
+ 356 SHAW                                        5     2     0   578   551  102.263
+ 357 NAVY                                        2     2     0   268   290  102.224
+ 358 CSU BAKERSFIELD                             3     3     0   443   437  102.217
+ 359 OSWEGO STATE                                4     0     0   349   247  102.205
+ 360 HUNTINGTON                                  1     0     0   103    84  102.173
+ 361 GRAND CANYON                                4     2     0   484   405  102.159
+ 362 UC SANTA BARB.                              4     2     0   450   380  102.146
+ 363 WILLIAM CAREY                               1     1     0   135   150  102.134
+ 364 WEST GEORGIA                                2     1     0   239   233  102.126
+ 365 AUB.-MONTGOMERY                             4     2     0   443   432  102.120
+ 366 FLORIDA COL.                                1     0     0    98    87  102.119
+ 367 LITTLE ROCK                                 3     3     0   484   485  102.078
+ 368 HOWARD                                      4     2     0   513   489  102.053
+ 369 FLORIDA A&M                                 3     3     0   397   386  102.028
+ 370 ROWAN                                       3     0     0   303   244  102.025
+ 371 SOUTHERN UNIV.                              3     4     0   476   541  102.000
+ 372 SOUTHEASTERN LA.                            3     4     0   430   494  101.994
+ 373 WEST TEXAS A&M                              3     1     0   314   283  101.984
+ 374 OMAHA                                       3     4     0   531   520  101.967
+ 375 UNI                                         3     3     0   442   413  101.959
+ 376 UNCW                                        4     4     0   653   621  101.949
+ 377 CENTRAL OKLA.                               3     1     0   352   308  101.949
+ 378 ROBERT MORRIS                               3     3     0   421   429  101.947
+ 379 LA.-MONROE                                  3     3     0   436   394  101.943
+ 380 MORRISVILLE STATE                           3     1     0   308   293  101.915
+ 381 WILMINGTON (DEL.)                           3     4     0   485   535  101.883
+ 382 HAMPTON                                     3     3     0   466   427  101.879
+ 383 FLORIDA TECH                                5     2     0   543   534  101.875
+ 384 SEATTLE PACIFIC                             2     2     0   305   293  101.872
+ 385 W.VA. WESLEYAN                              3     1     0   303   284  101.871
+ 386 LOYOLA (MD.)                                2     4     0   445   467  101.808
+ 387 NORTHERN ILL.                               4     2     0   504   424  101.776
+ 388 DREW                                        3     1     0   303   275  101.775
+ 389 PENN ST.-SCHUYLKILL                         1     0     0    71    66  101.767
+ 390 MOREHOUSE                                   4     1     0   410   323  101.758
+ 391 IUPUI                                       3     3     0   414   431  101.745
+ 392 WILKES                                      4     0     0   338   290  101.735
+ 393 TROY                                        3     3     0   453   422  101.731
+ 394 RAMAPO                                      5     0     0   359   325  101.706
+ 395 LINCOLN (PA.)                               3     2     0   394   377  101.705
+ 396 FORT LEWIS                                  3     0     0   236   192  101.682
+ 397 SOUTH DAKOTA                                3     3     0   406   372  101.680
+ 398 LETOURNEAU                                  1     1     0   195   158  101.675
+ 399 BLOOMFIELD                                  1     1     0   152   154  101.665
+ 400 MCKENDREE                                   2     1     0   215   213  101.656
+ 401 VIRGINIA UNION                              3     3     0   424   401  101.651
+ 402 TEXAS A&M-C.C.                              4     3     0   510   443  101.640
+ 403 WIS.-LA CROSSE                              3     2     0   351   333  101.631
+ 404 SMU                                         2     4     0   423   428  101.610
+ 405 BABSON                                      3     1     0   333   294  101.604
+ 406 EAST CAROLINA                               3     4     0   493   508  101.598
+ 407 TRANSYLVANIA                                2     2     0   282   281  101.573
+ 408 SAM HOUSTON ST.                             3     4     0   509   482  101.568
+ 409 ILL.-SPRINGFIELD                            1     2     0   213   233  101.568
+ 410 SOUTHEAST MO. ST.                           4     3     0   494   470  101.544
+ 411 EMBRY-RIDDLE (FL)                           4     3     0   578   531  101.542
+ 412 SETON HILL                                  1     2     0   224   246  101.541
+ 413 EMORY                                       4     1     0   463   408  101.527
+ 414 WESTERN OREGON                              3     1     0   282   239  101.524
+ 415 BROOKLYN                                    4     1     0   381   378  101.502
+ 416 CLEVELAND STATE                             2     4     0   458   461  101.494
+ 417 ROCHESTER (N.Y.)                            6     0     0   424   343  101.480
+ 418 ROGERS STATE                                2     1     0   197   188  101.470
+ 419 UTEP                                        2     3     0   349   381  101.438
+ 420 MASSACHUSETTS                               2     4     0   479   471  101.422
+ 421 WESTERN WASH.                               5     1     0   573   463  101.413
+ 422 DREXEL                                      3     3     0   492   434  101.404
+ 423 TRUMAN                                      2     4     0   393   458  101.393
+ 424 EMMANUEL (GA.)                              4     1     0   413   301  101.393
+ 425 VMI                                         5     3     0   659   581  101.387
+ 426 SHAWNEE STATE                               1     1     0   145   154  101.383
+ 427 CHESTNUT HILL                               2     3     0   367   419  101.356
+ 428 CONCORD                                     3     2     0   405   382  101.351
+ 429 NEB. WESLEYAN                               6     0     0   593   453  101.318
+ 430 PACIFIC LUTHERAN                            2     1     0   254   236  101.317
+ 431 BRIDGEPORT                                  3     2     0   502   486  101.316
+ 432 BOISE STATE                                 2     4     0   438   427  101.294
+ 433 PORTLAND                                    5     3     0   618   611  101.286
+ 434 WESTERN MICH.                               3     3     0   432   443  101.284
+ 435 CONCORDIA IRVINE                            3     2     0   350   322  101.277
+ 436 NIAGARA                                     3     2     0   357   351  101.269
+ 437 SIENA                                       2     4     0   390   417  101.267
+ 438 EASTERN KENTUCKY                            2     3     0   411   449  101.254
+ 439 ARK.-FORT SMITH                             2     4     0   445   459  101.229
+ 440 LE MOYNE                                    2     2     0   305   308  101.222
+ 441 LIU BROOKLYN                                2     3     0   381   421  101.212
+ 442 SEWANEE                                     4     1     0   373   371  101.195
+ 443 HAWAII-HILO                                 2     1     0   237   229  101.191
+ 444 LEES-MCRAE                                  3     3     0   482   542  101.182
+ 445 NORTHERN ARIZ.                              2     2     0   315   323  101.168
+ 446 BOSTON U.                                   3     4     0   487   490  101.158
+ 447 JOHNS HOPKINS                               3     2     0   384   370  101.156
+ 448 MERRIMACK                                   1     1     0   169   171  101.146
+ 449 GREAT LAKE CHRISTIAN                        0     1     0    77   105  101.116
+ 450 FLAGLER                                     2     1     0   243   225  101.105
+ 451 CALVIN                                      3     4     0   497   495  101.098
+ 452 DENVER                                      2     4     0   391   412  101.078
+ 453 MSU TEXAS                                   3     4     0   521   512  101.073
+ 454 SAVANNAH STATE                              3     6     0   743   864  101.065
+ 455 LAGRANGE                                    3     1     0   304   312  101.056
+ 456 ARK.-PINE BLUFF                             2     5     0   474   616  101.054
+ 457 KUTZTOWN                                    3     2     0   438   388  101.048
+ 458 HOOD                                        2     0     0   180   156  101.047
+ 459 MOREHEAD STATE                              2     4     0   467   515  101.040
+ 460 INCARNATE WORD                              4     5     0   583   660  101.023
+ 461 LIVINGSTONE                                 4     2     0   504   490  101.011
+ 462 SACRED HEART                                4     3     0   616   582  101.007
+ 463 WILLIAMS                                    5     0     0   466   307  101.005
+ 464 UTAH VALLEY                                 2     4     0   400   444  100.983
+ 465 TOUGALOO                                    0     1     0    68    87  100.956
+ 466 HILLSDALE                                   1     3     0   253   266  100.937
+ 467 UTSA                                        1     6     0   489   568  100.936
+ 468 WEBSTER                                     3     2     0   347   342  100.922
+ 469 DALLAS BAPTIST                              2     1     0   238   242  100.914
+ 470 SUNY CORTLAND                               1     0     0    85    75  100.891
+ 471 BALDWIN WALLACE                             2     1     0   200   194  100.889
+ 472 AUSTIN PEAY                                 2     4     0   485   463  100.876
+ 473 BETHUNE-COOKMAN                             3     4     0   528   491  100.871
+ 474 VERMONT TECH                                1     1     0   148   168  100.866
+ 475 CHARLESTON (WVA)                            1     2     0   288   268  100.853
+ 476 TREVECCA NAZARENE                           0     2     0    90   197  100.846
+ 477 OAKLAND                                     3     4     0   551   530  100.829
+ 478 RICE                                        3     4     0   538   563  100.828
+ 479 ELIZ. CITY ST.                              2     4     0   435   469  100.818
+ 480 SOUTH ALABAMA                               3     3     0   426   434  100.806
+ 481 CHICO STATE                                 0     1     0    68    84  100.787
+ 482 WAYNE ST. (MICH.)                           0     3     0   200   232  100.756
+ 483 LEMOYNE-OWEN                                2     1     0   241   227  100.751
+ 484 MILWAUKEE                                   2     3     0   377   380  100.702
+ 485 QUINNIPIAC                                  2     2     0   234   267  100.698
+ 486 OKLA. CHRISTIAN                             2     1     0   266   213  100.697
+ 487 BOWIE STATE                                 2     2     0   266   264  100.697
+ 488 NICHOLS                                     4     0     0   341   281  100.666
+ 489 ALA.-HUNTSVILLE                             2     1     0   203   184  100.657
+ 490 NORTHWOOD                                   2     3     0   386   395  100.652
+ 491 N. CENTRAL (ILL.)                           3     0     0   238   182  100.613
+ 492 N.C. A&T                                    1     5     0   420   493  100.610
+ 493 SANTA CLARA                                 2     4     0   398   431  100.608
+ 494 COASTAL CARO.                               4     3     0   554   456  100.569
+ 495 ALDERSON-BROAD.                             2     3     0   388   388  100.565
+ 496 MISSISSIPPI VAL.                            1     5     0   369   489  100.518
+ 497 VIRGINIA STATE                              4     2     0   430   379  100.497
+ 498 POMONA-PITZER                               3     0     0   265   239  100.486
+ 499 FRESNO PACIFIC                              1     2     0   200   224  100.474
+ 500 CLAFLIN                                     2     4     0   465   462  100.461
+ 501 MARIST                                      1     3     0   263   294  100.455
+ 502 DESALES                                     2     1     0   239   220  100.450
+ 503 BINGHAMTON                                  2     4     0   439   455  100.447
+ 504 CHRISTIAN BROS.                             1     0     0    78    56  100.444
+ 505 NEW ENG. COL.                               3     0     0   272   172  100.443
+ 506 S'EASTERN (FLA.)                            1     1     0   165   173  100.435
+ 507 COLUMBUS STATE                              2     0     0   153   127  100.425
+ 508 CALIFORNIA (PA.)                            1     3     0   252   275  100.424
+ 509 CHICAGO STATE                               0     7     0   425   628  100.407
+ 510 GEO. WASHINGTON                             1     5     0   378   439  100.391
+ 511 BUFFALO STATE                               1     2     0   271   274  100.373
+ 512 CWRU                                        3     0     0   237   194  100.371
+ 513 CLAYTON STATE                               2     2     0   277   320  100.363
+ 514 NEW ORLEANS                                 2     2     0   302   282  100.356
+ 515 MOUNT UNION                                 2     1     0   219   195  100.343
+ 516 PACE                                        4     2     0   436   402  100.316
+ 517 MCNEESE                                     2     3     0   349   348  100.315
+ 518 MARIETTA                                    1     0     0    98    66  100.293
+ 519 ST. VINCENT                                 5     0     0   426   345  100.279
+ 520 AIR FORCE                                   2     4     0   402   433  100.266
+ 521 MARYMOUNT (VA.)                             2     1     0   216   202  100.259
+ 522 RANDOLPH                                    3     1     0   291   299  100.257
+ 523 DELTA STATE                                 3     2     0   370   340  100.239
+ 524 ST. FRANCIS (B'KLYN)                        3     3     0   442   399  100.238
+ 525 NICHOLLS STATE                              3     5     0   560   593  100.226
+ 526 CONC.-ST. PAUL                              3     1     0   378   348  100.224
+ 527 ROCKHURST                                   1     2     0   225   210  100.215
+ 528 EASTERN ILLINOIS                            2     4     0   422   458  100.214
+ 529 MACALESTER                                  2     0     0   147   135  100.214
+ 530 NORTHERN STATE                              3     1     0   282   240  100.210
+ 531 WIS.-OSHKOSH                                2     1     0   246   216  100.167
+ 532 WITTENBERG                                  4     0     0   322   256  100.163
+ 533 WIS.-RIVER FALLS                            4     1     0   459   362  100.145
+ 534 COL. OF IDAHO                               0     1     0    73    83  100.142
+ 535 VALPARAISO                                  2     3     0   349   363  100.140
+ 536 ALAS. ANCHORAGE                             1     0     0    82    73  100.132
+ 537 ALBERTUS MAGNUS                             5     2     0   637   601  100.125
+ 538 WEST ALABAMA                                2     3     0   292   333  100.121
+ 539 CENT. CONN. ST.                             2     4     0   479   463  100.118
+ 540 NORTHWEST CHRST.                            0     2     0   164   201  100.112
+ 541 BLUFFTON                                    2     1     0   219   206  100.070
+ 542 DELAWARE VALL.                              0     1     0    55    88  100.060
+ 543 NORTH DAKOTA                                4     3     0   570   473  100.053
+ 544 GWYNEDD MERCY                               1     1     0   136   127  100.039
+ 545 RICHMOND                                    2     4     0   422   435  100.025
+ 546 LONG BEACH ST.                              2     5     0   497   564   99.979
+ 547 WYOMING                                     2     4     0   427   463   99.947
+ 548 SOUTHERN IND.                               2     0     0   172   135   99.945
+ 549 MOLLOY                                      1     1     0   142   176   99.939
+ 550 SAN FRAN. ST.                               4     1     0   342   294   99.927
+ 551 WASH.-ST. LOUIS                             2     2     0   309   303   99.924
+ 552 MARYVILLE (MO.)                             1     2     0   232   229   99.918
+ 553 SIMPSON (CA)                                1     2     0   201   227   99.917
+ 554 QUINCY                                      2     3     0   403   430   99.909
+ 555 TENNESSEE TECH                              1     5     0   379   535   99.904
+ 556 PITT.-JOHNSTOWN                             3     2     0   427   378   99.894
+ 557 CSU FULLERTON                               2     5     0   551   519   99.873
+ 558 CSU DOM. HILLS                              2     3     0   361   397   99.864
+ 559 ST. JOHN FISHER                             3     1     0   325   310   99.824
+ 560 CSUN                                        1     4     0   399   426   99.808
+ 561 HANOVER                                     3     1     0   314   226   99.805
+ 562 VIRGINIA-WISE                               3     3     0   499   489   99.750
+ 563 ST. PETER'S                                 1     4     0   354   395   99.745
+ 564 MONTANA ST.                                 2     6     0   549   673   99.699
+ 565 MAINE-FARM.                                 2     1     0   266   234   99.691
+ 566 PALM BEACH ATL.                             0     1     0    62    73   99.690
+ 567 HAWAII PACIFIC                              2     1     0   245   213   99.684
+ 568 KENTUCKY STATE                              3     1     0   284   274   99.684
+ 569 FAIRLEIGH D'SON                             3     3     0   439   410   99.668
+ 570 ARKANSAS TECH                               2     2     0   352   351   99.659
+ 571 MILES                                       2     3     0   301   297   99.645
+ 572 CANISIUS                                    1     5     0   386   463   99.621
+ 573 PRAIRIE VIEW A&M                            1     6     0   469   514   99.611
+ 574 NEWMAN                                      4     1     0   382   343   99.602
+ 575 BUCKNELL                                    2     2     0   288   288   99.601
+ 576 MASS.-LOWELL                                3     5     0   652   670   99.595
+ 577 MONT. ST.-BILL.                             4     3     0   517   512   99.592
+ 578 NORTHEASTERN ST.                            4     1     0   430   352   99.584
+ 579 PLATTSBURGH ST.                             2     0     0   192   166   99.574
+ 580 UTICA                                       3     0     0   222   194   99.557
+ 581 FONTBONNE                                   2     2     0   319   301   99.546
+ 582 MIT                                         2     2     0   323   315   99.540
+ 583 NORTH ALABAMA                               2     4     0   408   435   99.530
+ 584 TEXAS WESLEYAN                              0     1     0    71    83   99.530
+ 585 CAL STATE LA                                2     2     0   319   310   99.505
+ 586 MILLIKIN                                    2     1     0   246   237   99.495
+ 587 ALASKA-FAIR.                                3     5     0   591   629   99.484
+ 588 ALASKA-ANCH.                                4     4     0   564   579   99.481
+ 589 THOMAS MORE                                 3     2     0   393   298   99.463
+ 590 ALCORN STATE                                1     6     0   431   530   99.448
+ 591 UMKC                                        2     5     0   507   550   99.440
+ 592 YOUNGSTOWN ST.                              3     4     0   580   568   99.434
+ 593 COPPIN STATE                                0     7     0   406   614   99.428
+ 594 BARRY                                       4     0     0   328   231   99.420
+ 595 YOUNG HARRIS                                0     3     0   208   271   99.403
+ 596 BRYANT                                      1     3     0   269   312   99.396
+ 597 CAL BAPTIST                                 2     4     0   482   513   99.378
+ 598 LAMAR UNIVERSITY                            3     4     0   545   494   99.378
+ 599 MANHATTAN                                   2     4     0   313   357   99.374
+ 600 SIUE                                        1     3     0   297   311   99.362
+ 601 UT MARTIN                                   2     2     0   314   311   99.357
+ 602 ST. MARY'S (MINN.)                          2     1     0   213   205   99.355
+ 603 COKER                                       1     0     0    73    61   99.299
+ 604 GORDON                                      3     1     0   347   307   99.286
+ 605 GRAMBLING                                   3     3     0   489   440   99.286
+ 606 BEREA                                       5     0     0   461   414   99.276
+ 607 CHICAGO                                     3     2     0   354   337   99.246
+ 608 AZUSA PACIFIC                               3     4     0   505   545   99.246
+ 609 ARKANSAS STATE                              1     4     0   368   431   99.218
+ 610 ST. THOMAS (MINN.)                          2     1     0   258   228   99.186
+ 611 UT PERMIAN BASIN                            2     1     0   262   274   99.184
+ 612 TENNESSEE STATE                             2     4     0   490   444   99.175
+ 613 OCCIDENTAL                                  3     0     0   258   197   99.172
+ 614 WESTMINSTER (UT)                            2     2     0   287   296   99.159
+ 615 LAFAYETTE                                   2     3     0   376   420   99.121
+ 616 TUSCULUM                                    2     3     0   364   354   99.119
+ 617 SUNY GENESEO                                2     1     0   198   173   99.101
+ 618 TABOR                                       0     1     0    43    93   99.098
+ 619 MULTNOMAH BIBLE                             1     1     0   250   235   99.093
+ 620 COLO. ST. PUEBLO                            2     2     0   304   323   99.088
+ 621 WESTERN CARO.                               2     6     0   563   602   99.073
+ 622 COE                                         3     2     0   384   348   99.043
+ 623 DOMINICAN (CALIF.)                          1     1     0   134   137   99.029
+ 624 MILWAUKEE ENGR.                             4     0     0   318   251   99.001
+ 625 BARD                                        2     3     0   410   426   99.001
+ 626 CENTRAL ARK.                                2     4     0   456   445   99.000
+ 627 S'WEST MINN. ST.                            3     1     0   353   319   98.986
+ 628 KEUKA                                       1     1     0   131   163   98.969
+ 629 WASHINGTON & LEE                            3     1     0   325   295   98.968
+ 630 KENNESAW STATE                              1     7     0   453   582   98.958
+ 631 GLENVILLE STATE                             2     2     0   413   462   98.950
+ 632 JOHN. C. SMITH                              1     2     0   241   253   98.935
+ 633 NEBRASKA-KEARNEY                            3     3     0   412   456   98.909
+ 634 AURORA                                      1     1     0   172   161   98.906
+ 635 CSU STANISLAUS                              3     2     0   377   378   98.899
+ 636 UMES                                        1     6     0   382   514   98.896
+ 637 TENN. WESLEYAN                              0     1     0    73    81   98.880
+ 638 SIMON FRASER                                4     2     0   494   404   98.879
+ 639 WIS.-PARKSIDE                               0     4     0   245   305   98.876
+ 640 SALEM INT'L                                 3     1     0   394   370   98.872
+ 641 COLUMBIA INT'L                              1     1     0   142   160   98.856
+ 642 WEST FLORIDA                                2     2     0   268   265   98.854
+ 643 AMHERST                                     3     0     0   298   185   98.837
+ 644 CARNEGIE MELLON                             1     4     0   371   403   98.810
+ 645 DRURY                                       4     4     0   599   504   98.776
+ 646 REDLANDS                                    2     2     0   342   347   98.757
+ 647 SUSQUEHANNA                                 2     1     0   223   209   98.751
+ 648 JOHN. & WALES (N.C.)                        0     1     0    57   105   98.744
+ 649 BERRY                                       2     1     0   219   200   98.740
+ 650 STEVENSON                                   3     1     0   315   283   98.737
+ 651 AUGUSTA                                     3     2     0   376   361   98.720
+ 652 ALBANY STATE                                3     4     0   521   528   98.720
+ 653 EMPORIA STATE                               1     2     0   204   241   98.715
+ 654 NORFOLK STATE                               2     5     0   486   452   98.696
+ 655 ANGELO STATE                                0     1     0    55    89   98.695
+ 656 CENTRAL WASH.                               4     2     0   562   486   98.693
+ 657 CAL POLY                                    2     4     0   397   441   98.664
+ 658 SLIPPERY ROCK                               2     3     0   436   368   98.663
+ 659 SHORTER                                     0     1     0    69    88   98.660
+ 660 P.R.-BAYAMON                                2     1     0   200   216   98.647
+ 661 AUGUSTANA (S.D.)                            3     2     0   367   335   98.643
+ 662 E. STROUDSBURG                              3     2     0   410   358   98.607
+ 663 HARTWICK                                    3     3     0   465   465   98.599
+ 664 EDINBORO                                    1     1     0   147   130   98.599
+ 665 CORNERSTONE                                 1     1     0   132   128   98.598
+ 666 CORNELL (IOWA)                              1     2     0   213   256   98.596
+ 667 IONA                                        1     5     0   459   504   98.588
+ 668 S. CAROLINA ST.                             1     6     0   481   536   98.585
+ 669 NAZARETH                                    3     2     0   391   400   98.567
+ 670 CEDARVILLE                                  2     5     0   493   507   98.555
+ 671 MINN.-CROOKSTON                             6     2     0   618   481   98.531
+ 672 WAGNER                                      1     3     0   288   321   98.506
+ 673 LANCASTER BIBLE                             1     2     0   222   244   98.496
+ 674 TRINITY (CONN.)                             2     1     0   239   235   98.493
+ 675 SHENANDOAH                                  2     1     0   205   229   98.415
+ 676 SAINT LEO                                   2     5     0   487   521   98.415
+ 677 ST. AUGUSTINE'S                             2     4     0   402   450   98.407
+ 678 ST. FRANCIS (IL)                            1     0     0   107    77   98.400
+ 679 MT. ST. MARY'S                              0     5     0   341   421   98.394
+ 680 WINSTON-SALEM                               2     2     0   297   278   98.383
+ 681 LEBANON VALLEY                              2     2     0   338   331   98.367
+ 682 EAST. CONN. ST.                             3     1     0   331   287   98.352
+ 683 SUNY POLY                                   1     1     0   141   156   98.330
+ 684 WEST CHESTER                                1     3     0   301   317   98.314
+ 685 CHATTANOOGA                                 3     4     0   490   489   98.309
+ 686 LA SALLE                                    0     7     0   489   581   98.289
+ 687 P.R.-RIO PIEDRAS                            2     3     0   289   313   98.272
+ 688 WILLIAM PATERSON                            3     2     0   366   353   98.259
+ 689 ALBANY                                      2     4     0   418   419   98.242
+ 690 NORTHERN N.M.                               1     3     0   298   346   98.229
+ 691 UC RIVERSIDE                                1     6     0   403   479   98.218
+ 692 M. HARDIN-BAYLOR                            3     0     0   252   219   98.184
+ 693 WINGATE                                     2     4     0   499   490   98.183
+ 694 IMMACULATA                                  1     1     0   139   177   98.159
+ 695 MARYVILLE (TENN.)                           1     1     0   158   152   98.157
+ 696 MT. MARTY                                   0     1     0    58    75   98.146
+ 697 CARTHAGE                                    1     2     0   205   231   98.144
+ 698 WHITMAN                                     1     1     0   193   187   98.140
+ 699 GANNON                                      2     2     0   263   253   98.126
+ 700 FLA. NATIONAL                               0     2     0   184   222   98.105
+ 701 WIS.-EAU CLAIRE                             3     1     0   293   272   98.094
+ 702 HUNTINGDON                                  1     2     0   233   261   98.074
+ 703 COBLESKILL STATE                            2     1     0   234   241   98.071
+ 704 GETTYSBURG                                  2     4     0   465   502   98.069
+ 705 FAIRFIELD                                   1     5     0   450   462   98.012
+ 706 CINCINNATI CHRISTIAN                        0     1     0    79    96   98.005
+ 707 MONTCLAIR STATE                             1     1     0   121   127   98.001
+ 708 PUGET SOUND                                 2     3     0   389   430   97.974
+ 709 WHEATON (MASS.)                             5     1     0   464   398   97.962
+ 710 SONOMA STATE                                4     3     0   492   499   97.942
+ 711 LINCOLN (MO.)                               3     2     0   356   350   97.939
+ 712 WABASH                                      1     1     0   138   163   97.922
+ 713 MILLIGAN                                    0     2     0   141   200   97.917
+ 714 YORK (N.Y.)                                 3     2     0   369   419   97.916
+ 715 IDAHO                                       2     4     0   461   415   97.883
+ 716 FORT HAYS STATE                             4     3     0   542   502   97.861
+ 717 CHADRON STATE                               2     4     0   391   407   97.858
+ 718 MILLERSVILLE                                1     3     0   316   326   97.851
+ 719 WALDORF                                     0     3     0   147   235   97.841
+ 720 SUNY POTSDAM                                2     2     0   319   318   97.815
+ 721 CAL ST. SAN MARCOS                          2     3     0   367   404   97.808
+ 722 HARDING                                     0     3     0   196   273   97.805
+ 723 EDWARD WATERS                               0     1     0    83    95   97.803
+ 724 WIS. LUTHERAN                               3     2     0   406   373   97.799
+ 725 SUFFOLK                                     2     3     0   387   379   97.784
+ 726 ALFRED ST.                                  1     0     0    80    79   97.775
+ 727 MILLSAPS                                    2     1     0   229   244   97.775
+ 728 MCMURRY                                     2     1     0   247   249   97.738
+ 729 FANSHAWE (CAN)                              0     1     0    72   111   97.721
+ 730 BLACKBURN                                   2     2     0   378   383   97.716
+ 731 BRANDEIS                                    3     1     0   264   240   97.712
+ 732 ST. LAWRENCE                                1     2     0   237   255   97.680
+ 733 ALMA                                        0     3     0   222   258   97.672
+ 734 MARY WASHINGTON                             3     0     0   244   210   97.659
+ 735 MO. WESTERN ST.                             1     2     0   225   243   97.651
+ 736 CARDINAL STRITCH                            1     0     0    79    68   97.628
+ 737 MUSKINGUM                                   1     0     0    81    80   97.627
+ 738 AVE MARIA                                   0     3     0   220   259   97.626
+ 739 N.C. CENTRAL                                1     6     0   482   514   97.570
+ 740 PRINCETON                                   1     2     0   183   206   97.567
+ 741 SIENA HEIGHTS                               0     1     0    75   103   97.558
+ 742 WESTERN ILLINOIS                            2     4     0   451   423   97.557
+ 743 VIRGINIA WESLEYAN                           2     2     0   268   270   97.551
+ 744 ILLINOIS COL.                               2     2     0   355   325   97.550
+ 745 MAINE                                       0     6     0   337   445   97.540
+ 746 ST. BONAVENTURE                             1     5     0   390   412   97.522
+ 747 CAPITAL                                     1     1     0   168   169   97.497
+ 748 TUFTS                                       2     2     0   334   354   97.478
+ 749 E. TEXAS BAPT.                              1     1     0   150   160   97.460
+ 750 NORTHWESTERN OKLA.                          1     2     0   222   233   97.459
+ 751 ILLINOIS TECH                               2     3     0   344   321   97.450
+ 752 N'WESTERN ST.                               2     5     0   468   543   97.439
+ 753 ROANOKE                                     4     1     0   404   286   97.412
+ 754 TIFFIN                                      0     3     0   195   296   97.408
+ 755 N'WESTERN-ST. PAUL                          2     2     0   317   328   97.379
+ 756 WILLIAM JEWELL                              1     2     0   246   253   97.375
+ 757 SAN JOSE STATE                              1     5     0   434   443   97.368
+ 758 GOSHEN                                      0     1     0    74    97   97.368
+ 759 BELMONT ABBEY                               1     1     0   157   157   97.351
+ 760 KING'S (NY)                                 0     1     0    72    96   97.348
+ 761 LANE                                        2     2     0   295   300   97.344
+ 762 BIRMINGHAM-SO.                              3     2     0   428   434   97.296
+ 763 PITT.-GREENSBURG                            2     3     0   385   395   97.278
+ 764 KENTUCKY WESLEYAN                           0     1     0    72    92   97.265
+ 765 CONCORDIA (MICH.)                           0     1     0    67    98   97.244
+ 766 RUTGERS-NEWARK                              3     1     0   269   237   97.223
+ 767 EASTERN N.M.                                0     3     0   180   252   97.197
+ 768 MO. BAPTIST                                 0     1     0    69    86   97.193
+ 769 PENN ST.-BEAVER                             0     1     0    62    77   97.139
+ 770 MONTEVALLO                                  1     3     0   256   265   97.118
+ 771 FDU-FLORHAM                                 1     2     0   203   201   97.116
+ 772 STETSON                                     1     6     0   527   565   97.088
+ 773 SOUTHERN ARK.                               1     1     0   132   134   97.058
+ 774 EASTERN WASH.                               0     4     0   264   333   97.026
+ 775 HUSSON                                      3     1     0   320   273   97.023
+ 776 NEW HAMPSHIRE                               2     4     0   456   447   96.993
+ 777 SIMPSON (IOWA)                              4     1     0   437   398   96.978
+ 778 BETHEL (MINN.)                              2     2     0   316   295   96.970
+ 779 TUSKEGEE                                    1     5     0   385   428   96.966
+ 780 ANDERSON (S.C.)                             3     1     0   331   274   96.966
+ 781 ANDERSON (IND.)                             1     3     0   293   322   96.960
+ 782 R.I. COLLEGE                                4     1     0   374   326   96.956
+ 783 BOWDOIN                                     2     2     0   351   328   96.936
+ 784 S'EASTERN OKLA.                             0     1     0    92   101   96.927
+ 785 TEXAS A&M-COMM.                             1     4     0   373   447   96.925
+ 786 URSINUS                                     2     2     0   323   315   96.924
+ 787 ADRIAN                                      3     1     0   310   286   96.919
+ 788 NEWBERRY                                    1     3     0   321   339   96.912
+ 789 JACKSONVILLE                                2     6     0   587   591   96.910
+ 790 GEORGE FOX                                  3     2     0   439   434   96.898
+ 791 FELICIAN                                    1     3     0   312   352   96.894
+ 792 CABRINI                                     1     1     0   151   148   96.891
+ 793 ALFRED                                      2     0     0   171   153   96.889
+ 794 EAST CENTRAL                                2     2     0   342   301   96.876
+ 795 ARMY WEST POINT                             1     5     0   447   476   96.876
+ 796 LOCK HAVEN                                  1     2     0   220   222   96.874
+ 797 FRANKLIN                                    1     4     0   392   435   96.857
+ 798 MAINE-FORT KENT                             0     3     0   175   292   96.797
+ 799 KALAMAZOO                                   2     3     0   416   407   96.794
+ 800 LUTHER                                      1     2     0   218   230   96.791
+ 801 UNION (TENN.)                               0     1     0    78    80   96.780
+ 802 DAVIS & ELKINS                              1     5     0   399   503   96.761
+ 803 ELMHURST                                    2     1     0   252   244   96.723
+ 804 UNIVERSITY OF THE SOUTHWEST                 0     1     0    62    65   96.707
+ 805 ORAL ROBERTS                                1     7     0   567   642   96.690
+ 806 WIDENER                                     1     2     0   238   253   96.685
+ 807 REGENT                                      0     1     0    55    83   96.674
+ 808 FROSTBURG STATE                             2     2     0   303   311   96.674
+ 809 PENN ST-WILKES BARRE                        0     1     0    81    87   96.673
+ 810 WILBERFORCE                                 0     3     0   184   269   96.673
+ 811 WILEY                                       0     1     0    65    74   96.669
+ 812 GRACE BIBLE                                 0     2     0   132   163   96.662
+ 813 LYCOMING                                    2     1     0   236   212   96.657
+ 814 OTTAWA (AZ)                                 0     1     0    69    87   96.645
+ 815 W. CONN. ST.                                2     2     0   345   325   96.642
+ 816 PACIFIC (ORE.)                              3     2     0   590   606   96.639
+ 817 WEBBER INT'L                                0     1     0    84   110   96.634
+ 818 ROSEMONT                                    2     2     0   323   316   96.630
+ 819 BLACK HILLS ST.                             1     3     0   249   302   96.624
+ 820 COLO. SCH. OF MINES                         2     2     0   313   263   96.612
+ 821 MAYVILLE STATE                              1     1     0   156   147   96.577
+ 822 COLBY-SAWYER                                2     1     0   252   227   96.569
+ 823 BRIDGEWATER                                 1     2     0   227   212   96.562
+ 824 MANCHESTER                                  1     4     0   377   486   96.549
+ 825 MERCY                                       1     4     0   336   380   96.522
+ 826 SPRING HILL                                 2     2     0   296   331   96.513
+ 827 PFEIFFER                                    0     1     0    99   134   96.512
+ 828 LANDER                                      1     4     0   345   390   96.486
+ 829 MESSIAH                                     2     3     0   387   381   96.472
+ 830 ALLEN                                       1     1     0   151   184   96.468
+ 831 LINFIELD                                    3     1     0   372   295   96.397
+ 832 PIEDMONT INT'L                              0     1     0    86    87   96.362
+ 833 SAINT ROSE                                  0     2     0   121   148   96.358
+ 834 SOUTHERN VERMONT                            3     1     0   310   297   96.357
+ 835 BREWTON PARKER                              0     2     0   146   219   96.331
+ 836 WESTERN STATE                               2     3     0   405   404   96.328
+ 837 WASHINGTON (MD.)                            2     4     0   388   437   96.323
+ 838 LINCOLN CHRISTIAN                           1     2     0   243   274   96.317
+ 839 WASH. ADVENT.                               0     1     0    91   115   96.315
+ 840 U. OF THE SCIENCES                          2     5     0   457   547   96.301
+ 841 STOCKTON                                    0     1     0    63   112   96.286
+ 842 EMERSON                                     3     3     0   477   491   96.212
+ 843 SALVE REGINA                                2     2     0   305   354   96.197
+ 844 FRANK. & MARSH.                             3     2     0   374   370   96.193
+ 845 P.R.-MAYAGUEZ                               0     5     0   316   430   96.190
+ 846 WHITWORTH                                   3     1     0   320   284   96.179
+ 847 NEB. CHRISTIAN                              0     1     0    52   101   96.157
+ 848 ALBION                                      1     1     0   146   152   96.105
+ 849 UNC ASHEVILLE                               1     5     0   327   421   96.100
+ 850 CAL LUTHERAN                                2     3     0   374   443   96.075
+ 851 UC SANTA CRUZ                               3     2     0   374   369   96.071
+ 852 RUTGERS-CAMDEN                              0     2     0   141   157   96.052
+ 853 CALTECH                                     2     1     0   191   195   96.051
+ 854 PEACE                                       2     2     0   328   322   96.047
+ 855 HOLY FAMILY                                 1     1     0   157   156   96.046
+ 856 MANSFIELD                                   0     3     0   222   269   96.020
+ 857 MINN. ST.-M'HEAD                            3     2     0   461   358   96.010
+ 858 POST                                        1     3     0   334   359   95.990
+ 859 DELAWARE STATE                              0     5     0   282   425   95.972
+ 860 METRO STATE                                 1     2     0   216   217   95.965
+ 861 MIDDLE GA. ST.                              0     1     0    95   105   95.888
+ 862 TRUETT-MCCONNELL                            0     1     0    55    65   95.884
+ 863 CENTENARY (N.J.)                            0     5     0   328   398   95.882
+ 864 ALABAMA A&M                                 0     6     0   348   492   95.878
+ 865 OKLA. BAPTIST                               1     3     0   365   332   95.829
+ 866 UT DALLAS                                   2     1     0   227   219   95.826
+ 867 UC-COLO. SPRINGS                            1     2     0   230   214   95.824
+ 868 HUMBOLDT STATE                              3     5     0   646   617   95.816
+ 869 PENN ST.-BRANDYWINE                         2     2     0   324   344   95.797
+ 870 MINOT ST.                                   5     4     0   608   577   95.784
+ 871 COLUMBIA                                    1     4     0   400   382   95.750
+ 872 WILMINGTON (OHIO)                           2     1     0   189   222   95.747
+ 873 MOUNT OLIVE                                 1     3     0   258   315   95.747
+ 874 MCDANIEL                                    2     1     0   216   218   95.735
+ 875 MARS HILL                                   1     4     0   325   451   95.733
+ 876 NYACK                                       0     2     0   154   169   95.729
+ 877 BUENA VISTA                                 2     3     0   374   443   95.718
+ 878 MANHATTANVILLE                              3     1     0   368   313   95.705
+ 879 S.C. UPSTATE                                1     4     0   338   351   95.688
+ 880 ST. MARY'S (MD.)                            2     3     0   392   393   95.685
+ 881 HOLY NAMES                                  1     2     0   194   220   95.576
+ 882 KAN. WESLEYAN                               1     1     0   111   141   95.573
+ 883 OUR LADY OF THE LAKE                        0     1     0    83   113   95.561
+ 884 METHODIST                                   1     3     0   247   293   95.554
+ 885 MACMURRAY                                   2     1     0   218   201   95.530
+ 886 MARY                                        2     3     0   337   283   95.523
+ 887 AUSTIN                                      2     2     0   314   368   95.501
+ 888 DEAN COLLEGE                                3     2     0   396   364   95.472
+ 889 BENEDICTINE MESA                            0     1     0    61   100   95.424
+ 890 CULVER-STOCKTON                             0     1     0    53    95   95.418
+ 891 CARROLL (WIS.)                              2     3     0   368   339   95.401
+ 892 JACKSON STATE                               0     6     0   317   450   95.398
+ 893 HOPE                                        3     2     0   414   412   95.382
+ 894 MONMOUTH                                    0     7     0   424   532   95.372
+ 895 COLO. CHRISTIAN                             2     5     0   481   562   95.369
+ 896 ST. NORBERT                                 1     2     0   211   223   95.350
+ 897 ARK.-MONTICELLO                             1     2     0   209   205   95.340
+ 898 BEMIDJI STATE                               1     2     0   217   246   95.286
+ 899 MORRIS                                      1     2     0   246   270   95.281
+ 900 ST. THOMAS (TEXAS)                          1     0     0    92    73   95.276
+ 901 BLUEFIELD STATE                             2     4     0   452   499   95.251
+ 902 MONMOUTH (ILL.)                             2     3     0   373   400   95.227
+ 903 LOUISIANA COLL.                             1     2     0   216   230   95.212
+ 904 WALSH                                       0     1     0    75    88   95.201
+ 905 NORTHLAND                                   2     2     0   280   338   95.177
+ 906 CHAPMAN                                     2     2     0   332   321   95.155
+ 907 BARUCH                                      4     2     0   432   386   95.150
+ 908 HILBERT                                     2     1     0   231   215   95.116
+ 909 ST. FRANCIS (ILL.)                          0     1     0    49    63   95.115
+ 910 CARVER BIBLE                                0     4     0   204   426   95.057
+ 911 WISCONSIN-STOUT                             3     2     0   412   386   95.045
+ 912 RENSSELAER                                  2     2     0   295   276   95.038
+ 913 PURCHASE                                    2     1     0   244   216   95.034
+ 914 CLAREMONT-M-S                               2     2     0   273   242   95.015
+ 915 SALEM STATE                                 2     3     0   417   452   95.015
+ 916 CATHOLIC                                    2     3     0   373   366   95.000
+ 917 CONCORDIA (OR)                              1     3     0   307   317   94.989
+ 918 COLORADO COL.                               2     4     0   419   552   94.978
+ 919 MASS.-DARTMOUTH                             3     2     0   383   354   94.974
+ 920 LYNDON STATE                                0     1     0    56   122   94.965
+ 921 KY. CHRISTIAN                               0     3     0   261   315   94.941
+ 922 ITHACA                                      1     2     0   239   255   94.941
+ 923 PLYMOUTH STATE                              3     2     0   396   392   94.909
+ 924 SOUTHWESTERN CHRISTIAN                      0     1     0    53    87   94.879
+ 925 OHIO WESLEYAN                               2     2     0   313   314   94.879
+ 926 MARYWOOD                                    1     1     0   135   121   94.877
+ 927 ANTELOPE VALLEY                             0     3     0   213   266   94.870
+ 928 COLBY                                       4     1     0   461   336   94.870
+ 929 PENN ST.-HAZLETON                           1     1     0   133   140   94.856
+ 930 QUEENS (N.Y.)                               0     6     0   334   449   94.832
+ 931 BATES                                       2     2     0   297   274   94.822
+ 932 CAIRN                                       1     1     0   195   186   94.820
+ 933 BENEDICT                                    0     6     0   447   531   94.808
+ 934 S'WESTERN (TEXAS)                           3     3     0   483   494   94.798
+ 935 SUNY CANTON                                 2     2     0   336   330   94.790
+ 936 ADAMS STATE                                 0     3     0   256   288   94.788
+ 937 MASS.-BOSTON                                4     1     0   399   361   94.786
+ 938 SAN DIEGO CHRISTIAN                         0     4     0   243   351   94.760
+ 939 BETHANY LUTHERAN                            2     4     0   515   550   94.756
+ 940 OAKWOOD                                     0     1     0    59    68   94.729
+ 941 ACADEMY OF ART                              0     5     0   299   358   94.697
+ 942 MISSISSIPPI COLL.                           0     3     0   152   269   94.683
+ 943 S'WESTERN OKLA.                             0     2     0   168   209   94.678
+ 944 HAMLINE                                     2     1     0   244   213   94.649
+ 945 ALICE LLOYD                                 0     1     0    73    79   94.644
+ 946 HARRIS-STOWE                                0     1     0    80    90   94.644
+ 947 DALLAS CHRISTIAN                            0     2     0   150   241   94.637
+ 948 PIEDMONT                                    0     6     0   409   524   94.636
+ 949 IOWA WESLEYAN                               1     3     0   289   342   94.627
+ 950 ST. LOUIS PHARMACY                          0     3     0   272   312   94.600
+ 951 HAVERFORD                                   1     2     0   211   229   94.594
+ 952 PRINCIPIA                                   1     4     0   358   435   94.592
+ 953 GREENVILLE                                  2     2     0   537   509   94.583
+ 954 TCNJ                                        1     1     0   180   178   94.575
+ 955 COVENANT                                    0     3     0   229   256   94.573
+ 956 ST. JOSEPH (CONN.)                          4     2     0   489   459   94.569
+ 957 MISSOURI S&T                                1     5     0   520   463   94.555
+ 958 WESLEYAN (CONN.)                            2     2     0   287   278   94.549
+ 959 FORT VALLEY ST.                             1     8     0   547   714   94.535
+ 960 NORTH GREENVILLE                            0     4     0   270   381   94.523
+ 961 HIRAM                                       2     2     0   301   314   94.515
+ 962 WESTMIN. (PA.)                              1     2     0   191   227   94.490
+ 963 URBANA                                      0     4     0   286   364   94.484
+ 964 YORK (NE)                                   0     2     0   119   174   94.428
+ 965 CCNY                                        0     2     0   130   210   94.411
+ 966 CENTRAL PENN                                0     3     0   182   268   94.407
+ 967 JOHNSON STATE                               0     3     0   139   239   94.403
+ 968 SOUTHWEST BAPT.                             2     3     0   406   373   94.391
+ 969 MOUNT ALOYSIUS                              0     1     0    57   104   94.388
+ 970 MISERICORDIA                                3     2     0   384   400   94.375
+ 971 PENN ST.-ABINGTON                           2     2     0   330   321   94.347
+ 972 OGLETHORPE                                  2     4     0   402   411   94.335
+ 973 HEIDELBERG                                  0     2     0   140   174   94.327
+ 974 MAINE MARITIME                              3     2     0   357   342   94.320
+ 975 HOBART                                      1     3     0   296   322   94.296
+ 976 MORAVIAN                                    0     2     0   150   159   94.265
+ 977 SUNY ONEONTA                                2     2     0   317   295   94.260
+ 978 EMMANUEL (MASS.)                            3     2     0   388   360   94.251
+ 979 JOHNSON                                     0     3     0   238   265   94.247
+ 980 WESLEY                                      0     3     0   215   258   94.220
+ 981 PITT.-BRADFORD                              1     1     0   135   129   94.182
+ 982 BLOOMSBURG                                  1     2     0   210   274   94.177
+ 983 SPALDING                                    0     3     0   156   255   94.154
+ 984 ST. OLAF                                    1     3     0   299   314   94.143
+ 985 MARTIN METHODIST                            0     2     0   140   170   94.134
+ 986 ST. JOS. (MAINE)                            3     2     0   434   415   94.133
+ 987 WESTMIN. (MO.)                              1     3     0   282   329   94.120
+ 988 HARDIN-SIMMONS                              1     2     0   227   252   94.110
+ 989 GREENSBORO                                  1     3     0   256   349   94.107
+ 990 OAKLAND CITY                                1     4     0   331   429   94.098
+ 991 TEXAS A&M-INT'L                             0     2     0    96   118   94.081
+ 992 PRESENTATION                                0     1     0    68    83   94.065
+ 993 COAST GUARD                                 2     0     0   159   130   94.059
+ 994 JOHN. & WALES (COLO.)                       0     1     0    65    90   94.054
+ 995 MARANATHA BAPT.                             2     2     0   297   297   93.989
+ 996 ROGER WILLIAMS                              2     3     0   407   394   93.956
+ 997 TEXAS LUTHERAN                              0     2     0   146   160   93.952
+ 998 SKIDMORE                                    1     1     0   147   150   93.940
+ 999 MARTIN LUTHER                               1     2     0   191   226   93.933
+1000 UT TYLER                                    0     4     0   277   327   93.933
+1001 WAYLAND BAPTIST                             0     1     0    80    88   93.918
+1002 PENN ST.-ALTOONA                            1     4     0   365   392   93.895
+1003 WARNER PACIFIC                              1     2     0   219   230   93.880
+1004 CLARK ATLANTA                               0     5     0   299   346   93.826
+1005 LIFE PACIFIC                                0     3     0   184   244   93.804
+1006 PENN ST.-FAYETTE                            0     2     0   138   194   93.800
+1007 NOTRE DAME DE NAMUR                         0     4     0   222   275   93.752
+1008 BOYCE                                       0     2     0   116   191   93.748
+1009 MENLO                                       0     2     0   132   160   93.647
+1010 STATEN ISLAND                               1     3     0   276   309   93.624
+1011 CAMP. SOMERSET                              0     2     0   133   209   93.590
+1012 MITCHELL                                    1     2     0   246   277   93.580
+1013 GA. S'WESTERN                               0     3     0   194   207   93.561
+1014 JUNIATA                                     2     2     0   251   280   93.520
+1015 WESTFIELD STATE                             2     3     0   407   377   93.518
+1016 BLUE MOUNTAIN                               0     2     0   114   151   93.466
+1017 PENN ST.-MONT ALTO                          0     1     0    90   105   93.466
+1018 CARLETON                                    1     1     0   125   110   93.463
+1019 CENTRAL STATE                               1     4     0   364   397   93.440
+1020 TRINITY BAPTIST                             0     2     0    93   202   93.438
+1021 HENDRIX                                     3     3     0   432   449   93.373
+1022 WHEELING JESUIT                             0     5     0   398   461   93.329
+1023 EAST. MENNONITE                             1     2     0   221   249   93.317
+1024 HUSTON-TILLOTSON                            0     1     0    59    79   93.303
+1025 WORCESTER STATE                             2     4     0   456   525   93.269
+1026 MINNESOTA-MORRIS                            2     4     0   386   513   93.264
+1027 DICKINSON                                   1     4     0   371   394   93.204
+1028 CONCORDIA (NEB.)                            0     1     0    56    89   93.156
+1029 PAINE                                       0     3     0   174   207   93.153
+1030 GRINNELL                                    3     2     0   658   592   93.122
+1031 MAINE-MACHIAS                               0     1     0    64    96   93.113
+1032 GUILFORD                                    2     3     0   382   356   93.099
+1033 NYIT                                        0     1     0    57    85   93.081
+1034 ST. SCHOLASTICA                             0     1     0    72    98   93.081
+1035 SOUTHERN WESLEYAN                           0     5     0   297   375   93.079
+1036 MEDAILLE                                    0     1     0    68    81   93.046
+1037 CASTLETON                                   2     1     0   218   222   92.993
+1038 OTTERBEIN                                   1     4     0   367   420   92.988
+1039 CARLOW                                      0     6     0   464   629   92.977
+1040 CENTRAL (IOWA)                              1     3     0   321   351   92.977
+1041 BETHESDA CHRISTIAN                          0     3     0   172   325   92.965
+1042 MOBILE                                      0     2     0   133   148   92.938
+1043 N.C. WESLEYAN                               2     1     0   214   197   92.932
+1044 CHEYNEY                                     0     5     0   283   405   92.930
+1045 S. CONN. ST.                                1     4     0   387   393   92.910
+1046 FISK                                        0     3     0   167   304   92.898
+1047 COASTAL GEORGIA                             0     1     0    62    92   92.874
+1048 CUMBERLAND                                  0     3     0   185   267   92.845
+1049 HIWASSEE                                    0     3     0   161   298   92.800
+1050 NON-NCAA                                    0     2     0   120   189   92.795
+1051 BETHANY (W.VA.)                             1     3     0   254   303   92.768
+1052 NEW YORK U.                                 2     3     0   348   356   92.707
+1053 CORBAN                                      0     1     0    68    90   92.694
+1054 CALIFORNIA MERCED                           0     1     0    53    63   92.681
+1055 LASELL                                      1     5     0   406   475   92.640
+1056 SOUTH DAKOTA MINES                          0     5     0   293   361   92.631
+1057 WHITTIER                                    1     3     0   353   343   92.628
+1058 NORTHWOOD (FLA.)                            0     1     0    52    81   92.600
+1059 PINE MANOR                                  1     6     0   499   589   92.589
+1060 JARVIS CHRISTIAN                            0     1     0    68   105   92.584
+1061 JOHN JAY                                    2     1     0   210   173   92.560
+1062 WILLIAM WOODS                               0     1     0    57    80   92.475
+1063 REGIS (MASS.)                               4     2     0   471   438   92.471
+1064 AVILA                                       0     1     0    58    94   92.460
+1065 WEST COAST BAPTIST                          0     4     0   232   412   92.457
+1066 SOUTHERN MAINE                              2     2     0   351   355   92.380
+1067 FLA. CHRISTIAN                              0     3     0   173   350   92.359
+1068 HOUGHTON                                    0     4     0   262   324   92.344
+1069 BELOIT                                      1     2     0   194   216   92.317
+1070 BARCLAY                                     0     1     0    45    95   92.309
+1071 ST. THOMAS (FL)                             0     1     0    60    86   92.273
+1072 FITCHBURG STATE                             2     4     0   492   531   92.269
+1073 EUREKA                                      1     5     0   548   577   92.213
+1074 NORTH PARK                                  1     7     0   570   699   92.199
+1075 CROWN                                       0     2     0   160   200   92.194
+1076 KEAN                                        1     3     0   230   329   92.176
+1077 GROVE CITY                                  2     2     0   282   287   92.129
+1078 SAGE                                        2     2     0   354   334   92.087
+1079 PENSACOLA CHRISTIAN                         0     2     0   150   185   92.077
+1080 CHAMPION BAPT.                              0     1     0    58    99   92.056
+1081 LEHMAN                                      2     2     0   306   311   92.033
+1082 ALBRIGHT                                    0     3     0   221   243   92.014
+1083 EVERGREEN STATE                             0     4     0   334   439   91.997
+1084 AQUINAS                                     0     3     0   178   262   91.964
+1085 EAST. NAZARENE                              1     4     0   359   401   91.960
+1086 CLARKSON                                    0     5     0   343   424   91.944
+1087 ELMIRA                                      0     4     0   299   364   91.922
+1088 GEORGIAN COURT                              1     3     0   288   305   91.859
+1089 CAPILANO                                    0     3     0   222   332   91.814
+1090 PENN ST.-SHENANGO                           0     1     0    56    87   91.808
+1091 STERLING (KAN.)                             0     1     0    73    99   91.767
+1092 FAYETTEVILLE ST.                            0     5     0   344   397   91.753
+1093 WILLAMETTE                                  0     3     0   175   280   91.748
+1094 WESTERN NEW ENG.                            2     5     0   493   587   91.747
+1095 DEFIANCE                                    0     4     0   237   318   91.742
+1096 ELIZABETHTOWN                               0     2     0   128   153   91.739
+1097 CENTENARY (LA.)                             1     5     0   393   467   91.726
+1098 HASKELL                                     0     3     0   220   272   91.716
+1099 WIS.-PLATTEVILLE                            0     1     0    86    97   91.711
+1100 LAKELAND                                    1     2     0   236   243   91.667
+1101 KENT ST.-TUSCARAWAS                         0     2     0    89   176   91.591
+1102 BENEDICTINE (ILL.)                          0     1     0    76    83   91.583
+1103 RIT                                         1     2     0   191   210   91.581
+1104 SCHREINER                                   0     1     0    64    83   91.566
+1105 OLIVET                                      0     2     0   197   236   91.553
+1106 EARLHAM                                     0     4     0   232   319   91.506
+1107 WARREN WILSON                               0     3     0   202   337   91.506
+1108 ERSKINE                                     0     1     0    64    75   91.505
+1109 HUNTER                                      1     2     0   201   221   91.492
+1110 OBERLIN                                     1     2     0   231   221   91.481
+1111 CSU MONT. BAY                               0     5     0   370   428   91.427
+1112 YESHIVA                                     1     3     0   345   339   91.417
+1113 CATHOLIC (PR)                               0     2     0   125   141   91.373
+1114 CLARION                                     0     2     0   122   155   91.362
+1115 U. NEW ENGLAND                              1     4     0   481   540   91.333
+1116 SOUTHERN VIRGINIA                           0     3     0   205   242   91.327
+1117 LAWRENCE                                    2     3     0   364   381   91.262
+1118 ANNA MARIA                                  2     3     0   419   427   91.236
+1119 STEVENS INST.                               2     2     0   293   294   91.214
+1120 CONC.-CHICAGO                               0     1     0    93   114   91.190
+1121 SARAH LAWRENCE                              3     3     0   449   450   91.183
+1122 CALDWELL                                    1     1     0   164   172   91.180
+1123 HOWARD PAYNE                                0     4     0   238   358   91.173
+1124 KNOX                                        1     4     0   319   431   91.111
+1125 CENT. CHRISTIAN (KS)                        0     1     0    46    71   91.061
+1126 SUNY NEW PALTZ                              0     1     0    74    90   91.041
+1127 MT. ST. VINCENT                             1     3     0   285   337   90.994
+1128 LEWIS & CLARK                               0     2     0   122   152   90.926
+1129 BOB JONES                                   0     1     0    39    95   90.926
+1130 PENN ST.-BERKS                              0     2     0   172   195   90.910
+1131 HAMPDEN-SYDNEY                              2     2     0   260   316   90.834
+1132 ROCKFORD                                    0     2     0   117   193   90.746
+1133 WIS.-SUPERIOR                               1     4     0   307   372   90.638
+1134 BAPTIST BIBLE                               0     4     0   231   348   90.600
+1135 BACONE                                      0     2     0   120   216   90.562
+1136 SOUTHERN POLY                               1     1     0   145   160   90.520
+1137 PENN COLLEGE                                0     1     0    75    89   90.504
+1138 CONC.-MOORHEAD                              1     3     0   290   325   90.490
+1139 MID-ATLANTIC CHRIST.                        0     5     0   315   536   90.426
+1140 TRINITY (TEXAS)                             0     4     0   252   298   90.425
+1141 GUST. ADOLPHUS                              0     1     0    68    77   90.415
+1142 D'YOUVILLE                                  2     1     0   229   208   90.385
+1143 OZARKS                                      0     4     0   248   310   90.289
+1144 GOUCHER                                     1     3     0   231   308   90.280
+1145 OHIO NORTHERN                               0     1     0    77    84   90.248
+1146 PACIFIC UNION                               0     1     0    87   107   90.183
+1147 FLORIDA MEM.                                0     1     0    77   123   90.102
+1148 WILSON                                      0     2     0   128   172   90.089
+1149 BRYN ATHYN                                  0     4     0   258   373   90.058
+1150 ECCLESIA                                    0     1     0    72   110   90.056
+1151 MANHATTAN CHRST.                            0     2     0   122   216   90.008
+1152 MUHLENBERG                                  1     3     0   273   310   89.954
+1153 CAZENOVIA                                   0     3     0   208   234   89.893
+1154 FRANKLIN PIERCE                             1     1     0   190   187   89.833
+1155 ARLINGTON BAPTIST                           0     1     0    40   105   89.804
+1156 FRANCISCAN                                  1     2     0   169   213   89.785
+1157 FERRUM                                      1     4     0   283   379   89.767
+1158 WASH. & JEFF.                               0     3     0   209   231   89.751
+1159 MT. ST. JOSEPH                              0     1     0    65    86   89.744
+1160 PAUL SMITH                                  0     1     0    78    84   89.716
+1161 ST. MARY (KAN.)                             0     1     0    38    90   89.715
+1162 ST. JOS. (L.I.)                             2     3     0   308   353   89.674
+1163 TOCCOA FALLS                                0     2     0   102   177   89.615
+1164 SPRINGFIELD                                 1     3     0   295   323   89.557
+1165 WENTWORTH                                   1     3     0   243   266   89.554
+1166 COLUMBIA BIBLE (CAN)                        0     1     0    43   109   89.528
+1167 VALLEY CITY ST.                             0     3     0   166   220   89.517
+1168 CONC. (TEXAS)                               0     2     0   163   194   89.512
+1169 DICKINSON STATE                             0     2     0   116   167   89.446
+1170 BROCKPORT                                   0     1     0    49    61   89.402
+1171 N. CENTRAL (MINN.)                          1     3     0   241   283   89.399
+1172 LA VERNE                                    1     3     0   278   347   89.391
+1173 OHIO-EASTERN                                0     2     0   159   222   89.371
+1174 BRIDGEWATER STATE                           0     4     0   277   322   89.343
+1175 LANGARA (CAN)                               0     2     0   105   245   89.279
+1176 NORWICH                                     2     2     0   292   278   89.255
+1177 FRAMINGHAM ST.                              1     4     0   321   396   89.217
+1178 CAMP. HARRODSBURG                           0     1     0    64    86   89.172
+1179 KING'S (PA.)                                0     3     0   198   242   89.118
+1180 ST. JOSEPH (VT)                             0     3     0   207   285   89.097
+1181 MCLA                                        1     4     0   348   466   89.070
+1182 CONN. COLLEGE                               2     3     0   396   396   89.025
+1183 MAINE-P.I.                                  2     3     0   352   391   88.973
+1184 BREVARD                                     0     2     0    94   185   88.944
+1185 RHODES                                      0     3     0   187   254   88.844
+1186 GREEN MOUNTAIN                              0     1     0    78    99   88.789
+1187 NEWBURY                                     2     3     0   428   505   88.547
+1188 ST. ANDREWS                                 0     1     0    47    87   88.398
+1189 FINLANDIA                                   0     4     0   241   307   88.385
+1190 ELMS                                        0     4     0   248   344   88.259
+1191 DOUGLAS (CAN)                               0     1     0    55   100   88.259
+1192 YELLOWSTONE CHRIS.                          0     2     0   102   179   88.247
+1193 VALLEY FORGE                                0     2     0   130   148   88.228
+1194 VASSAR                                      1     2     0   242   238   88.176
+1195 WAYNESBURG                                  1     3     0   247   296   88.041
+1196 CLARK (MASS.)                               1     5     0   507   538   88.027
+1197 ST. MICHAEL'S                               0     2     0   164   182   87.948
+1198 RIVIER                                      1     5     0   410   517   87.818
+1199 DALLAS                                      0     1     0    67    81   87.779
+1200 THOMAS (MAINE)                              2     4     0   421   458   87.728
+1201 MERCHANT MARINE                             0     2     0   121   175   87.621
+1202 DOMINICAN (ILL.)                            0     4     0   252   327   87.495
+1203 ALVERNIA                                    0     2     0   129   151   87.460
+1204 BECKER                                      1     3     0   240   322   87.291
+1205 CENT. CHRISTIAN (MO)                        0     2     0   117   221   87.283
+1206 WRIGHT ST.-LAKE                             0     1     0   129   177   87.182
+1207 GALLAUDET                                   0     3     0   187   242   87.173
+1208 MEDGAR EVERS                                0     5     0   324   454   87.112
+1209 OHIO ST.-MANSFIELD                          0     1     0    60    98   87.090
+1210 KEYSTONE                                    0     4     0   265   324   86.896
+1211 ST. JOS. (BRKLN.)                           0     4     0   282   411   86.864
+1212 OAK HILLS CHRISTIAN                         0     3     0   169   289   86.750
+1213 SUNY MARITIME                               0     3     0   176   267   86.745
+1214 ASSUMPTION                                  0     1     0    67    73   86.720
+1215 EMMAUS                                      0     1     0   107   164   86.660
+1216 MARIAN (WIS.)                               0     1     0    46    58   86.497
+1217 SILVER LAKE                                 0     1     0    79    81   86.387
+1218 NEW JERSEY CITY                             0     1     0    72    76   86.223
+1219 AVERETT                                     0     4     0   261   302   85.733
+1220 CURRY                                       0     5     0   334   434   85.447
+1221 NEW ROCHELLE                                0     2     0   162   190   85.218
+1222 PRATT INSTITUTE                             0     1     0    72    90   84.775
+1223 OZARK CHRISTIAN                             0     1     0    38   102   84.668
+1224 LESLEY                                      0     4     0   249   367   84.435
+1225 MOODY BIBLE                                 0     2     0   104   184   84.308
+1226 WELLS                                       0     2     0   102   139   84.051
+1227 FREDONIA                                    0     2     0   155   166   83.771
+1228 ME.-AUGUSTA                                 0     2     0   152   187   82.691
