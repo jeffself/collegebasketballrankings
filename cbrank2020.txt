@@ -1,0 +1,1558 @@
+Rank                                           Won  Lost  Tied    PF    PA   Rating
+   1 SAN DIEGO ST                               14     0     0  1083   783  113.892
+   2 KANSAS                                     10     2     0   973   748  113.871
+   3 WEST VIRGINIA                              11     1     0   898   744  113.833
+   4 AUBURN                                     12     0     0   986   787  113.813
+   5 DUKE                                       11     1     0   995   763  113.774
+   6 BUTLER                                     12     1     0   900   697  113.343
+   7 BAYLOR                                      9     1     0   766   606  113.073
+   8 GONZAGA                                    13     1     0  1235   953  112.892
+   9 WICHITA ST                                 11     1     0   927   746  112.798
+  10 OHIO STATE                                 11     2     0  1009   756  112.709
+  11 OREGON                                     11     2     0  1044   858  112.624
+  12 MARYLAND                                   11     2     0   980   806  112.493
+  13 DAYTON                                     10     2     0  1005   795  112.421
+  14 MEMPHIS                                    11     1     0   964   734  112.285
+  15 VILLANOVA                                   9     2     0   860   748  112.272
+  16 ARKANSAS                                   11     1     0   897   718  112.152
+  17 PENN STATE                                 11     2     0  1045   857  111.988
+  18 COLORADO                                   11     2     0   933   787  111.951
+  19 LOUISVILLE                                 11     2     0   990   779  111.849
+  20 FLORIDA ST                                 11     2     0   996   824  111.792
+  21 MICHIGAN                                   10     3     0  1027   857  111.692
+  22 ARIZONA                                    10     3     0  1088   849  111.675
+  23 OKLAHOMA ST                                 9     3     0   864   742  111.567
+  24 IOWA                                       10     3     0  1050   896  111.433
+  25 STANFORD                                   11     2     0   940   764  111.432
+  26 CREIGHTON                                  11     2     0  1026   883  111.414
+  27 MICHIGAN ST                                11     3     0  1148   886  111.383
+  28 MARQUETTE                                  10     2     0   946   788  111.244
+  29 XAVIER OH                                  11     2     0   955   828  111.206
+  30 GEORGETOWN DC                              10     3     0  1064   935  111.180
+  31 NORTHERN IOWA                              11     1     0   933   764  111.155
+  32 BRIGHAM YOUNG                              11     4     0  1168  1006  111.149
+  33 VIRGINIA                                   10     2     0   662   568  111.140
+  34 INDIANA                                    11     2     0  1028   868  111.091
+  35 OKLAHOMA                                    8     3     0   813   766  111.057
+  36 HOUSTON                                    10     3     0  1003   851  110.989
+  37 ST MARY'S CA                               13     2     0  1158   935  110.932
+  38 DEPAUL                                     12     1     0  1003   852  110.781
+  39 TEMPLE                                      8     3     0   802   685  110.750
+  40 ST LOUIS U.                                11     2     0   950   832  110.692
+  41 SOUTHERN CAL                               11     2     0   983   889  110.621
+  42 WASHINGTON                                 10     3     0   968   840  110.610
+  43 LIBERTY                                    14     1     0  1060   797  110.586
+  44 UTAH ST                                    13     2     0  1227   928  110.516
+  45 FLORIDA                                     8     4     0   850   751  110.515
+  46 NORTH CAROLINA ST                          10     3     0  1053   908  110.480
+  47 RUTGERS                                     9     3     0   859   724  110.433
+  48 KENTUCKY                                    9     3     0   897   743  110.244
+  49 NEW MEXICO                                 13     2     0  1203  1072  110.210
+  50 GEORGE MASON                               12     1     0   926   793  110.210
+  51 SETON HALL                                  9     4     0  1009   809  110.189
+  52 ARIZONA ST                                  9     4     0   974   879  110.164
+  53 MIAMI FL                                    8     3     0   832   787  110.157
+  54 TEXAS                                       9     2     0   739   672  110.143
+  55 MINNESOTA                                   8     5     0   963   823  110.117
+  56 VA COMMONWEALTH                            10     3     0   943   805  110.088
+  57 YALE                                       10     3     0   955   807  110.081
+  58 ST JOHN'S NY                               11     2     0  1037   868  110.027
+  59 PITTSBURGH                                  9     3     0   776   697  110.026
+  60 UTAH                                        9     3     0   951   832  110.007
+  61 RHODE ISLAND                                9     3     0   934   835  109.999
+  62 RICHMOND                                   11     3     0  1062   954  109.937
+  63 LSU                                         8     4     0   973   813  109.815
+  64 EAST TENNESSEE ST                          12     2     0  1140   883  109.797
+  65 MISSISSIPPI                                 9     3     0   872   782  109.742
+  66 VIRGINIA TECH                              10     3     0   965   794  109.721
+  67 UNC-GREENSBORO                             11     3     0  1014   766  109.665
+  68 PURDUE                                      8     5     0   903   746  109.624
+  69 TENNESSEE                                   8     4     0   806   697  109.601
+  70 GEORGIA                                     8     3     0   908   839  109.590
+  71 WISCONSIN                                   7     5     0   832   749  109.553
+  72 ILLINOIS                                    9     4     0  1046   861  109.543
+  73 TEXAS TECH                                  9     3     0   914   759  109.511
+  74 CONNECTICUT                                 9     3     0   892   744  109.453
+  75 MISSOURI                                    7     4     0   725   635  109.430
+  76 OREGON ST                                  10     2     0   941   784  109.413
+  77 NORTH CAROLINA                              7     5     0   839   819  109.393
+  78 MISSISSIPPI ST                              8     3     0   788   697  109.371
+  79 ALABAMA                                     7     5     0   993   932  109.321
+  80 IOWA ST                                     7     4     0   895   777  109.285
+  81 STEPHEN F. AUSTIN                          10     2     0  1010   806  109.269
+  82 SMU                                         9     2     0   843   731  109.190
+  83 SAN FRANCISCO                              11     3     0  1151   991  109.189
+  84 PENNSYLVANIA                                6     4     0   792   755  109.155
+  85 SYRACUSE                                    9     5     0  1032   906  109.152
+  86 SOUTH CAROLINA                              8     4     0   847   779  109.059
+  87 CENTRAL FLORIDA                             9     3     0   859   787  109.046
+  88 CINCINNATI                                  8     5     0   966   866  108.994
+  89 LA SALLE                                    9     3     0   861   810  108.892
+  90 AKRON                                       9     3     0   906   760  108.879
+  91 DUQUESNE                                   10     2     0   879   741  108.861
+  92 NEVADA                                      8     5     0   992   935  108.699
+  93 BELLARMINE                                  8     0     0   692   480  108.550
+  94 BOISE ST                                    9     5     0  1124   979  108.521
+  95 SANTA CLARA                                13     2     0  1204   992  108.500
+  96 WAKE FOREST                                 7     5     0   891   869  108.498
+  97 GEORGIA ST                                  8     4     0   959   868  108.395
+  98 TCU                                         8     3     0   796   674  108.349
+  99 DAVIDSON                                    6     5     0   772   715  108.326
+ 100 UTEP                                        9     4     0   898   821  108.308
+ 101 FURMAN                                     11     3     0  1100   896  108.224
+ 102 COLORADO ST                                 9     6     0  1102  1073  108.209
+ 103 INDIANA ST                                  7     4     0   805   782  108.197
+ 104 KENT ST                                    10     2     0   975   785  108.195
+ 105 GEORGIA TECH                                6     6     0   792   799  108.140
+ 106 HARVARD                                     9     4     0   952   831  108.085
+ 107 VERMONT                                     8     5     0   874   765  108.067
+ 108 LOUISIANA TECH                              9     3     0   938   736  108.056
+ 109 ARKANSAS ST                                10     3     0   900   875  108.047
+ 110 DELAWARE                                   11     3     0  1063   939  108.041
+ 111 EASTERN WASHINGTON                          8     4     0  1063   907  107.991
+ 112 UC-SAN DIEGO                               11     2     0  1065   888  107.985
+ 113 WESTERN CAROLINA                            9     3     0   974   856  107.976
+ 114 BOSTON COLLEGE                              8     6     0   946   928  107.948
+ 115 HAWAI`I                                     9     5     0  1000   946  107.881
+ 116 BELMONT                                     9     4     0  1057   880  107.866
+ 117 NEW MEXICO ST                               9     6     0  1032   895  107.853
+ 118 KANSAS ST                                   7     5     0   801   723  107.845
+ 119 WRIGHT ST                                  11     3     0  1140   982  107.750
+ 120 CLEMSON                                     6     6     0   803   737  107.727
+ 121 NOTRE DAME                                 10     4     0  1050   866  107.711
+ 122 NORTHERN KENTUCKY                          10     4     0  1039   892  107.685
+ 123 RIDER                                       7     3     0   776   727  107.676
+ 124 BUFFALO                                     8     4     0   967   912  107.656
+ 125 SACRAMENTO ST                               7     3     0   621   535  107.546
+ 126 INDIANAPOLIS                                8     1     0   742   652  107.541
+ 127 ST FRANCIS PA                               7     4     0   847   802  107.522
+ 128 COLL OF CHARLESTON                          8     6     0   992   940  107.468
+ 129 LAFAYETTE                                   8     3     0   811   747  107.436
+ 130 FLORIDA SOUTHERN                           11     1     0  1111   958  107.425
+ 131 COLGATE                                     9     4     0   974   928  107.364
+ 132 BRADLEY                                     9     4     0   943   823  107.358
+ 133 TULSA                                       8     5     0   957   887  107.345
+ 134 ALABAMA-BIRMINGHAM                          9     4     0   860   792  107.220
+ 135 RICE                                        8     5     0   970   955  107.199
+ 136 WESTERN KENTUCKY                            7     5     0   946   877  107.190
+ 137 ARKANSAS-LITTLE ROCK                        8     5     0   884   847  107.171
+ 138 DRAKE                                      11     4     0  1072   990  107.127
+ 139 PACIFIC CA                                 12     4     0  1118   966  107.126
+ 140 ST BONAVENTURE                              9     4     0   902   790  107.052
+ 141 EASTERN MICHIGAN                            9     3     0   795   736  107.045
+ 142 WASHINGTON ST                               9     4     0   952   838  107.032
+ 143 UC-SANTA BARBARA                           10     4     0  1029   949  107.031
+ 144 UCLA                                        7     6     0   943   882  107.019
+ 145 TULANE                                      8     4     0   876   813  107.006
+ 146 PROVIDENCE RI                               7     6     0   945   853  107.002
+ 147 MASSACHUSETTS                               8     6     0  1019   957  107.001
+ 148 SOUTHERN UTAH                               7     4     0   847   700  106.976
+ 149 LINCOLN MEMORIAL                           12     1     0  1218   884  106.959
+ 150 VANDERBILT                                  7     4     0   873   781  106.954
+ 151 NORTH TEXAS                                 6     7     0   894   798  106.941
+ 152 EVANSVILLE                                  9     4     0  1015  1004  106.931
+ 153 BOWLING GREEN                               8     4     0   913   855  106.929
+ 154 CALIFORNIA                                  6     7     0   856   907  106.886
+ 155 HOFSTRA                                    10     4     0  1086   983  106.881
+ 156 ORAL ROBERTS                                7     6     0  1018   889  106.844
+ 157 BALL ST                                     9     6     0  1075   921  106.840
+ 158 APPALACHIAN ST                              8     5     0   903   816  106.832
+ 159 NW MISSOURI ST                             10     1     0   960   688  106.831
+ 160 NORTH DAKOTA ST                             9     5     0   965   890  106.761
+ 161 WILLIAM & MARY                              8     5     0   955   894  106.756
+ 162 WOFFORD                                     8     5     0   971   892  106.720
+ 163 NEBRASKA-OMAHA                              8     8     0  1151  1212  106.717
+ 164 STONY BROOK                                 9     6     0  1053   987  106.691
+ 165 LOYOLA-CHICAGO                              8     5     0   928   820  106.663
+ 166 MISSOURI ST                                 7     7     0   958   906  106.651
+ 167 NEBRASKA                                    6     7     0   969   974  106.617
+ 168 SE OKLAHOMA ST                              8     2     0   832   717  106.604
+ 169 OHIO U.                                     9     5     0  1005   915  106.578
+ 170 CARLETON ON                                19     2     0  1912  1346  106.542
+ 171 CHATTANOOGA                                10     5     0  1071   980  106.537
+ 172 VALPARAISO                                 11     6     0  1334  1271  106.476
+ 173 EMBRY-RIDDLE FL                            11     1     0  1230   946  106.459
+ 174 SAM HOUSTON ST                              9     4     0  1061   907  106.456
+ 175 CAMPBELL                                    9     3     0   856   757  106.411
+ 176 TEXAS A&M                                   5     5     0   577   614  106.359
+ 177 UC-IRVINE                                   8     7     0  1121   997  106.354
+ 178 SOUTH FLORIDA                              10     7     0  1165  1081  106.349
+ 179 PEPPERDINE                                  7     7     0  1093  1101  106.337
+ 180 COASTAL CAROLINA                            8     5     0  1066   958  106.313
+ 181 CHARLOTTE                                   6     5     0   768   695  106.283
+ 182 MONTANA ST                                  7     5     0   834   789  106.240
+ 183 DIXIE ST                                   10     1     0   923   833  106.229
+ 184 SOUTH DAKOTA                                9     6     0  1145  1100  106.180
+ 185 NORTHERN COLORADO                           7     5     0   909   737  106.165
+ 186 GEORGIA SOUTHERN                            8     5     0  1017   952  106.153
+ 187 TENNESSEE ST                                8     5     0   976   917  106.118
+ 188 TOWSON                                      6     7     0   888   846  106.118
+ 189 SIENA                                       5     5     0   738   732  106.101
+ 190 CALIFORNIA BAPTIST                          9     4     0  1075   923  106.090
+ 191 NOVA SOUTHEASTERN                           9     1     0  1120   834  106.081
+ 192 GRAND VALLEY ST                            10     1     0   850   742  106.073
+ 193 LOYOLA-MARYLAND                             9     5     0  1016   999  106.050
+ 194 NORTH FLORIDA                               7     7     0  1111  1075  106.016
+ 195 MONTANA                                     5     7     0   792   840  106.008
+ 196 WEST TEXAS A&M                             12     1     0  1266   946  105.975
+ 197 AZUSA PACIFIC                               9     3     0   958   868  105.973
+ 198 NORTHERN ARIZONA                            6     4     0   752   684  105.936
+ 199 BRYANT                                      8     5     0   962   888  105.919
+ 200 TOLEDO                                      8     5     0  1019   879  105.909
+ 201 SOUTH DAKOTA ST                             9     7     0  1192  1115  105.880
+ 202 FLORIDA INT'L                               9     4     0  1071   934  105.858
+ 203 CAL POLY POMONA                             8     3     0   847   687  105.855
+ 204 NORTHEASTERN                                7     6     0   925   847  105.845
+ 205 ST EDWARD'S                                10     1     0  1007   739  105.840
+ 206 RADFORD                                     6     7     0   922   818  105.808
+ 207 SOUTH ALABAMA                               7     6     0   990   929  105.805
+ 208 UC-RIVERSIDE                                9     5     0   906   794  105.797
+ 209 TEXAS SOUTHERN                              3     9     0   840   980  105.795
+ 210 JAMES MADISON                               8     5     0   997   972  105.769
+ 211 SWARTHMORE                                  9     0     0   765   624  105.768
+ 212 MIAMI OH                                    6     6     0   865   857  105.763
+ 213 FERRIS ST                                  15     1     0  1470  1196  105.744
+ 214 DRURY                                       8     1     0   740   639  105.730
+ 215 CHICO ST                                    9     3     0   971   795  105.727
+ 216 PORTLAND ST                                 7     6     0  1029   954  105.721
+ 217 UMKC                                        7     7     0   980   949  105.688
+ 218 NORTHWESTERN                                5     7     0   810   786  105.676
+ 219 MORNINGSIDE                                14     0     0  1159   908  105.669
+ 220 AUSTIN PEAY                                 6     6     0   936   904  105.629
+ 221 MURRAY ST                                   7     5     0   896   736  105.593
+ 222 SOUTHERN NAZARENE                           9     3     0   993   841  105.589
+ 223 SAN DIEGO                                   7     8     0  1016  1013  105.589
+ 224 MONMOUTH NJ                                 6     5     0   721   777  105.544
+ 225 FLORIDA ATLANTIC                            8     5     0   937   862  105.510
+ 226 YOUNGSTOWN ST                              10     6     0  1149  1081  105.475
+ 227 CENTRAL MICHIGAN                            7     6     0  1117   996  105.467
+ 228 TEXAS ST-SAN MARCOS                         7     6     0   960   827  105.451
+ 229 NAVY                                        6     5     0   674   642  105.435
+ 230 ILLINOIS ST                                 5     7     0   823   848  105.397
+ 231 UNLV                                        6     8     0   955   959  105.371
+ 232 MARSHALL                                    6     7     0   998   942  105.322
+ 233 NORTHERN ILLINOIS                           7     6     0   891   825  105.308
+ 234 EAST CENTRAL                                9     2     0   994   872  105.305
+ 235 DREXEL                                      7     7     0   970   987  105.305
+ 236 WESTERN MICHIGAN                            8     6     0  1019  1005  105.304
+ 237 WESTMONT                                   12     0     0  1067   872  105.267
+ 238 GEORGE WASHINGTON                           7     6     0   906   877  105.254
+ 239 CATAWBA                                     9     2     0   992   897  105.248
+ 240 ARKANSAS-MONTICELLO                        12     2     0  1209  1010  105.206
+ 241 MINN-DULUTH                                 9     3     0  1035   909  105.189
+ 242 OLD DOMINION                                4     9     0   808   838  105.170
+ 243 NICHOLLS ST                                 7     6     0  1014   886  105.143
+ 244 CHAMINADE                                   6     4     0   811   702  105.143
+ 245 TEXAS-ARLINGTON                             4     9     0   910   901  105.143
+ 246 DALHOUSIE                                  17     0     0  1379  1077  105.128
+ 247 ST JOSEPH'S PA                              3     9     0   859   980  105.069
+ 248 DOMINICAN NY                                9     2     0   963   806  105.048
+ 249 RANDOLPH-MACON                             10     1     0   844   610  105.033
+ 250 BROWN                                       5     6     0   745   796  104.969
+ 251 MT VERNON NAZARENE                         12     1     0  1059   879  104.963
+ 252 AUGUSTANA SD                               10     2     0  1018   858  104.946
+ 253 EMORY                                      10     0     0   933   778  104.929
+ 254 OAKLAND                                     6     8     0   891   911  104.875
+ 255 SIMON FRASER                                9     2     0   925   820  104.869
+ 256 UW-GREEN BAY                                5     9     0  1158  1145  104.863
+ 257 CANISIUS                                    6     6     0   861   850  104.856
+ 258 POINT LOMA NAZARENE                         8     3     0   921   828  104.836
+ 259 EAST CAROLINA                               6     7     0   934   932  104.834
+ 260 FAIRFIELD                                   4     7     0   677   709  104.833
+ 261 QUEENS NC                                   8     3     0   910   879  104.830
+ 262 ROGERS ST                                  11     2     0  1042   922  104.822
+ 263 LOYOLA MARYMOUNT                            6     8     0   966   948  104.817
+ 264 WESTERN OREGON                              6     2     0   661   601  104.816
+ 265 DALLAS BAPTIST                             10     1     0   899   761  104.809
+ 266 LONG BEACH ST                               4    11     0  1013  1194  104.764
+ 267 DARTMOUTH                                   7     6     0   885   817  104.753
+ 268 GRAND CANYON                                5     9     0   951  1016  104.750
+ 269 NORTHERN ST                                 9     3     0   936   822  104.744
+ 270 UW-LA CROSSE                               10     0     0   766   622  104.731
+ 271 UNC-ASHEVILLE                               6     5     0   895   829  104.727
+ 272 JACKSONVILLE FL                             7     7     0   943   928  104.727
+ 273 BOSTON U.                                   6     7     0   902   913  104.723
+ 274 FRESNO ST                                   4     9     0   918   864  104.722
+ 275 BUCKNELL                                    4     9     0   893  1022  104.706
+ 276 ST THOMAS AQUINAS                          10     2     0   946   839  104.685
+ 277 INDIANA PA                                 10     1     0   931   717  104.658
+ 278 SOUTHERN ILLINOIS                           6     7     0   836   790  104.638
+ 279 ILLINOIS-CHICAGO                            6     8     0   928  1013  104.623
+ 280 WINTHROP                                    6     7     0  1017   935  104.616
+ 281 WEST CHESTER                               11     0     0   974   824  104.588
+ 282 SACRED HEART                                7     6     0  1017   959  104.581
+ 283 BENTLEY                                    10     2     0  1026   841  104.578
+ 284 DAEMEN                                     12     2     0  1192  1031  104.560
+ 285 EASTERN ILLINOIS                            7     5     0   931   775  104.555
+ 286 BETHEL IN                                  13     0     0  1251  1071  104.534
+ 287 SEATTLE PACIFIC                             6     4     0   746   704  104.533
+ 288 UNC-PEMBROKE                                8     3     0   878   793  104.509
+ 289 PRINCETON                                   4     8     0   865   920  104.508
+ 290 AIR FORCE                                   6     7     0   986   944  104.504
+ 291 TEXAS-SAN ANTONIO                           6     7     0  1010   967  104.490
+ 292 CONCORDIA CA                                9     3     0   966   924  104.487
+ 293 UW-PLATTEVILLE                             10     1     0   880   678  104.474
+ 294 SAN JOSÉ ST                                 4    10     0   937  1078  104.409
+ 295 LAMAR                                       7     6     0   911   845  104.409
+ 296 OKLAHOMA BAPTIST U.                         7     3     0   866   788  104.395
+ 297 SEATTLE U.                                  7     8     0  1062  1069  104.392
+ 298 SOUTHERN INDIANA                            8     1     0   796   604  104.382
+ 299 AMERICAN U.                                 4     7     0   797   818  104.376
+ 300 CSU-BAKERSFIELD                             8     9     0  1272  1194  104.335
+ 301 TUSCULUM                                    8     4     0   898   846  104.330
+ 302 JOHNS HOPKINS                               9     2     0   833   695  104.327
+ 303 LIU                                         5     8     0  1033  1057  104.311
+ 304 JEFFERSON                                   9     2     0   883   770  104.305
+ 305 LOUISIANA-LAFAYETTE                         5     8     0   959   997  104.297
+ 306 CHARLESTON SOUTHERN                         6     6     0   788   865  104.279
+ 307 LEWIS                                       6     3     0   656   618  104.240
+ 308 CSU-SAN BERNARDINO                          9     4     0  1036   981  104.236
+ 309 OTTAWA ON                                  21     6     0  2167  1819  104.208
+ 310 COLORADO MINES                              8     4     0   916   821  104.208
+ 311 PORTLAND                                    9     7     0  1114  1055  104.159
+ 312 BRIDGEPORT                                  8     2     0   833   763  104.146
+ 313 LIPSCOMB                                    5     8     0   931   935  104.138
+ 314 LEWIS-CLARK ST ID                          11     1     0  1061   772  104.113
+ 315 UC-DAVIS                                    5    10     0  1050  1073  104.113
+ 316 CSU-NORTHRIDGE                              4    11     0  1075  1215  104.112
+ 317 MISSOURI SOUTHERN                           8     2     0   913   698  104.103
+ 318 BABSON                                      9     0     0   800   624  104.100
+ 319 VALDOSTA ST                                 8     3     0   970   850  104.090
+ 320 NORTH DAKOTA                                6     8     0  1069  1011  104.077
+ 321 UW-MILWAUKEE                                5     8     0   936   933  104.076
+ 322 COLL OF IDAHO                              11     3     0  1116  1001  104.067
+ 323 WITTENBERG                                  9     0     0   737   551  104.049
+ 324 LANDER                                      8     2     0   822   744  104.046
+ 325 ALABAMA-HUNTSVILLE                         10     2     0   883   759  104.043
+ 326 COLUMBIA NY                                 4     9     0   854   922  104.038
+ 327 SAMFORD                                     6     8     0  1091  1085  104.036
+ 328 MORGAN ST                                   6     8     0   993  1031  104.032
+ 329 MICHIGAN TECH                               8     3     0   897   723  104.019
+ 330 ST LEO                                      8     4     0   889   791  104.008
+ 331 MANHATTAN                                   4     5     0   542   572  104.007
+ 332 PRAIRIE VIEW A&M                            3     9     0   828   886  103.994
+ 333 LEES-MCRAE                                  9     3     0  1129  1025  103.965
+ 334 MARIETTA                                    9     1     0   920   724  103.962
+ 335 ABILENE CHRISTIAN                           7     6     0   999   809  103.958
+ 336 DAVENPORT                                  10     4     0  1099  1000  103.912
+ 337 CSU-LOS ANGELES                             9     4     0   997   952  103.907
+ 338 WOOSTER                                     9     1     0   857   779  103.899
+ 339 GARDNER-WEBB                                4     8     0   803   860  103.869
+ 340 ST THOMAS MN                                8     1     0   744   599  103.866
+ 341 FAYETTEVILLE ST                            11     2     0   940   855  103.858
+ 342 MISSOURI-ST LOUIS                          10     2     0   911   686  103.832
+ 343 ROLLINS                                     8     3     0   835   798  103.831
+ 344 FORDHAM                                     5     6     0   683   660  103.830
+ 345 LOUISIANA-MONROE                            4     7     0   689   704  103.825
+ 346 MOUNT UNION                                 8     2     0   824   695  103.825
+ 347 THE CITADEL                                 6     6     0  1021   950  103.819
+ 348 THE MASTER'S U.                            11     1     0  1001   817  103.813
+ 349 MERRIMACK                                   6     7     0   811   812  103.805
+ 350 COPPIN ST                                   4    10     0   954  1096  103.796
+ 351 MCNEESE ST                                  5     6     0   921   778  103.789
+ 352 SOUTHERN MISS                               4     9     0   901   957  103.769
+ 353 HOPE INT'L                                 12     1     0  1132   818  103.766
+ 354 CHARLESTON WV                               9     2     0   908   830  103.764
+ 355 WYOMING                                     5     9     0   851   921  103.761
+ 356 IONA                                        2     5     0   473   527  103.753
+ 357 GEORGETOWN KY                              11     0     0  1171   757  103.749
+ 358 INDIANA WESLEYAN                           10     3     0  1164  1000  103.727
+ 359 PROVIDENCE MT                              12     1     0  1236   937  103.716
+ 360 UMASS-LOWELL                                6     9     0  1109  1099  103.712
+ 361 CARROLL MT                                 10     4     0  1088   919  103.695
+ 362 MD-BALTIMORE COUNTY                         6     8     0   976   945  103.694
+ 363 NORTH CAROLINA A&T                          3    11     0   813  1008  103.679
+ 364 CSU-EAST BAY                                9     4     0   961   856  103.671
+ 365 ELMHURST                                    9     2     0   945   785  103.663
+ 366 UTAH VALLEY ST                              6     9     0  1059  1052  103.653
+ 367 TAMU-COMMERCE                               7     4     0   916   845  103.639
+ 368 WALSH                                       9     2     0   975   737  103.626
+ 369 JACKSONVILLE ST                             5     8     0   962   892  103.618
+ 370 ALBANY NY                                   9    10     0  1337  1338  103.613
+ 371 WAYNE ST MI                                 4     3     0   505   504  103.601
+ 372 WEST ALABAMA                                9     2     0   838   588  103.595
+ 373 MIDDLEBURY                                 10     0     0   835   714  103.594
+ 374 SC-AIKEN                                    7     5     0   924   938  103.585
+ 375 BINGHAMTON                                  6     7     0   934   983  103.582
+ 376 SHIPPENSBURG                                8     3     0   835   740  103.569
+ 377 COLORADO MESA                               8     3     0   894   774  103.562
+ 378 CSU-FULLERTON                               4    11     0   932  1023  103.560
+ 379 CENTRAL ARKANSAS                            4    10     0  1014  1211  103.542
+ 380 TENNESSEE-MARTIN                            4     7     0   850   913  103.516
+ 381 ALASKA-ANCHORAGE                            9     4     0  1004   937  103.516
+ 382 TRUMAN ST                                   5     4     0   620   650  103.515
+ 383 CSU-STANISLAUS                              8     6     0   983   985  103.512
+ 384 QUINNIPIAC                                  7     6     0   987   949  103.496
+ 385 ALABAMA A&M                                 3     8     0   733   898  103.496
+ 386 BELMONT ABBEY                               9     4     0  1146  1082  103.494
+ 387 LEE TN                                      9     3     0   946   858  103.474
+ 388 WESTERN WASHINGTON                          6     4     0   852   743  103.470
+ 389 WASHINGTON MO                               9     2     0   862   763  103.449
+ 390 FAIRMONT ST                                 8     3     0   924   903  103.449
+ 391 TROY                                        5     8     0   924   899  103.433
+ 392 PACE                                       11     2     0  1005   834  103.417
+ 393 MOREHEAD ST                                 7     7     0  1010   914  103.408
+ 394 ST NORBERT                                  6     2     0   622   558  103.386
+ 395 GRAMBLING ST                                6     7     0  1015   947  103.356
+ 396 IPFW                                        7     8     0  1058  1032  103.356
+ 397 IDAHO ST                                    4     6     0   698   662  103.354
+ 398 HOBART                                      7     1     0   560   468  103.341
+ 399 NORTH ALABAMA                               5     8     0   898   918  103.329
+ 400 BARRY                                       9     2     0   988   793  103.316
+ 401 GUILFORD                                    9     2     0   778   684  103.315
+ 402 CLEVELAND ST                                4    10     0   856  1022  103.287
+ 403 MT ST MARY'S MD                             4     9     0   818   863  103.272
+ 404 NEW ORLEANS                                 4     8     0   927   907  103.272
+ 405 VIRGINIA WESLEYAN                           9     1     0   795   612  103.269
+ 406 NEW HAMPSHIRE                               6     6     0   899   813  103.240
+ 407 PALM BEACH ATLANTIC                         8     4     0   981   927  103.238
+ 408 VIRGINIA UNION                              8     4     0   858   837  103.228
+ 409 MERCER                                      6     8     0  1014  1012  103.217
+ 410 BEMIDJI ST                                  7     3     0   839   692  103.215
+ 411 ANGELO ST                                   7     2     0   730   660  103.208
+ 412 HENDERSON ST                                7     3     0   845   708  103.208
+ 413 UNC-WILMINGTON                              5     9     0  1016  1023  103.163
+ 414 MIDDLE TENNESSEE ST                         4     9     0   954   996  103.151
+ 415 COLBY                                       9     0     0   869   684  103.123
+ 416 SPRINGFIELD                                 8     1     0   758   690  103.117
+ 417 ST PETER'S                                  4     6     0   670   681  103.111
+ 418 ST FRANCIS IN                              12     3     0  1257  1053  103.110
+ 419 LOURDES                                    13     3     0  1198  1039  103.091
+ 420 REGIS CO                                    8     3     0   844   796  103.055
+ 421 WILLIAM PENN                               12     1     0  1393  1054  103.053
+ 422 LSU-SHREVEPORT                             13     1     0  1367  1026  103.046
+ 423 VIRGINIA ST                                 9     4     0  1119   976  103.022
+ 424 OREGON TECH                                10     2     0  1074   809  103.019
+ 425 CSU-DOMINGUEZ HILLS                         9     6     0  1075  1063  103.010
+ 426 MID-AMERICA CHRISTIAN                      11     1     0  1098   902  102.981
+ 427 ALBION                                      8     3     0   782   792  102.977
+ 428 ST FRANCIS NY                               6     6     0   875   881  102.964
+ 429 CEDARVILLE                                  8     5     0  1073  1013  102.952
+ 430 MARIAN IN                                  11     3     0  1321  1055  102.951
+ 431 LE MOYNE                                    8     4     0  1024   912  102.943
+ 432 OLIVET NAZARENE                            15     2     0  1549  1189  102.938
+ 433 AUGUSTA                                     7     3     0   843   765  102.934
+ 434 ALBERTA                                    13     2     0  1316  1112  102.933
+ 435 CALGARY                                    17     6     0  1904  1650  102.921
+ 436 KING TN                                     8     4     0  1053   996  102.908
+ 437 LINDENWOOD                                  6     4     0   869   811  102.905
+ 438 TUFTS                                       9     2     0   917   792  102.899
+ 439 S NEW HAMPSHIRE                             8     4     0   984   884  102.893
+ 440 LAKE SUPERIOR ST                            5     6     0   844   865  102.860
+ 441 TAMU-CORPUS CHRISTI                         4     9     0   795   857  102.834
+ 442 TEXAS-RIO GRANDE VALLEY                     4     8     0   844   812  102.821
+ 443 CAL POLY SLO                                2    11     0   807   940  102.802
+ 444 COL-COLORADO SPRINGS                        7     3     0   743   660  102.801
+ 445 NORTHEASTERN ST OK                          9     3     0   930   736  102.800
+ 446 ST ANSELM                                   7     4     0   906   845  102.796
+ 447 ANDERSON SC                                 7     4     0   853   830  102.789
+ 448 PIKEVILLE                                  11     1     0  1080   758  102.785
+ 449 NORTHWESTERN ST                             4     7     0   766   830  102.782
+ 450 SC-UPSTATE                                  5     8     0   889   967  102.775
+ 451 STONEHILL                                   7     5     0   869   875  102.762
+ 452 HARTFORD                                    7     7     0   936   968  102.760
+ 453 HAMILTON                                    9     1     0   896   756  102.744
+ 454 WEST LIBERTY                                9     3     0  1245   925  102.743
+ 455 TAMU-KINGSVILLE                             9     2     0   800   740  102.717
+ 456 LAKEHEAD                                   12     5     0  1429  1353  102.716
+ 457 FLORIDA A&M                                 1     9     0   592   748  102.707
+ 458 WESTMINSTER UT                              7     5     0   886   889  102.690
+ 459 WEBER ST                                    4     8     0   868   835  102.676
+ 460 HIGH POINT                                  3     9     0   788   931  102.673
+ 461 STEVENS TECH                                8     1     0   667   591  102.666
+ 462 MINN-CROOKSTON                              7     5     0   905   922  102.661
+ 463 ROCHESTER NY                                8     1     0   649   524  102.658
+ 464 LEHIGH                                      3     9     0   791   845  102.658
+ 465 NORTHWOOD MI                                5     6     0   717   771  102.623
+ 466 DALTON ST                                  11     1     0   962   780  102.616
+ 467 ROBERT MORRIS PA                            4     9     0   886   935  102.610
+ 468 EAST STROUDSBURG                            7     3     0   788   668  102.607
+ 469 SOUTHERN U.                                 3    10     0   894   981  102.595
+ 470 NIAGARA NY                                  2     9     0   736   874  102.572
+ 471 ADELPHI                                     9     3     0   956   835  102.567
+ 472 FORT HAYS ST                                6     4     0   778   678  102.566
+ 473 BIOLA                                       8     3     0   876   782  102.551
+ 474 ARMY                                        5     6     0   769   803  102.551
+ 475 ST THOMAS TX                                9     2     0   976   768  102.549
+ 476 NEBRASKA-KEARNEY                            6     5     0   779   781  102.547
+ 477 LETOURNEAU                                  7     4     0   892   867  102.537
+ 478 MARY HARDIN-BAYLOR                          9     2     0   858   819  102.531
+ 479 HOUSTON BAPTIST                             0    10     0   766  1012  102.524
+ 480 BETHUNE-COOKMAN                             6     7     0   948   905  102.496
+ 481 WAGNER                                      3     8     0   788   874  102.475
+ 482 NEBRASKA WESLEYAN                          10     4     0  1169  1043  102.469
+ 483 CARTHAGE                                    9     1     0   916   784  102.467
+ 484 ILLINOIS-SPRINGFIELD                        7     3     0   829   736  102.465
+ 485 UW-STEVENS POINT                            8     3     0   727   677  102.464
+ 486 SOUTH CAROLINA ST                           4     7     0   759   871  102.441
+ 487 ALABAMA ST                                  1    12     0   744  1028  102.440
+ 488 HILLSDALE                                   7     5     0   878   777  102.437
+ 489 UW-EAU CLAIRE                               8     2     0   726   671  102.421
+ 490 SAGINAW VALLEY ST                           9     4     0  1009   945  102.420
+ 491 SW OKLAHOMA ST                              5     5     0   794   808  102.419
+ 492 IUPUI                                       4    10     0   921  1058  102.393
+ 493 POST                                        7     4     0   897   816  102.388
+ 494 LENOIR-RHYNE                                4     5     0   747   766  102.381
+ 495 LONGWOOD                                    5     8     0   890   894  102.370
+ 496 MCMASTER                                   14     5     0  1684  1542  102.359
+ 497 WESTERN ILLINOIS                            4     7     0   867   865  102.349
+ 498 DENVER                                      5    11     0  1035  1135  102.344
+ 499 POMONA-PITZER                               7     2     0   777   629  102.332
+ 500 DAKOTA WESLEYAN                            13     3     0  1294  1085  102.278
+ 501 FINDLAY                                     6     5     0   849   748  102.262
+ 502 WEST VIRGINIA ST                            8     3     0  1106  1048  102.235
+ 503 ASHLAND                                     7     4     0   869   774  102.227
+ 504 NEWBERRY                                    7     5     0   874   845  102.215
+ 505 FRANKLIN PIERCE                             7     4     0   929   858  102.210
+ 506 BENEDICTINE IL                              8     2     0   732   663  102.199
+ 507 EMMANUEL GA                                 6     6     0   946   973  102.197
+ 508 NORTH CAROLINA CENTRAL                      3    10     0   829   894  102.191
+ 509 JOHN BROWN                                 11     1     0   964   755  102.180
+ 510 SE MISSOURI ST                              4     9     0   837   927  102.172
+ 511 UW-PARKSIDE                                 6     5     0   773   758  102.146
+ 512 SOUTHERN OREGON                             8     4     0   907   853  102.134
+ 513 AUGUSTANA IL                                7     4     0   822   733  102.130
+ 514 MCKENDREE                                   6     4     0   756   635  102.126
+ 515 FORT LEWIS                                  9     2     0   961   883  102.121
+ 516 AUGSBURG                                    7     2     0   728   600  102.104
+ 517 CENTRAL WASHINGTON                          7     3     0   790   725  102.099
+ 518 ANTELOPE VALLEY                            10     7     0  1299  1172  102.095
+ 519 MOUNT MARTY                                13     4     0  1515  1350  102.050
+ 520 NEW MEXICO HIGHLANDS                        8     4     0  1108  1034  102.032
+ 521 DETROIT MERCY                               2    11     0   870  1037  102.032
+ 522 CSU-SAN MARCOS                              5     7     0   873   865  102.024
+ 523 PITT-JOHNSTOWN                              9     2     0   926   822  102.016
+ 524 ALCORN ST                                   4     7     0   843   809  102.014
+ 525 WHEATON IL                                  8     2     0   806   638  102.008
+ 526 SIOUX FALLS                                 9     3     0   859   843  101.992
+ 527 SPRING ARBOR                               10     5     0  1193  1122  101.987
+ 528 YESHIVA                                    12     1     0  1113   939  101.976
+ 529 LAKE ERIE                                   8     5     0  1013   903  101.971
+ 530 OUACHITA BAPTIST                            6     4     0   700   661  101.968
+ 531 AMHERST                                     7     2     0   771   568  101.966
+ 532 EMPORIA ST                                  7     3     0   821   727  101.966
+ 533 WIDENER                                    10     2     0   877   820  101.954
+ 534 MAINE                                       5    10     0   885  1012  101.945
+ 535 CALDWELL                                    7     5     0   929   926  101.943
+ 536 UNION TN                                    9     4     0   995   901  101.924
+ 537 WPI                                         8     2     0   747   622  101.923
+ 538 SOUTHERN WESLEYAN                           6     7     0  1035  1068  101.914
+ 539 ELON                                        4     9     0   882   911  101.905
+ 540 TENNESSEE TECH                              3    10     0   808   927  101.887
+ 541 THOMAS MORE                                10     2     0   988   783  101.838
+ 542 STETSON                                     5     9     0   922   980  101.837
+ 543 WESTERN ON                                 16     4     0  1786  1446  101.834
+ 544 IDAHO                                       4     8     0   805   843  101.813
+ 545 LAURENTIAN                                 12     6     0  1507  1399  101.808
+ 546 WHITWORTH                                   6     4     0   837   741  101.778
+ 547 OTTAWA KS                                  13     2     0  1325  1181  101.744
+ 548 MONTANA TECH                                7     6     0  1141   947  101.732
+ 549 FAULKNER                                   10     3     0  1053   879  101.729
+ 550 WARNER U.                                  14     3     0  1563  1281  101.721
+ 551 YORK PA                                     9     3     0  1010   846  101.718
+ 552 GLENVILLE ST                                8     3     0  1130   973  101.712
+ 553 CENTRE                                      9     2     0   875   787  101.693
+ 554 HAWAI`I-HILO                                3     5     0   575   610  101.685
+ 555 JOHNSON C. SMITH                            7     4     0   832   836  101.681
+ 556 BLACK HILLS ST                              6     5     0   848   778  101.674
+ 557 TEXAS-PERMIAN BASIN                        10     4     0  1198  1171  101.670
+ 558 SW BAPTIST                                  7     3     0   768   648  101.669
+ 559 NORTHWEST NAZARENE                          3     4     0   495   524  101.633
+ 560 ASSUMPTION                                  6     4     0   846   782  101.631
+ 561 MONTEVALLO                                  8     5     0   919   918  101.621
+ 562 MOUNT OLIVE                                 8     5     0  1042  1062  101.613
+ 563 LIVINGSTONE                                 8     4     0  1033   947  101.611
+ 564 ST CLOUD ST                                 7     5     0   927   808  101.610
+ 565 UW-OSHKOSH                                  5     5     0   835   761  101.585
+ 566 BLOOMFIELD                                  6     6     0   855   894  101.583
+ 567 LSU-ALEXANDRIA                             12     4     0  1488  1277  101.569
+ 568 BOWIE ST                                    8     6     0  1049  1027  101.565
+ 569 MINN ST-MOORHEAD                            7     5     0   929   871  101.563
+ 570 FLORIDA GULF COAST                          3    12     0   914  1044  101.561
+ 571 WASHBURN                                    6     5     0   841   756  101.556
+ 572 LINDSEY WILSON                             11     3     0  1210  1016  101.556
+ 573 BROCKPORT ST                                6     2     0   643   607  101.547
+ 574 NEW JERSEY TECH                             3    10     0   853   937  101.547
+ 575 DREW                                        7     2     0   719   624  101.540
+ 576 NORTH CENTRAL IL                            9     3     0   966   818  101.527
+ 577 LYNN                                        5     5     0   843   813  101.519
+ 578 FAIRLEIGH DICKINSON                         2     9     0   739   819  101.511
+ 579 CORNELL NY                                  1    10     0   709   790  101.508
+ 580 CHRISTOPHER NEWPORT                         9     4     0  1015   863  101.501
+ 581 ST JOHN'S MN                                9     1     0   734   605  101.498
+ 582 DORDT                                      12     4     0  1386  1230  101.497
+ 583 CLAREMONT-MUDD-SCRIPPS                      7     2     0   674   598  101.497
+ 584 MICHIGAN-DEARBORN                          12     6     0  1291  1210  101.490
+ 585 JACKSON ST                                  3     9     0   806   900  101.483
+ 586 COLUMBUS ST                                 5     5     0   762   754  101.466
+ 587 MERCYHURST                                  7     5     0   939   851  101.463
+ 588 HAMPTON                                     5     8     0   971   994  101.433
+ 589 ARIZONA CHRISTIAN                           8     4     0  1075   886  101.431
+ 590 LOYOLA NO                                  11     4     0  1447  1314  101.431
+ 591 SOUTHERN ARKANSAS                           5     5     0   695   661  101.428
+ 592 CALIFORNIA PA                               7     4     0   916   829  101.420
+ 593 EASTERN KENTUCKY                            3    10     0   954  1000  101.388
+ 594 TUSKEGEE                                    8     5     0   905   886  101.381
+ 595 CORNERSTONE                                10     6     0  1146  1137  101.374
+ 596 LUBBOCK CHRISTIAN                           6     4     0   748   681  101.370
+ 597 ST MARY'S TX                                6     6     0   915   960  101.352
+ 598 GEORGIA COLL & ST                           6     5     0   812   838  101.336
+ 599 CARNEGIE MELLON                             7     2     0   712   677  101.315
+ 600 RICHARD STOCKTON                            8     2     0   781   698  101.301
+ 601 ILLINOIS WESLEYAN                           7     5     0   947   954  101.301
+ 602 JOHN CARROLL                                7     3     0   889   814  101.289
+ 603 TARLETON ST                                 5     6     0   796   784  101.266
+ 604 HUMBOLDT ST                                 6     6     0   971   996  101.253
+ 605 ALBERTUS MAGNUS                             9     1     0   931   735  101.244
+ 606 GEORGIA SOUTHWESTERN                        5     3     0   615   576  101.234
+ 607 SE LOUISIANA                                3     9     0   803   933  101.208
+ 608 NORTH GEORGIA                               5     6     0   783   790  101.207
+ 609 RIPON                                       6     4     0   687   687  101.206
+ 610 KEISER                                     13     3     0  1489  1249  101.199
+ 611 REDLANDS                                    8     3     0   859   742  101.193
+ 612 MONTANA ST-BILLINGS                         5     5     0   735   777  101.169
+ 613 HOPE                                        7     4     0   853   793  101.168
+ 614 WAYLAND BAPTIST                             9     3     0   980   790  101.157
+ 615 BUENA VISTA                                10     2     0  1095   874  101.147
+ 616 NORTHWESTERN IA                            13     3     0  1446  1170  101.146
+ 617 ROCKHURST                                   5     4     0   748   643  101.138
+ 618 BROCK                                       8     6     0  1019   976  101.133
+ 619 VMI                                         5     9     0  1031   914  101.119
+ 620 AVE MARIA                                  11     6     0  1435  1351  101.116
+ 621 FLAGLER                                     5     6     0   894   878  101.112
+ 622 WINGATE                                     4     6     0   768   798  101.111
+ 623 OHIO WESLEYAN                               6     4     0   777   772  101.096
+ 624 ARKANSAS-PINE BLUFF                         1    11     0   600   869  101.093
+ 625 LORAS                                       9     2     0   896   843  101.074
+ 626 NORFOLK ST                                  4    11     0  1006   982  101.060
+ 627 ST JOSEPH CT                                9     2     0   926   757  101.045
+ 628 RHODE ISLAND COLL                           9     3     0  1028   924  101.026
+ 629 SASKATCHEWAN                               11     3     0  1173  1063  101.009
+ 630 ELIZABETH CITY ST                           7     5     0   909   851  101.005
+ 631 NORTHERN MICHIGAN                           4     7     0   726   736  101.000
+ 632 ECKERD                                      6     5     0   871   806  100.998
+ 633 MOLLOY                                      6     6     0   920   963  100.993
+ 634 XAVIER NO                                  11     6     0  1284  1191  100.983
+ 635 SOUTHEASTERN FL                            11     6     0  1458  1320  100.961
+ 636 MADONNA                                    10     5     0  1269  1179  100.957
+ 637 EAST TEXAS BAPTIST                          7     3     0   824   757  100.950
+ 638 BERRY                                       9     2     0   833   755  100.934
+ 639 HAVERFORD                                   8     1     0   725   625  100.909
+ 640 TEXAS-DALLAS                                7     4     0   788   783  100.860
+ 641 SAN FRANCISCO ST                            5     8     0   937   990  100.832
+ 642 SCRANTON                                    8     2     0   787   646  100.820
+ 643 MUSKINGUM                                   6     3     0   721   686  100.795
+ 644 HARDING                                     6     4     0   765   706  100.791
+ 645 ALBANY ST GA                                7     7     0   961   951  100.780
+ 646 MUHLENBERG                                  8     2     0   763   688  100.778
+ 647 VANGUARD                                    9     6     0  1141  1034  100.777
+ 648 SOUTHERN CONN ST                            6     4     0   766   718  100.775
+ 649 CLARKE IA                                   9     5     0  1149  1087  100.774
+ 650 BETHEL MN                                   6     3     0   672   620  100.768
+ 651 MONTANA ST-NORTHERN                        10     4     0  1092   873  100.757
+ 652 CHAPMAN                                    10     2     0   893   708  100.739
+ 653 SHAWNEE ST                                 11     4     0  1216   955  100.739
+ 654 ALLEGHENY                                   7     3     0   766   721  100.731
+ 655 RUTGERS-NEWARK                              7     3     0   670   599  100.722
+ 656 IU SOUTHEAST                                9     3     0  1103   909  100.704
+ 657 NICHOLS                                     7     2     0   722   673  100.703
+ 658 UW-RIVER FALLS                              7     3     0   811   730  100.682
+ 659 MILLSAPS                                    8     5     0   980  1024  100.659
+ 660 WABASH                                      6     4     0   826   794  100.658
+ 661 ST XAVIER                                  11     4     0  1298  1173  100.649
+ 662 AUBURN MONTGOMERY                           6     7     0   995  1046  100.649
+ 663 WINONA ST                                   7     6     0   953   950  100.637
+ 664 ARKANSAS TECH                               5     6     0   898   886  100.613
+ 665 BALDWIN WALLACE                             6     4     0   721   674  100.594
+ 666 ST THOMAS FL                                8     3     0   919   837  100.594
+ 667 WASHINGTON ADVENTIST                       12     3     0  1279  1079  100.593
+ 668 GOLDEY-BEACOM                               6     6     0   938   888  100.588
+ 669 WILLIAM JEWELL                              5     4     0   627   632  100.574
+ 670 UBC                                        11     6     0  1556  1362  100.561
+ 671 CHICAGO ST                                  4    10     0   957  1161  100.541
+ 672 WAYNE ST NE                                 5    10     0  1091  1156  100.532
+ 673 KENNESAW ST                                 1    12     0   733  1007  100.529
+ 674 ST MARTIN'S                                 4     7     0   834   880  100.521
+ 675 UC-MERCED                                   7     4     0   737   747  100.500
+ 676 TALLADEGA                                  14     3     0  1484  1117  100.499
+ 677 NEW HAVEN                                   4     5     0   620   624  100.498
+ 678 LAKE FOREST                                 4     4     0   666   654  100.495
+ 679 CHRISTIAN BROTHERS                          5     7     0   758   796  100.493
+ 680 MINOT ST                                    6     6     0   869   797  100.473
+ 681 UTICA                                       7     2     0   752   651  100.469
+ 682 SHEPHERD                                    6     5     0   855   768  100.467
+ 683 URSINUS                                     6     3     0   703   638  100.460
+ 684 WESLEYAN                                    7     2     0   630   563  100.430
+ 685 LYNCHBURG                                   7     4     0   887   776  100.421
+ 686 SIU-EDWARDSVILLE                            4    10     0   938  1009  100.417
+ 687 MANITOBA                                   12     3     0  1283  1084  100.412
+ 688 MCGILL                                      8    10     0  1355  1465  100.403
+ 689 TRANSYLVANIA                                6     4     0   737   750  100.400
+ 690 MARY                                        7     5     0   843   781  100.387
+ 691 MONTCLAIR ST                                7     3     0   933   912  100.385
+ 692 WILLIAM CAREY                               9     5     0  1043   948  100.380
+ 693 IU KOKOMO                                  11     3     0  1191  1042  100.365
+ 694 MILES                                       7     4     0   734   667  100.351
+ 695 MARS HILL                                   6     8     0  1196  1285  100.337
+ 696 BARTON                                      5     8     0  1061  1075  100.333
+ 697 QUEEN'S ON                                 10     7     0  1358  1287  100.329
+ 698 WARNER PACIFIC                              9     5     0  1084  1018  100.317
+ 699 SOUTH DAKOTA TECH                           4     7     0   813   756  100.312
+ 700 CALIFORNIA MARITIME                        11     3     0  1119   962  100.307
+ 701 INDIANA TECH                                7     8     0  1096  1052  100.278
+ 702 COLORADO ST-PUEBLO                          4     7     0   866   892  100.259
+ 703 CENTRAL BAPTIST                             9     6     0  1189  1150  100.255
+ 704 CALVIN                                      6     6     0   899   911  100.254
+ 705 CONCORDIA NE                                9     6     0  1136  1052  100.239
+ 706 TOUGALOO                                   10     4     0  1218  1101  100.237
+ 707 MEMORIAL                                    9     6     0  1249  1207  100.214
+ 708 HARRIS-STOWE ST                             8     5     0  1098  1088  100.209
+ 709 ST MARY'S NS                                8     6     0  1093  1115  100.189
+ 710 EASTERN NEW MEXICO                          3     9     0   864   971  100.182
+ 711 BETHEL TN                                  10     4     0  1227  1171  100.179
+ 712 BETHEL KS                                  12     5     0  1420  1304  100.176
+ 713 HOLY CROSS MA                               1    12     0   873  1058  100.156
+ 714 DELAWARE ST                                 1    12     0   932  1115  100.148
+ 715 CARSON-NEWMAN                               5     7     0  1065  1034  100.147
+ 716 EMMANUEL MA                                 8     2     0   895   781  100.146
+ 717 MD-EASTERN SHORE                            1    14     0   792  1108  100.144
+ 718 NEWMAN                                      6     6     0   945   807  100.131
+ 719 UNB                                         8     4     0  1064   946  100.123
+ 720 CUMBERLANDS KY                              8     4     0   940   818  100.118
+ 721 PUGET SOUND                                 6     5     0   824   842  100.117
+ 722 BELLEVUE                                    8     5     0  1044  1005  100.116
+ 723 HOLY NAMES                                  4     8     0   857   948  100.108
+ 724 ERSKINE                                     4     7     0   804   843  100.103
+ 725 CENTRAL MISSOURI                            5     5     0   672   630  100.091
+ 726 BRANDEIS                                    6     3     0   671   611  100.085
+ 727 CLAFLIN                                     7     7     0   976   945  100.076
+ 728 WHEELING JESUIT                             6     4     0   770   693  100.066
+ 729 NEW JERSEY                                  4     5     0   726   682  100.059
+ 730 PRESBYTERIAN                                4    10     0   910  1007  100.047
+ 731 LYON                                        9     3     0   786   775  100.047
+ 732 ACADEMY OF ART                              5     7     0   816   850  100.038
+ 733 GETTYSBURG                                  7     3     0   757   691  100.030
+ 734 WILLIAM JESSUP                              7     6     0  1023  1003  100.000
+ 735 CLAYTON ST                                  2     7     0   732   874   99.993
+ 736 BRIAR CLIFF                                10     6     0  1430  1288   99.993
+ 737 CASE WESTERN RESERVE                        7     3     0   751   706   99.980
+ 738 OBERLIN                                     7     4     0   757   767   99.976
+ 739 ST AMBROSE                                 10     5     0  1241  1167   99.976
+ 740 MALONE                                      8     6     0  1064  1028   99.953
+ 741 JAMESTOWN                                  10     5     0  1357  1245   99.947
+ 742 STILLMAN                                    7     2     0   826   704   99.943
+ 743 TEXAS WESLEYAN                              9     4     0  1162  1043   99.942
+ 744 NYACK                                       6     5     0   871   872   99.934
+ 745 FRESNO PACIFIC                              3     9     0   896   971   99.927
+ 746 ALLEN                                      10     3     0  1058   968   99.925
+ 747 WHITMAN                                     6     4     0   989   892   99.911
+ 748 BISHOP'S                                    9    10     0  1473  1529   99.908
+ 749 METROPOLITAN ST                             6     5     0   799   750   99.906
+ 750 QUINCY                                      6     5     0   865   784   99.902
+ 751 MISSISSIPPI VALLEY ST                       1    12     0   869  1241   99.855
+ 752 ENDICOTT                                    8     3     0   960   868   99.844
+ 753 WINSTON-SALEM ST                            5     5     0   707   661   99.827
+ 754 PITTSBURG ST                                4     6     0   753   749   99.824
+ 755 MENLO                                       7     5     0   966   859   99.809
+ 756 DEFIANCE                                    8     3     0   820   838   99.805
+ 757 RYERSON                                     7     7     0  1090   996   99.802
+ 758 RPI                                         7     2     0   660   525   99.791
+ 759 UMASS-BOSTON                                7     4     0   722   685   99.788
+ 760 PARK                                        9     3     0   888   816   99.787
+ 761 SW ASSEM OF GOD                             8     2     0   948   732   99.761
+ 762 UPPER IOWA                                  6     6     0   934   947   99.757
+ 763 SONOMA ST                                   3    11     0   907  1116   99.754
+ 764 REGINA                                      9    13     0  1831  1850   99.747
+ 765 NW OKLAHOMA ST                              3     7     0   647   728   99.740
+ 766 CORTLAND ST                                 5     3     0   597   599   99.721
+ 767 LANGSTON                                    7     4     0   789   805   99.720
+ 768 OKLAHOMA WESLEYAN                          11     4     0  1336  1063   99.693
+ 769 UNION KY                                   10     5     0  1215  1150   99.689
+ 770 TEXAS-TYLER                                 4     6     0   741   696   99.674
+ 771 MISSOURI VALLEY                             8     5     0  1006   988   99.666
+ 772 WINNIPEG                                    9     7     0  1261  1215   99.654
+ 773 SUSQUEHANNA                                 7     3     0   811   679   99.647
+ 774 MISSOURI WESTERN                            4     8     0   907   909   99.645
+ 775 ADRIAN                                      5     5     0   820   806   99.635
+ 776 CSU-MONTEREY BAY                            5     9     0  1074  1148   99.634
+ 777 FELICIAN                                    4     7     0   879   931   99.629
+ 778 WESTERN COLORADO                            5     7     0   809   914   99.623
+ 779 ALASKA-FAIRBANKS                            3     7     0   726   863   99.621
+ 780 VIRGINIA-WISE                               5     7     0   993   972   99.619
+ 781 OHIO DOMINICAN                              4     9     0   934   990   99.617
+ 782 NORTHWEST WA                                8     6     0  1182  1058   99.600
+ 783 MONTANA-WESTERN                             7     8     0  1218  1175   99.598
+ 784 HANOVER                                     6     2     0   595   477   99.589
+ 785 CENTRAL CONNECTICUT ST                      2    12     0   873  1075   99.572
+ 786 HOWARD                                      2    11     0   883  1052   99.567
+ 787 OCCIDENTAL                                  6     4     0   740   672   99.557
+ 788 MOREHOUSE                                   7     5     0   881   862   99.550
+ 789 PURDUE NORTHWEST                            4     7     0   822   891   99.539
+ 790 WEST GEORGIA                                3     8     0   856   914   99.535
+ 791 CAPITAL                                     6     6     0   804   802   99.529
+ 792 BENEDICTINE KS                              6     6     0   838   850   99.527
+ 793 GANNON                                      4     5     0   643   673   99.524
+ 794 COVENANT                                    5     4     0   636   663   99.507
+ 795 WEST FLORIDA                                5     6     0   719   737   99.504
+ 796 DILLARD                                     9     6     0  1356  1187   99.503
+ 797 AMERICAN INT'L                              4     9     0   930  1017   99.489
+ 798 IU EAST                                     8     7     0  1262  1253   99.488
+ 799 UNION NY                                    4     3     0   505   493   99.482
+ 800 FRANCIS MARION                              3     5     0   673   705   99.473
+ 801 CONCORDIA QC                                8    11     0  1416  1444   99.467
+ 802 EMERSON                                     6     4     0   859   802   99.460
+ 803 OKLAHOMA CHRISTIAN                          3     7     0   588   687   99.460
+ 804 CARROLL WI                                  9     3     0   892   741   99.459
+ 805 ARKANSAS-FORT SMITH                         5     6     0   748   764   99.456
+ 806 CLARK ATLANTA                               4     9     0   903   924   99.456
+ 807 CAMPBELLSVILLE                              9     6     0  1189  1063   99.447
+ 808 OSWEGO ST                                   5     2     0   553   516   99.437
+ 809 MINN ST-MANKATO                             5     7     0   956   884   99.431
+ 810 ST OLAF                                     5     3     0   573   562   99.431
+ 811 BATES                                       5     3     0   568   559   99.430
+ 812 BLUE MOUNTAIN                               9     5     0  1056  1038   99.421
+ 813 DELTA ST                                    5     7     0   838   938   99.414
+ 814 PITT-GREENSBURG                             7     2     0   718   638   99.412
+ 815 MIDAMERICA NAZARENE                         9     4     0   990   931   99.411
+ 816 FLORIDA TECH                                7     6     0  1066   986   99.395
+ 817 LINFIELD                                    6     4     0   846   781   99.395
+ 818 DOUGLAS                                     8     1     0   829   669   99.394
+ 819 DUBUQUE                                     7     2     0   782   712   99.382
+ 820 LAURIER                                     7    10     0  1294  1334   99.371
+ 821 INCARNATE WORD                              3     9     0   791   867   99.363
+ 822 ST MARY'S MN                                6     2     0   618   558   99.354
+ 823 WESTFIELD ST                                7     4     0   876   818   99.347
+ 824 CONCORD                                     4     9     0   958  1072   99.347
+ 825 AVERETT                                     6     6     0   808   837   99.340
+ 826 VICTORIA                                    8     6     0  1068   999   99.329
+ 827 SEWANEE                                     7     5     0   944   907   99.321
+ 828 TRINE                                       5     6     0   787   805   99.320
+ 829 MARYMOUNT                                   7     5     0   827   746   99.319
+ 830 ROCHESTER MI                                8     5     0  1035   912   99.302
+ 831 YORK NE                                     9     6     0  1146  1080   99.289
+ 832 HOLY CROSS IN                              12     4     0  1193  1011   99.288
+ 833 ST MICHAEL'S                                3     7     0   758   817   99.262
+ 834 MARY WASHINGTON                             8     5     0   997   914   99.250
+ 835 MIDDLE GEORGIA ST                           5     6     0   863   871   99.247
+ 836 DEPAUW                                      4     6     0   698   716   99.235
+ 837 LYCOMING                                    8     4     0   878   820   99.225
+ 838 CENTENARY LA                                6     6     0   901   895   99.220
+ 839 OKLAHOMA CITY                               7     4     0   802   763   99.217
+ 840 NAZARETH                                    6     3     0   668   641   99.217
+ 841 NORTH GREENVILLE                            4     7     0   838   905   99.211
+ 842 LANE                                        6     7     0   956   990   99.207
+ 843 GUELPH                                      8    11     0  1554  1559   99.207
+ 844 EDINBORO                                    5     5     0   717   797   99.190
+ 845 YOUNG HARRIS                                2     7     0   826   860   99.189
+ 846 MISSISSIPPI COLLEGE                         5     5     0   683   660   99.182
+ 847 HOOD                                        8     3     0   853   825   99.170
+ 848 MESSIAH                                     6     4     0   724   678   99.161
+ 849 GREENSBORO                                  8     4     0   995   996   99.158
+ 850 TAMPA                                       3    10     0   840   933   99.147
+ 851 LINCOLN MO                                  4     7     0   759   779   99.141
+ 852 LOUISIANA COLLEGE                           5     5     0   702   702   99.122
+ 853 UQAM                                        7    12     0  1468  1493   99.121
+ 854 CONCORDIA TX                                5     6     0   932   979   99.116
+ 855 ROANOKE                                     6     4     0   701   611   99.107
+ 856 FREED-HARDEMAN                              7     6     0  1049   964   99.101
+ 857 ANDERSON IN                                 5     6     0   841   814   99.098
+ 858 CENTRAL ST OH                               6     7     0   962   976   99.097
+ 859 MARIST                                      1     9     0   570   666   99.089
+ 860 MISSOURI S&T                                3     5     0   554   564   99.075
+ 861 LAWRENCE                                    6     3     0   708   652   99.068
+ 862 WILLIAMS                                    4     4     0   609   522   99.060
+ 863 WENTWORTH TECH                              7     3     0   771   742   99.053
+ 864 CUMBERLAND TN                               9     8     0  1181  1231   99.025
+ 865 WASHINGTON AND LEE                          8     3     0   905   800   99.017
+ 866 LEMOYNE-OWEN                                6     5     0   826   839   99.016
+ 867 ROCKY MOUNTAIN                              5     5     0   829   816   99.012
+ 868 WILKES                                      6     3     0   776   669   99.009
+ 869 TORONTO                                     7     9     0  1263  1254   98.999
+ 870 BENEDICT                                    5     7     0   900   883   98.988
+ 871 SLIPPERY ROCK                               5     6     0   836   867   98.981
+ 872 FRIENDS                                     8     6     0  1048  1030   98.977
+ 873 FLORIDA NATIONAL                           13     8     0  1941  1851   98.973
+ 874 WILEY                                       4     9     0   923  1049   98.966
+ 875 SW MINNESOTA ST                             4     9     0   872   936   98.961
+ 876 SAN DIEGO CHRISTIAN                         4     8     0   775   932   98.957
+ 877 WASH & JEFF                                 7     4     0   762   750   98.953
+ 878 METHODIST                                   6     5     0   800   813   98.933
+ 879 SHAW                                        4     7     0   890  1045   98.932
+ 880 KENTUCKY WESLEYAN                           4     8     0   820   887   98.929
+ 881 AVILA                                       7     9     0  1202  1270   98.926
+ 882 MARTIN METHODIST                            7     7     0   997  1043   98.909
+ 883 HUNTINGTON IN                               8     6     0  1112  1027   98.894
+ 884 KANSAS WESLEYAN                             9     6     0  1100  1041   98.890
+ 885 CENTRAL OKLAHOMA                            4     9     0   891   907   98.872
+ 886 EARLHAM                                     5     5     0   731   784   98.869
+ 887 SCIENCE & ARTS OK                           6     7     0  1148  1155   98.836
+ 888 BLOOMSBURG                                  5     6     0   922   912   98.830
+ 889 MIT                                         7     5     0   842   852   98.815
+ 890 EASTERN OREGON                              7     7     0  1388  1289   98.805
+ 891 SALEM                                       5     6     0   918   952   98.795
+ 892 GRACE IN                                    8     4     0   911   868   98.792
+ 893 MONTREAT                                   10     3     0  1139   996   98.784
+ 894 VOORHEES                                    7     7     0  1083  1080   98.778
+ 895 ITHACA                                      4     2     0   494   431   98.738
+ 896 MAYVILLE ST                                 9     6     0  1240  1140   98.718
+ 897 JOHNSON & WALES RI                          7     4     0   811   810   98.690
+ 898 TIFFIN                                      6     9     0  1248  1249   98.669
+ 899 ALMA                                        5     7     0   975   994   98.666
+ 900 MISSOURI BAPTIST                            7     8     0  1037  1107   98.662
+ 901 ROBERT MORRIS-CHICAGO                       8     5     0  1109  1058   98.656
+ 902 CINCINNATI-CLERMONT                        11     2     0  1203  1144   98.652
+ 903 POINT U.                                   10     4     0  1126  1078   98.650
+ 904 CHICAGO                                     4     7     0   848   851   98.624
+ 905 HENDRIX                                     7     6     0   949   913   98.612
+ 906 UMASS-DARTMOUTH                             7     5     0   960   898   98.606
+ 907 SOUTHWESTERN KS                            10     6     0  1434  1190   98.594
+ 908 PERU ST                                     6     7     0   988  1053   98.588
+ 909 WESTMINSTER PA                              7     5     0   926   893   98.580
+ 910 ST JOHN FISHER                              5     5     0   795   744   98.579
+ 911 NEW ENGLAND COLL                            6     4     0   886   830   98.579
+ 912 PFEIFFER                                    6     6     0  1102  1173   98.548
+ 913 WILMINGTON OH                               4     6     0   725   763   98.544
+ 914 LIFE GA                                     9     6     0  1012  1008   98.544
+ 915 MARYVILLE MO                                4     6     0   669   741   98.532
+ 916 IU SOUTH BEND                               9     6     0  1246  1114   98.514
+ 917 ADAMS ST                                    4     8     0   899  1002   98.513
+ 918 HAWAI`I PACIFIC                             3     8     0   737   768   98.509
+ 919 WESTERN CONN ST                             8     3     0   868   747   98.476
+ 920 WILLIAM PATERSON                            6     5     0   816   779   98.464
+ 921 TAYLOR                                      7     7     0  1157  1034   98.463
+ 922 SUNY PURCHASE                               5     4     0   733   713   98.434
+ 923 ARCADIA                                     6     5     0   830   831   98.395
+ 924 CHOWAN                                      4     6     0   782   750   98.393
+ 925 COKER                                       2     9     0   694   831   98.386
+ 926 ST ROSE                                     3     9     0   918   997   98.381
+ 927 ROGER WILLIAMS                              7     3     0   840   763   98.380
+ 928 MORAVIAN                                    6     4     0   757   728   98.366
+ 929 FERRUM                                      5     7     0   817   859   98.360
+ 930 IU NORTHWEST                               10     6     0  1286  1247   98.328
+ 931 SOUTHWESTERN TX                             7     5     0   881   911   98.315
+ 932 MCPHERSON                                   9     5     0  1144  1062   98.309
+ 933 WV WESLEYAN                                 4     7     0   843   908   98.293
+ 934 COLUMBIA INT'L                              8     8     0  1204  1262   98.277
+ 935 SIMPSON IA                                  7     6     0  1151  1113   98.267
+ 936 GEORGIAN COURT                              4     7     0   745   762   98.258
+ 937 KENYON                                      5     4     0   594   628   98.253
+ 938 FRANKLIN                                    6     4     0   763   703   98.246
+ 939 JOHNSON TN                                 10     7     0  1375  1368   98.242
+ 940 UCCB                                        5     8     0  1012  1085   98.226
+ 941 CORBAN                                      8     7     0  1263  1065   98.225
+ 942 PENN ST-ERIE                                6     3     0   694   602   98.222
+ 943 AQUINAS                                     6    12     0  1236  1269   98.216
+ 944 UW-WHITEWATER                               5     5     0   747   769   98.216
+ 945 TEXAS COLLEGE                               7     8     0  1302  1364   98.208
+ 946 DISTRICT OF COLUMBIA                        5     8     0   958  1015   98.207
+ 947 WATERLOO                                    7    11     0  1337  1478   98.201
+ 948 WEST VIRGINIA TECH                          7     5     0   963   904   98.191
+ 949 UW-SUPERIOR                                 6     5     0   728   754   98.189
+ 950 GWYNEDD MERCY                               7     4     0   803   766   98.160
+ 951 NEW JERSEY CITY                             5     8     0   976  1002   98.136
+ 952 LAWRENCE TECH                               7     6     0   946   978   98.129
+ 953 BENEDICTINE AZ                              7     6     0  1105  1108   98.125
+ 954 LETHBRIDGE U.                              10    11     0  1818  1939   98.120
+ 955 MONMOUTH IL                                 6     3     0   704   655   98.107
+ 956 GRACE CHRISTIAN                             6    11     0  1294  1430   98.097
+ 957 GEORGE BROWN                                9     0     0   837   631   98.076
+ 958 ST FRANCIS XAVIER                           5     9     0  1182  1245   98.074
+ 959 MOUNT MERCY                                 7     6     0  1036  1019   98.063
+ 960 PENN ST-HARRISBURG                          5     3     0   603   572   98.061
+ 961 HASTINGS                                    8    10     0  1470  1397   98.055
+ 962 JOHNSON & WALES NC                          6     5     0   923   895   98.040
+ 963 PIEDMONT GA                                 6     6     0   891  1000   98.026
+ 964 COLORADO CHRISTIAN                          1    11     0   827   975   97.998
+ 965 MOUNT ROYAL                                 8    11     0  1640  1778   97.994
+ 966 COASTAL GEORGIA                             7     8     0  1137  1164   97.985
+ 967 CONCORDIA WI                                5     5     0   767   767   97.984
+ 968 KUTZTOWN                                    5     6     0   945   900   97.982
+ 969 WILLIAM WOODS                               7     9     0  1138  1186   97.981
+ 970 FROSTBURG ST                                4     7     0   873   956   97.972
+ 971 COE                                         6     5     0   864   813   97.969
+ 972 PENN ST-ABINGTON                            6     2     0   638   637   97.961
+ 973 POTSDAM ST                                  6     3     0   713   677   97.953
+ 974 TREVECCA NAZARENE                           2    12     0   936  1176   97.938
+ 975 SUNY COBLESKILL                             7     1     0   683   559   97.923
+ 976 BAKER                                       6     7     0   956   983   97.922
+ 977 NOTRE DAME CA                               2    11     0   845  1119   97.912
+ 978 CENTRAL PENN                                5     4     0   629   673   97.897
+ 979 HUSTON-TILLOTSON                            5     8     0  1090  1213   97.869
+ 980 WINDSOR                                     7    11     0  1409  1455   97.867
+ 981 BUFFALO ST                                  3     2     0   401   388   97.864
+ 982 ROSE-HULMAN                                 4     6     0   726   749   97.861
+ 983 HARTWICK                                    6     4     0   711   725   97.853
+ 984 DAVIS & ELKINS                              4     8     0   888   986   97.852
+ 985 MAINE-FARMINGTON                            7     3     0   891   726   97.835
+ 986 TRINITY CT                                  6     5     0   813   735   97.815
+ 987 MILLIGAN                                    5     9     0   945  1076   97.808
+ 988 WEBBER INT'L                                9     8     0  1474  1358   97.807
+ 989 GOVERNORS ST                                6     6     0   994   970   97.806
+ 990 HARDIN-SIMMONS                              5     7     0   917   930   97.791
+ 991 BRY & STRAT-BUFFALO                         7     1     0   725   656   97.790
+ 992 JOHN JAY                                    7     2     0   648   607   97.760
+ 993 GRINNELL                                    6     3     0  1076   889   97.757
+ 994 BETHANY KS                                  6     9     0  1160  1261   97.749
+ 995 SALISBURY                                   5     9     0  1097  1068   97.743
+ 996 OHIO NORTHERN                               4     5     0   602   649   97.736
+ 997 MANHATTANVILLE                              5     2     0   500   496   97.723
+ 998 MIDLAND U.                                  4    12     0  1158  1318   97.712
+ 999 LINCOLN IL                                  5    11     0  1242  1308   97.701
+1000 NEUMANN                                     6     6     0   873   845   97.681
+1001 PHILANDER SMITH                             5    10     0  1040  1147   97.680
+1002 CARLETON MN                                 4     5     0   694   702   97.678
+1003 MILLERSVILLE                                5     6     0   879   843   97.674
+1004 BETHANY LUTHERAN                            7     6     0  1135  1143   97.674
+1005 CENTRAL CHRISTIAN KS                        7     6     0  1072   986   97.673
+1006 U OF THE SOUTHWEST                          7    10     0  1282  1374   97.668
+1007 DALLAS                                      4     4     0   557   521   97.665
+1008 WILMINGTON DE                               2     9     0   838   957   97.654
+1009 SIENA HEIGHTS                               6    10     0  1196  1274   97.627
+1010 BLUEFIELD ST WV                             6     8     0  1109  1100   97.620
+1011 CARDINAL STRITCH                            7     7     0  1081  1063   97.619
+1012 HILBERT                                     9     2     0   896   881   97.615
+1013 NORTHWEST CHRISTIAN                         7     6     0  1164  1074   97.613
+1014 HAMPDEN-SYDNEY                              5     6     0   798   854   97.605
+1015 CONCORDIA IL                                3     5     0   673   758   97.599
+1016 ROWAN                                       5     5     0   855   820   97.593
+1017 U OF THE OZARKS                             4     7     0   809   904   97.561
+1018 ST KATHERINE                                3    13     0  1083  1311   97.551
+1019 ONEONTA ST                                  5     4     0   710   694   97.545
+1020 URBANA                                      3     9     0   770   881   97.541
+1021 HUNTINGDON AL                               4     7     0   849   880   97.537
+1022 BLUFFTON                                    5     5     0   663   629   97.517
+1023 DESALES                                     5     4     0   679   672   97.505
+1024 GORDON                                      5     5     0   884   849   97.488
+1025 PENN ST-ALTOONA                             7     3     0   806   821   97.486
+1026 ST MARY KS                                  7     9     0  1108  1233   97.482
+1027 SW CHRISTIAN                                8     6     0  1105  1140   97.475
+1028 KEENE ST                                    3     7     0   762   841   97.459
+1029 SIMPSON CA                                  6     7     0   945  1003   97.446
+1030 POINT PARK                                  7     6     0  1120  1064   97.445
+1031 ALBRIGHT                                    6     5     0   790   772   97.438
+1032 WESTERN NEW ENGLAND                         6     8     0  1125  1119   97.436
+1033 RANDALL                                     3    12     0  1067  1308   97.419
+1034 EVANGEL                                     7     6     0  1105  1033   97.412
+1035 ROBERTS WESLEYAN                            3    10     0   931  1083   97.405
+1036 FRANKLIN & MARSHALL                         4     5     0   597   600   97.402
+1037 PENN ST-MONT ALTO                          10     1     0   887   699   97.402
+1038 ALFRED                                      4     5     0   615   648   97.378
+1039 EASTERN CONN ST                             3     5     0   549   593   97.374
+1040 COLUMBIA MO                                 6     7     0   948   935   97.367
+1041 CAMERON                                     2     9     0   770   881   97.366
+1042 RAMAPO                                      5     7     0   922   890   97.365
+1043 FITCHBURG ST                                6     5     0   872   888   97.347
+1044 MT ST JOSEPH                                3     9     0   804   955   97.340
+1045 CHATHAM                                     7     4     0   830   784   97.336
+1046 QUEENS NY                                   2    10     0   834   937   97.334
+1047 CONCORDIA OR                                2     9     0   815   912   97.331
+1048 GRACELAND                                   5     8     0  1053  1022   97.326
+1049 EUREKA                                      6     4     0   862   877   97.318
+1050 TAMU-TEXARKANA                              5    12     0  1321  1395   97.315
+1051 EDWARD WATERS                               5     6     0   925   911   97.311
+1052 MERCY                                       3     9     0   843  1025   97.284
+1053 OHIO VALLEY                                 3     9     0   832  1026   97.277
+1054 WASHINGTON MD                               3     8     0   721   846   97.263
+1055 CALTECH                                     3     8     0   760   845   97.262
+1056 LETHBRIDGE COL.                            15     2     0  1603  1322   97.259
+1057 HIRAM                                       4     7     0   794   870   97.257
+1058 THOMAS GA                                   4    12     0  1075  1266   97.242
+1059 ILLINOIS TECH                               4     8     0   780   817   97.235
+1060 VANIER                                      9     2     0   913   818   97.199
+1061 BRYAN                                       6     8     0   997  1008   97.187
+1062 ACADIA                                      4    13     0  1344  1526   97.173
+1063 HOLY FAMILY                                 5     8     0   931   984   97.169
+1064 COLL OF THE OZARKS MO                       5     7     0   961   997   97.145
+1065 DOMINICAN CA                                1    11     0   830   949   97.112
+1066 CHADRON ST                                  2     9     0   788   806   97.102
+1067 THOMPSON RIVERS                             9     7     0  1248  1201   97.089
+1068 FORT VALLEY ST                              3    10     0   917  1054   97.055
+1069 LIMESTONE                                   2    12     0   991  1132   97.053
+1070 BREWTON-PARKER                              4     8     0   864  1020   97.010
+1071 CORNELL IA                                  5     5     0   796   817   96.969
+1072 KALAMAZOO                                   3     9     0   917  1002   96.967
+1073 MOBILE                                      4     8     0   825   870   96.965
+1074 LEWIS & CLARK OR                            5     5     0   759   764   96.961
+1075 NORTHWESTERN MN                             7     6     0  1103  1033   96.937
+1076 WHITTIER                                    6     5     0   889   927   96.931
+1077 GEORGE FOX                                  4     7     0   847   934   96.922
+1078 OTTAWA AZ                                   4     8     0  1055  1038   96.919
+1079 LAVAL                                       2    10     0   942  1025   96.918
+1080 WISCONSIN LUTHERAN                          7     4     0   943   901   96.916
+1081 FLORIDA COLLEGE                             7     7     0  1148  1148   96.915
+1082 NYU                                         6     4     0   737   733   96.901
+1083 FRASER VALLEY                               5     9     0  1108  1145   96.895
+1084 EMBRY-RIDDLE AZ                             4     7     0   832   854   96.891
+1085 WARTBURG                                    4     8     0   880   915   96.881
+1086 STEVENSON                                   5     6     0   771   763   96.879
+1087 VITERBO                                     4     9     0   928   914   96.872
+1088 YORK ON                                     7    16     0  1736  1950   96.870
+1089 KENTUCKY ST                                 5     7     0   922   946   96.861
+1090 LAKELAND WI                                 6     5     0   863   919   96.855
+1091 BRIDGEWATER VA                              5     9     0  1003  1193   96.846
+1092 WHEATON MA                                  5     4     0   778   741   96.833
+1093 LA SIERRA                                   5    11     0  1180  1342   96.832
+1094 ALDERSON BROADDUS                           1    10     0   799   910   96.823
+1095 KING'S PA                                   5     3     0   637   643   96.817
+1096 WESTERN NEW MEXICO                          3    10     0   975  1080   96.809
+1097 ALVERNIA                                    4     6     0   728   706   96.775
+1098 GREAT LAKES CHRISTIAN                       6     8     0  1136  1268   96.768
+1099 ST FRANCIS IL                               5    10     0  1103  1151   96.767
+1100 CONCORDIA-ST PAUL                           3     7     0   734   771   96.763
+1101 SUFFOLK                                     5     5     0   771   730   96.753
+1102 BARUCH                                      5     4     0   608   611   96.752
+1103 BOB JONES U.                                6     7     0  1017  1024   96.747
+1104 ALICE LLOYD                                 5     9     0  1143  1256   96.745
+1105 UPEI                                        5    12     0  1241  1359   96.736
+1106 PACIFIC LUTHERAN                            4     6     0   752   666   96.714
+1107 MIDWESTERN ST                               1     9     0   713   753   96.713
+1108 FARMINGDALE                                 5     7     0   831   907   96.695
+1109 BOWDOIN                                     4     4     0   556   548   96.695
+1110 FLORIDA MEMORIAL                            3    13     0  1240  1372   96.694
+1111 ST AUGUSTINE'S                              2     8     0   687   738   96.692
+1112 MANSFIELD                                   3     7     0   807   894   96.692
+1113 AUSTIN                                      3     7     0   753   807   96.691
+1114 CLARION                                     2     8     0   655   767   96.670
+1115 SAGE                                        5     4     0   639   684   96.657
+1116 BELHAVEN                                    3     6     0   735   784   96.622
+1117 LINCOLN PA                                  3    11     0  1071  1121   96.613
+1118 ST VINCENT                                  7     5     0   859   855   96.610
+1119 SHORTER                                     3     9     0   908  1057   96.606
+1120 RANDOLPH COLL                               5     9     0   929  1038   96.573
+1121 TENNESSEE WESLEYAN                          5     9     0  1018  1185   96.561
+1122 ST JOSEPH'S-BROOKLYN                        4     4     0   574   593   96.521
+1123 SENECA                                     10     3     0  1118   996   96.518
+1124 BECKER                                      7     5     0   819   825   96.490
+1125 LA ROCHE                                    5     5     0   832   761   96.470
+1126 CONCORDIA MI                                5    10     0  1170  1201   96.465
+1127 RIO GRANDE                                  8     9     0  1174  1171   96.461
+1128 KEYANO                                     14     2     0  1407  1222   96.442
+1129 SOUTHERN-NEW ORLEANS                        3    13     0  1055  1273   96.432
+1130 EASTERN U.                                  4     6     0   676   730   96.426
+1131 WESLEY DE                                   5     7     0   960  1002   96.420
+1132 PACIFIC OR                                  3     7     0  1007  1131   96.416
+1133 NC WESLEYAN                                 5     7     0   881   922   96.407
+1134 BIRMINGHAM-SOUTHERN                         4     9     0  1049  1121   96.399
+1135 LIFE PACIFIC                                4    10     0   979  1189   96.369
+1136 SUL ROSS ST                                 5     6     0   927   935   96.355
+1137 COLBY-SAWYER                                5     3     0   684   648   96.350
+1138 OGLETHORPE                                  6     6     0   848   850   96.340
+1139 U OF NEW ENGLAND                            6     4     0   830   804   96.339
+1140 OUR LADY OF THE LAKE                        4    12     0  1250  1462   96.338
+1141 SPRING HILL                                 2    12     0   996  1277   96.336
+1142 TAMU-INT'L                                  2    10     0   761   905   96.313
+1143 COL. JEAN-DE-BRÉBEUF                        9     2     0   898   735   96.292
+1144 ST ELIZABETH                                6     4     0   692   755   96.280
+1145 SHERIDAN                                    7     3     0   938   871   96.273
+1146 MCMURRY                                     4     8     0   920   948   96.267
+1147 MORRISVILLE ST                              3     6     0   621   658   96.260
+1148 OHIO CHRISTIAN                              3    10     0   959  1077   96.213
+1149 CONCORDIA NY                                1    11     0   784  1034   96.196
+1150 OTTERBEIN                                   3     7     0   631   698   96.194
+1151 WALLA WALLA                                 3    12     0  1009  1293   96.184
+1152 OLD WESTBURY                                4     6     0   748   788   96.173
+1153 LOCK HAVEN                                  4     5     0   722   644   96.162
+1154 COAST GUARD                                 4     5     0   680   700   96.152
+1155 DENISON                                     3     8     0   708   783   96.149
+1156 ASBURY                                      4     9     0  1097  1078   96.128
+1157 ALGOMA                                      3    12     0  1046  1359   96.123
+1158 HEIDELBERG                                  2     8     0   640   703   96.123
+1159 BLUEFIELD VA                                6     9     0  1101  1140   96.120
+1160 GENEVA                                      5     6     0   779   803   96.092
+1161 MULTNOMAH U.                                6     8     0  1378  1436   96.085
+1162 KEAN                                        2     9     0   748   868   96.082
+1163 SUNY DELHI                                  7     4     0   915   840   96.073
+1164 WALDORF                                     4    11     0  1073  1240   96.072
+1165 PACIFIC UNION                               2    12     0   985  1243   96.064
+1166 CATHOLIC                                    3     8     0   690   778   96.064
+1167 SKIDMORE                                    3     6     0   551   604   96.054
+1168 SAIT                                        9     6     0  1246  1288   96.051
+1169 STATEN ISLAND                               4     7     0   778   948   96.047
+1170 BETHESDA                                    2    16     0  1199  1593   96.036
+1171 UPR-BAYAMÓN                                 1     6     0   441   544   96.023
+1172 FISHER                                      6     6     0   843   844   96.004
+1173 RHODES                                      3     8     0   793   915   95.996
+1174 EVERGREEN ST                                3    11     0   990  1104   95.986
+1175 EASTERN NAZARENE                            3     7     0   753   794   95.985
+1176 RUTGERS-CAMDEN                              4     5     0   633   679   95.974
+1177 DICKINSON ST                                3    13     0  1212  1349   95.965
+1178 PENN ST-GTR ALLEGHENY                       8     3     0   827   758   95.962
+1179 DOANE                                       4    12     0  1121  1230   95.957
+1180 UC-SANTA CRUZ                               5    11     0  1055  1159   95.946
+1181 MIDWAY                                      4     8     0   851   978   95.930
+1182 ROCHESTER TECH                              4     3     0   521   501   95.923
+1183 PLYMOUTH ST                                 5     4     0   737   703   95.913
+1184 TEXAS LUTHERAN                              5     7     0   775   873   95.906
+1185 THOMAS ME                                   6     5     0   824   846   95.900
+1186 ST MARY'S MD                                3    10     0   899   982   95.900
+1187 VANCOUVER ISLAND                            8     4     0  1026   985   95.893
+1188 FRANCISCAN                                  4     7     0   766   843   95.891
+1189 NORTHERN NEW MEXICO                         3    15     0  1217  1456   95.866
+1190 SUNY POLY                                   3     6     0   631   668   95.860
+1191 MANCHESTER                                  3     8     0   816   903   95.840
+1192 DOMINICAN IL                                5     5     0   773   791   95.788
+1193 CENTRAL IA                                  4     7     0  1010  1039   95.783
+1194 U SCIENCES PHILA                            2     9     0   732   854   95.781
+1195 CHAMPION CHRISTIAN                          4    11     0  1120  1332   95.780
+1196 PENN ST-WILKES-BARRE                        9     2     0   824   726   95.778
+1197 GENESEO ST                                  3     5     0   539   532   95.776
+1198 PAUL QUINN                                  2    14     0  1141  1422   95.765
+1199 DELAWARE VALLEY                             4     5     0   709   705   95.753
+1200 BRANDON                                     2    12     0  1083  1233   95.746
+1201 LEHMAN                                      6     5     0   873   863   95.728
+1202 NIPISSING                                   4    14     0  1223  1530   95.717
+1203 UNBC                                        4    14     0  1292  1582   95.706
+1204 SOUTHERN MAINE                              5     6     0   780   826   95.690
+1205 FANSHAWE                                   11     4     0  1288  1243   95.653
+1206 CAMP U-HARRODSBURG                          4     7     0   872  1002   95.647
+1207 BRESCIA                                     4    13     0  1308  1567   95.642
+1208 FDU-FLORHAM                                 5     6     0   782   848   95.631
+1209 LAGRANGE                                    2     8     0   828   891   95.584
+1210 GUSTAVUS ADOLPHUS                           3     7     0   734   792   95.557
+1211 JOHNSON & WALES FL                          4    10     0  1071  1212   95.539
+1212 REDEEMER                                    7     5     0  1047  1031   95.522
+1213 OLIVET                                      2     9     0   782   921   95.515
+1214 TRINITY INT'L                               3     9     0   950  1038   95.509
+1215 WILLIAM PEACE                               2     8     0   753   876   95.500
+1216 NYIT                                        1    12     0   870  1028   95.495
+1217 SCHREINER                                   2     8     0   731   838   95.495
+1218 CHESTNUT HILL                               2    10     0   870  1058   95.492
+1219 NEW PALTZ ST                                4     5     0   664   707   95.483
+1220 OAKWOOD                                     1    12     0   791   997   95.482
+1221 MARYWOOD                                    5     6     0   831   881   95.481
+1222 NEBRASKA CHRISTIAN                          9     8     0  1214  1314   95.477
+1223 CENTENARY NJ                                5     6     0   952   980   95.473
+1224 ST CLAIR                                   12     5     0  1486  1437   95.472
+1225 GROVE CITY                                  4     6     0   713   688   95.469
+1226 PAINE                                       1     9     0   607   810   95.456
+1227 LUTHER                                      4     8     0   847   971   95.450
+1228 UW-STOUT                                    4     8     0   981  1058   95.446
+1229 SUNY CANTON                                 5     7     0   837   847   95.433
+1230 CLARKSON                                    3     6     0   622   691   95.427
+1231 TRINITY TX                                  2     8     0   747   881   95.422
+1232 LEBANON VALLEY                              3     7     0   662   761   95.400
+1233 SHENANDOAH                                  4     8     0   805   918   95.382
+1234 WILLIAMS BAPTIST                            4    10     0   966  1076   95.374
+1235 HASKELL                                     6    10     0  1081  1209   95.337
+1236 NOTRE DAME OH                               2     9     0   875   910   95.319
+1237 BLACKBURN                                   3     7     0   755   868   95.318
+1238 GREENVILLE                                  3     9     0  1438  1574   95.289
+1239 TRINITY CHRISTIAN                           5    11     0  1166  1276   95.282
+1240 WORCESTER ST                                3     6     0   604   700   95.230
+1241 ST JOSEPH'S LI                              4     4     0   599   587   95.224
+1242 U OF THE VIRGIN ISLANDS                     4     8     0   839  1008   95.208
+1243 CAIRN                                       5     5     0   842   848   95.204
+1244 ST JOSEPH'S ME                              3     6     0   702   783   95.198
+1245 MASSACHUSETTS COLL                          6     4     0   808   781   95.180
+1246 CENTRAL METHODIST                           3    10     0   921  1023   95.169
+1247 TRUETT-MCCONNELL                            5     9     0  1005  1190   95.155
+1248 MOUNT ALOYSIUS                              4     6     0   626   667   95.155
+1249 OHIO U-EASTERN                              0     2     0   135   274   95.139
+1250 BEREA                                       5     5     0   792   828   95.131
+1251 WESTCLIFF                                   2    18     0  1295  1629   95.130
+1252 UPR-RIO PIEDRAS                             0     2     0   103   162   95.128
+1253 CLINTON COLLEGE                             3     1     0   360   327   95.117
+1254 LOYALIST                                    8     2     0   871   765   95.111
+1255 SARAH LAWRENCE                              4     4     0   663   636   95.094
+1256 MISERICORDIA                                3     9     0   748   983   95.091
+1257 MIAMI-HAMILTON                              2     6     0   618   757   95.064
+1258 GRAND VIEW                                  3     9     0   815   942   95.063
+1259 MT ST VINCENT NY                            3     5     0   552   620   95.040
+1260 WILBERFORCE                                 4    10     0  1110  1206   95.033
+1261 GOSHEN                                      4    13     0  1216  1406   95.010
+1262 JARVIS CHRISTIAN                            1    13     0  1003  1221   94.983
+1263 ST SCHOLASTICA                              4     8     0   896   967   94.958
+1264 KENTUCKY CHRISTIAN                          3    15     0  1360  1634   94.935
+1265 THIEL                                       2     7     0   588   768   94.935
+1266 EAST-WEST                                   4    17     0  1573  1946   94.910
+1267 MILLIKIN                                    2     9     0   729   875   94.898
+1268 ST ANDREWS                                  3    11     0  1006  1121   94.892
+1269 BRIDGEWATER ST MA                           2     8     0   796   853   94.838
+1270 BELOIT                                      2     7     0   644   727   94.827
+1271 LASELL                                      2     9     0   806   939   94.818
+1272 PIEDMONT INT'L                              1     9     0   688   830   94.786
+1273 EDGEWOOD                                    2     9     0   781   860   94.763
+1274 MEDAILLE                                    4     7     0   904   880   94.762
+1275 SALVE REGINA                                2     7     0   719   773   94.748
+1276 FISK                                        2    14     0  1119  1291   94.725
+1277 HOLLAND                                     7     3     0   815   725   94.702
+1278 MACALESTER                                  4     6     0   660   733   94.681
+1279 REINHARDT                                   3    12     0   933  1160   94.628
+1280 VERMONT TECH                                9     5     0  1267  1138   94.607
+1281 CENTRAL MAINE CC                           11     2     0  1057   867   94.576
+1282 JUDSON IL                                   2    14     0  1140  1344   94.568
+1283 FONTBONNE                                   4     8     0   946  1076   94.566
+1284 VALLEY CITY ST                              3    12     0  1099  1211   94.564
+1285 CROWLEY'S RIDGE                             4     9     0   978  1099   94.563
+1286 CABRINI                                     3     7     0   765   863   94.531
+1287 ILLINOIS COLLEGE                            3     8     0   794   834   94.531
+1288 SIMMONS KY                                  2    10     0   796   960   94.526
+1289 KENT ST-TUSCARAWAS                          4     8     0   982  1003   94.519
+1290 PENN ST-YORK                                4     4     0   563   518   94.488
+1291 WESTMINSTER MO                              3     8     0   886  1073   94.474
+1292 AURORA                                      3     8     0   881   925   94.471
+1293 CARVER                                      1    19     0  1220  1938   94.443
+1294 COLORADO COLLEGE                            2     8     0   675   776   94.438
+1295 CAL MIRAMAR                                 0     3     0   210   311   94.430
+1296 ROCKFORD                                    5     6     0   814   899   94.420
+1297 TRINITY WESTERN                             3     9     0  1085  1164   94.411
+1298 CULVER-STOCKTON                             3    12     0  1008  1224   94.409
+1299 HUMBER                                      9     8     0  1468  1386   94.409
+1300 OAKLAND CITY                                4    11     0  1229  1497   94.397
+1301 PLATTSBURGH ST                              3     4     0   523   533   94.389
+1302 WILLAMETTE                                  1    10     0   756  1013   94.384
+1303 BAPTIST BIBLE MO                            6    12     0  1362  1707   94.371
+1304 STERLING                                    3    14     0  1290  1505   94.364
+1305 MILW ENGINEERING                            4     6     0   746   790   94.340
+1306 TABOR                                       2    13     0  1006  1191   94.320
+1307 COL. MONTMORENCY                            5     2     0   579   505   94.232
+1308 CLARK MA                                    5     5     0   754   776   94.226
+1309 HANNIBAL-LAGRANGE                           2    13     0   911  1175   94.202
+1310 SOUTHERN MAINE CC                           9     2     0   797   666   94.200
+1311 CTR CHR COL BIBLE MO                        6     9     0  1112  1233   94.178
+1312 NEW HAMPSHIRE TECH                          8     2     0   916   697   94.173
+1313 BROOKLYN                                    1     7     0   545   596   94.161
+1314 EMORY & HENRY                               3     9     0   923  1063   94.142
+1315 HOLY FAMILY WI                              6    11     0  1266  1349   94.078
+1316 ANNA MARIA                                  3     8     0   800   931   94.078
+1317 SETON HILL                                  1     7     0   567   652   94.077
+1318 KNOX                                        4     5     0   644   684   94.058
+1319 PENN ST-BEAVER                              6     6     0   780   822   94.042
+1320 AMBROSE                                    11     6     0  1514  1361   94.042
+1321 ELMS                                        3     8     0   793   925   94.029
+1322 ELIZABETHTOWN                               3     5     0   587   630   94.019
+1323 OK PANHANDLE ST                             3     8     0   778   949   93.983
+1324 ROSEMONT                                    3     9     0   905  1019   93.981
+1325 WEST COAST BAPTIST                          2    13     0  1029  1456   93.980
+1326 NORTHWESTERN OH                             2    13     0  1086  1326   93.959
+1327 RED RIVER                                   6     1     0   621   503   93.958
+1328 EASTERN MENNONITE                           2    10     0   774   939   93.943
+1329 CROWN MN                                    3     9     0   902  1059   93.941
+1330 PENN ST-SCHUYLKILL                          7     7     0   962  1022   93.927
+1331 U OF THE BAHAMAS                            0     1     0   102   110   93.902
+1332 UBC-OKANAGAN                                2    10     0   822  1117   93.895
+1333 BRY & STRAT-ALBANY                          6     5     0   840   773   93.886
+1334 MACMURRAY                                   4     7     0   834   910   93.883
+1335 CONCORDIA-MOORHEAD                          2    10     0   732   927   93.858
+1336 SAVANNAH ST                                 1     7     0   613   674   93.829
+1337 MISS U FOR WOMEN                            2    12     0   951  1109   93.821
+1338 MERCHANT MARINE                             4     7     0   663   727   93.815
+1339 AUGUSTANA AB                               11     8     0  1586  1569   93.786
+1340 WEBSTER                                     3     7     0   706   747   93.777
+1341 UPR-MAYAGÜEZ                                0     6     0   384   537   93.739
+1342 JOHNSON FL                                  2    11     0   879  1157   93.730
+1343 CALUMET-ST JOSEPH                           3    11     0   999  1101   93.672
+1344 BARCLAY                                     6     8     0  1122  1215   93.655
+1345 HOWARD PAYNE                                1    11     0   800  1101   93.633
+1346 CONNECTICUT COLLEGE                         3     6     0   589   668   93.625
+1347 IMMACULATA                                  3     7     0   738   788   93.614
+1348 LINDENWOOD-BELLEVILLE                       1    12     0   837  1024   93.611
+1349 VILLA MARIA                                 4     5     0   727   718   93.603
+1350 BRY & STRAT-GREECE                          3     4     0   594   599   93.552
+1351 PENN ST-FAYETTE                             5     7     0   808   849   93.546
+1352 ST LAWRENCE NY                              1     7     0   605   707   93.532
+1353 IOWA WESLEYAN                               4     8     0   888  1037   93.465
+1354 ST LOUIS PHARMACY                           1    11     0   785   989   93.461
+1355 HUSSON                                      4     9     0   953  1076   93.426
+1356 RUST                                        1    13     0   955  1175   93.393
+1357 DAKOTA ST                                   3    13     0  1087  1258   93.387
+1358 FREDONIA ST                                 3     4     0   503   529   93.357
+1359 ANDREWS                                     3    10     0   874   996   93.353
+1360 MOHAWK                                      5     5     0   895   916   93.334
+1361 WRIGHT ST-LAKE                              4    13     0  1325  1709   93.329
+1362 CALVARY                                     5     5     0   768   863   93.326
+1363 MID-ATLANTIC CHR                            3     7     0   694   904   93.312
+1364 ARLINGTON BAPTIST                           0    17     0  1058  1599   93.306
+1365 SOUTHEASTERN BAPTIST                        2    18     0  1409  1969   93.288
+1366 VASSAR                                      3     6     0   641   670   93.278
+1367 MARIAN WI                                   2     8     0   683   778   93.258
+1368 BETHANY WV                                  1    10     0   676   977   93.218
+1369 HAMLINE                                     1     8     0   594   701   93.197
+1370 MT ST MARY NY                               1     6     0   445   513   93.184
+1371 JUNIATA                                     3     9     0   711   791   93.183
+1372 ROOSEVELT                                   2    12     0   895  1058   93.165
+1373 SALEM ST                                    1    10     0   822   998   93.158
+1374 CLARK ST CC                                 0     2     0   173   193   93.115
+1375 MINN-MORRIS                                 3     9     0   914   997   93.039
+1376 DICKINSON                                   1     8     0   576   694   93.033
+1377 PENN ST-SHENANGO                            3     9     0   857   906   93.015
+1378 ECCLESIA                                    2    15     0  1242  1735   92.996
+1379 PENSACOLA CHRISTIAN                         3    12     0  1116  1415   92.975
+1380 SUNY MARITIME                               4     4     0   572   601   92.973
+1381 MCDANIEL                                    4     6     0   603   636   92.963
+1382 TOCCOA FALLS                                4    17     0  1513  1876   92.929
+1383 WELCH                                       6     6     0  1046  1048   92.915
+1384 KEYSTONE                                    4     6     0   812   857   92.908
+1385 BREVARD                                     1    10     0   710   861   92.869
+1386 MITCHELL                                    2    10     0   945  1023   92.867
+1387 ALFRED ST                                   3     6     0   640   719   92.856
+1388 OZARK CHRISTIAN                             4    11     0  1168  1365   92.846
+1389 N VERMONT-LYNDON                            4     7     0   966  1079   92.844
+1390 LAKELAND AB                                 9     6     0  1226  1242   92.843
+1391 NORTH PARK                                  2     9     0   720   818   92.786
+1392 YELLOWSTONE CHRISTIAN                       0    14     0   834  1245   92.785
+1393 WARREN WILSON                               1     8     0   651   811   92.768
+1394 DEAN                                        3     8     0   894   939   92.757
+1395 LANCASTER BIBLE                             1     6     0   517   597   92.754
+1396 WILSON COLLEGE                              3     9     0   802   945   92.749
+1397 ST MARY'S AB                                9     8     0  1513  1331   92.671
+1398 NORTHLAND COLLEGE                           3     9     0   783  1000   92.670
+1399 MAINE-PRESQUE ISLE                          5     6     0   857   849   92.668
+1400 CHAMPLAIN ST-LAMBERT                        5     6     0   765   884   92.636
+1401 SISSETON WAHPETON                           3     0     0   314   237   92.615
+1402 CAL LUTHERAN                                1    10     0   639   915   92.585
+1403 APPRENTICE                                  2     7     0   627   735   92.572
+1404 CONCORDIA AB                                7     7     0  1110  1119   92.569
+1405 CAMOSUN                                     3     5     0   601   673   92.565
+1406 NORTH AMERICAN U.                           0     1     0    70   124   92.534
+1407 GEORGIAN                                    6     4     0   732   785   92.526
+1408 NAIT                                       10     6     0  1375  1324   92.463
+1409 PORTLAND BIBLE                              0    14     0   756  1283   92.456
+1410 VALLEY FORGE                                5     4     0   832   881   92.420
+1411 GALLAUDET                                   1     8     0   544   707   92.402
+1412 NEW HOPE CHRISTIAN                          1    10     0   814  1109   92.365
+1413 YORK NY                                     3     8     0   839   880   92.362
+1414 ONTARIO TECH                                0    15     0   993  1382   92.358
+1415 MIAMI-MIDDLETOWN                            0     5     0   302   584   92.350
+1416 MAINE-FORT KENT                             3    12     0   957  1260   92.349
+1417 CAMP U-SOMERSET                             3     9     0  1034  1175   92.347
+1418 LAMBTON                                     5     8     0  1074  1157   92.318
+1419 ST THOMAS NB                                4     4     0   581   609   92.303
+1420 AKRON-WAYNE                                 0     5     0   300   452   92.293
+1421 JOHNSON & WALES CO                          2    10     0   739   983   92.291
+1422 KEUKA                                       1     6     0   532   592   92.275
+1423 PINE MANOR                                  2    11     0   919  1196   92.263
+1424 BRIERCREST                                  5     7     0  1052  1057   92.256
+1425 SOUTHERN VIRGINIA                           1    13     0  1011  1212   92.241
+1426 KANSAS CHRISTIAN                            6     9     0  1220  1258   92.201
+1427 SPALDING                                    1     9     0   612   791   92.173
+1428 COL. DE SAINTE-FOY                          4     4     0   597   580   92.157
+1429 NIAGARA ON                                  3     6     0   712   677   92.148
+1430 MOUNT ALLISON                               6     5     0   899   806   92.140
+1431 N VERMONT-JOHNSON                           3     8     0   835   878   92.127
+1432 CENTENNIAL                                  5     4     0   720   647   92.119
+1433 JOHN ABBOTT                                 5     5     1   782   826   92.099
+1434 OKANAGAN                                    5     8     0  1046  1131   92.079
+1435 COL. ÉD.-MONTPETIT                          4     4     0   604   579   92.023
+1436 MACEWAN                                     1    12     0   978  1142   91.976
+1437 SUNY-ESF                                    5     2     0   564   540   91.926
+1438 MORRIS SC                                   0    10     0   745   942   91.894
+1439 CURRY                                       3     8     0   802   935   91.871
+1440 LANGARA                                     2     6     0   653   750   91.846
+1441 RED DEER                                    7     8     0  1308  1274   91.831
+1442 PENN ST-DUBOIS                              3     6     0   674   719   91.812
+1443 BACONE                                      0    15     0  1071  1574   91.784
+1444 OHIO U-LANCASTER                            0     5     0   336   502   91.712
+1445 CARLOW                                      0    14     0   940  1358   91.649
+1446 PRESENTATION                                3    13     0  1074  1477   91.646
+1447 RIVIER                                      2     7     0   615   755   91.639
+1448 DAWSON                                      4     6     0   705   735   91.609
+1449 LA VERNE                                    0     9     0   613   741   91.572
+1450 FINLANDIA                                   0    12     0   890  1293   91.491
+1451 BARD                                        0     8     0   495   661   91.464
+1452 PRINCIPIA                                   1     8     0   690   798   91.463
+1453 MARYVILLE TN                                0    10     0   711   874   91.444
+1454 MAINE MARITIME                              2     7     0   566   718   91.399
+1455 PENN TECH                                   2     6     0   639   714   91.375
+1456 PENN ST-HAZLETON                            3     6     0   591   648   91.366
+1457 CAZENOVIA                                   2     6     0   669   762   91.355
+1458 CRANDALL                                    4     3     0   570   499   91.318
+1459 REGENT                                      0     9     0   517   751   91.260
+1460 WAYNESBURG                                  0    11     0   606   863   91.245
+1461 TRINITY BAPTIST                             0    10     0   528   884   91.231
+1462 NORTH CENTRAL MN                            3    10     0  1036  1067   91.227
+1463 MARTIN LUTHER                               2     9     0   775   881   91.193
+1464 WELLS                                       2     8     0   699   758   91.118
+1465 PRAIRIE COLLEGE                             3     4     0   619   577   91.083
+1466 ST LAWRENCE ON                              4     7     0   827   823   91.071
+1467 GOUCHER                                     1    11     0   627   946   91.060
+1468 SALISH KOOTENAI                             0     4     0   250   527   91.049
+1469 WILLIAMSON TRADE                            2     6     0   482   548   91.039
+1470 CONESTOGA                                   4     7     0   881   950   91.037
+1471 SAGU AMER IND                               0    12     0   834  1292   91.014
+1472 LINCOLN CHRISTIAN                           3    11     0  1050  1122   91.000
+1473 FAITH BAPTIST BIBLE                         5     8     0  1015  1113   90.974
+1474 BERKELEY-NY                                 4     7     0   912   921   90.959
+1475 MARANATHA BAPTIST                           2     7     0   576   760   90.930
+1476 OHIO U-CHILLICOTHE                          0    11     0   585  1144   90.799
+1477 PENN ST-BRANDYWINE                          4     7     0   916   933   90.785
+1478 MEDGAR EVERS                                3     9     0  1024  1203   90.723
+1479 CLARKS SUMMIT                               2    11     0   905  1079   90.703
+1480 BOYCE                                       1    10     0   783  1106   90.573
+1481 NORWICH                                     2     7     0   625   710   90.548
+1482 UT-MISSISSAUGA                              4     7     0   834   922   90.546
+1483 PROVIDENCE MB                               3    10     0   993  1257   90.528
+1484 TURTLE MOUNTAIN                             1     1     0   163   174   90.525
+1485 DALLAS CHRISTIAN                            1    15     0  1073  1694   90.411
+1486 CASTLETON                                   1     8     0   538   669   90.367
+1487 RHEMA BIBLE                                 1     1     0   187   155   90.340
+1488 REGIS MA                                    1     6     0   541   596   90.300
+1489 PENN ST-WORTH SCRANTON                      3     9     0   995  1115   90.250
+1490 D'YOUVILLE                                  1    11     0   915  1170   90.245
+1491 LESLEY                                      0    10     0   638  1010   90.242
+1492 PAUL SMITH'S                                5     8     0   909   948   90.235
+1493 HUNTER                                      1     8     0   602   692   90.206
+1494 PENN ST-BERKS                               0     8     0   589   736   90.198
+1495 CAPILANO                                    2     8     0   756   869   90.188
+1496 FRAMINGHAM ST                               1    10     0   765   897   90.144
+1497 BRYN ATHYN                                  0    14     0   847  1126   90.079
+1498 NORTHWEST INDIAN                            0    15     0   898  1703   89.986
+1499 PENN ST-NEW KENSINGTON                      1     7     0   497   615   89.910
+1500 HOUGHTON                                    1     9     0   688   826   89.859
+1501 LA CITÉ                                     4     9     0   975  1055   89.666
+1502 PITT-BRADFORD                               1     8     0   647   795   89.660
+1503 MANHATTAN CHRISTIAN                         1    14     0  1069  1497   89.596
+1504 CCNY                                        0    10     0   682   803   89.558
+1505 CHEYNEY                                     0    10     0   553   995   89.519
+1506 DURHAM                                      3     7     0   734   809   89.511
+1507 ALBANY PHARMACY                             5     5     0   763   740   89.440
+1508 ALGONQUIN                                   3    10     1  1087  1211   89.432
+1509 BRY & STRAT-LIVERPOOL                       2     8     0   860   880   89.422
+1510 MEDICINE HAT                                2    11     0   934  1178   89.364
+1511 TRINITY FL                                  2     7     0   650   749   89.189
+1512 MAINE-MACHIAS                               3    10     0   954  1023   89.187
+1513 MT ST-VINCENT NS                            2     4     0   444   444   89.123
+1514 ELMIRA                                      0     8     0   469   649   89.067
+1515 BURMAN                                      1     4     0   418   510   89.010
+1516 FLORIDA GATEWAY                             1     2     0   205   209   88.901
+1517 KING'S UNIV COLL                            3    11     0  1027  1125   88.862
+1518 MAINE-AUGUSTA                               4     9     0  1104  1147   88.643
+1519 CROWN TN                                    2     5     0   639   718   88.620
+1520 GREAT BAY CC                                5     7     0  1018   886   88.569
+1521 FLBS                                        3     3     0   491   467   88.422
+1522 CAROLINA CHRISTIAN                          0     4     0   290   420   88.397
+1523 U OF KING'S COLL                            2     4     0   448   532   88.221
+1524 COLUMBIA BIBLE                              1     6     0   520   668   88.215
+1525 AHUNTSIC                                    1     7     0   550   651   88.171
+1526 SAULT                                       1    11     0   805  1029   88.071
+1527 MOODY BIBLE                                 1     7     0   526   722   87.975
+1528 OLDS                                        4    13     0  1324  1629   87.929
+1529 AMERICAN NATIONAL                           1     1     0   146   145   87.440
+1530 CANADORE                                    0    11     0   771   938   87.366
+1531 OHIO ST-MANSFIELD                           0     4     0   170   434   87.363
+1532 SW ADVENTIST                                0     8     0   476   836   87.336
+1533 PENN ST-LEHIGH VALLEY                       0    10     0   614   852   87.249
+1534 TRINITY BIBLE                               2     6     0   667   749   86.957
+1535 GRANDE PRAIRIE                              1    16     0  1247  1557   86.924
+1536 SOUTHERN ST OH                              0     7     0   498   699   86.799
+1537 FIVE TOWNS                                  5     6     0   852   894   86.775
+1538 PRATT INSTITUTE                             1     6     0   523   597   86.686
+1539 OUTAOUAIS                                   0     8     0   607   688   86.562
+1540 UNB-SAINT JOHN                              1     8     0   586   800   86.556
+1541 CHRISTENDOM                                 0     7     0   285   635   86.452
+1542 OGLALA LAKOTA                               0     1     0    72    96   86.272
+1543 APPALACHIAN BIBLE                           0     5     0   317   510   85.631
+1544 UNION NE                                    0     8     0   534   792   85.614
+1545 FLEMING                                     0    10     0   688   949   85.460
+1546 OAK HILLS CHRISTIAN                         0    13     0   667  1451   85.234
+1547 EMMAUS BIBLE                                0     9     0   605  1092   83.399
+1548 VIRGINIA U-LYNCHBURG                        0     2     0   134   180   83.374
+1549 VAUGHN                                      4     3     0   504   467   83.184
+1550 CANADIAN MENNONITE                          0     9     0   628   885   82.927
+1551 KING'S NY                                   3     5     0   497   601   82.752
+1552 COOPER UNION                                1     1     0   122   122   81.765
+1553 UNITY                                       0    11     0   564  1273   81.719
+1554 DAVIS COLLEGE                               0     7     0   394   598   81.448
+1555 CULINARY INSTITUTE                          2     3     0   305   285   81.089
+1556 HAMPSHIRE                                   0     1     0    53   119   78.837
+1557 WEBB INSTITUTE                              0     5     0   145   387   72.722
